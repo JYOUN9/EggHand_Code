@@ -16,7 +16,7 @@ Official implementation of EggHand. The model forecasts 3D hand motion from egoc
 
 ## Installation
 
-Linux, Python 3.10 and a CUDA GPU with BF16/TF32 support. The reference environment uses PyTorch 2.5.1, CUDA 12.4 and an NVIDIA L40S (48 GB). Run all commands from the repository root.
+Linux, Python 3.10 and a CUDA GPU with BF16/TF32 support. The reference environment uses PyTorch 2.5.1, CUDA 12.4 and an NVIDIA H200 and L40s. Run all commands from the repository root.
 
 ```bash
 conda create -n egghand python=3.10.19 -y
