@@ -1,0 +1,16 @@
+{
+  "repository": "masashi-hatano/EgoH4",
+  "revision": "67d849d62ae7cbe1fc45bf584a309d6231f0aaa2",
+  "archive": "ego-exo4d.zip",
+  "archive_sha256": "9276c8b2579ba4d54089a8cb3510ba33a52ffc3f4887ba2f0011cf400e439d62",
+  "files": {
+    "ego_pose_gt_anno_val_combined.json": {
+      "archive_path": "egoexo4d/gt_output/annotation/manual/ego_pose_gt_anno_val_combined.json",
+      "sha256": "861081cf1a0f8a6bee7aaaace0109582d90020aeae7d2517320aee95bb14a105"
+    },
+    "ego_pose_gt_anno_train_combined.json": {
+      "archive_path": "egoexo4d/gt_output/annotation/manual/ego_pose_gt_anno_train_combined.json",
+      "sha256": "631e4ca066c44be7e1ebd7a5a1bd52a478dbec8a34e8adbf0c244b22b99b51ca"
+    }
+  }
+}

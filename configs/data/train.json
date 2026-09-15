@@ -1,0 +1,6781 @@
+{
+  "tasks": [
+    {
+      "task_index": 0,
+      "task": "Install a Wheel"
+    },
+    {
+      "task_index": 1,
+      "task": "Remove a Wheel"
+    },
+    {
+      "task_index": 2,
+      "task": "First Aid - CPR"
+    },
+    {
+      "task_index": 3,
+      "task": "Playing Violin - Suzuki Books"
+    },
+    {
+      "task_index": 4,
+      "task": "Covid-19 Rapid Antigen Test"
+    },
+    {
+      "task_index": 5,
+      "task": "Cooking an Omelet"
+    },
+    {
+      "task_index": 6,
+      "task": "Making Milk Tea"
+    },
+    {
+      "task_index": 7,
+      "task": "Cooking Noodles"
+    },
+    {
+      "task_index": 8,
+      "task": "Cooking Tomato & Eggs"
+    },
+    {
+      "task_index": 9,
+      "task": "Making Sesame-Ginger Asian Salad"
+    },
+    {
+      "task_index": 10,
+      "task": "Playing Piano - Scales and Arpeggios"
+    },
+    {
+      "task_index": 11,
+      "task": "Clean and Lubricate the Chain"
+    },
+    {
+      "task_index": 12,
+      "task": "Fix a Flat Tire - Replace a Bike Tube"
+    },
+    {
+      "task_index": 13,
+      "task": "Playing Piano - Suzuki Books"
+    },
+    {
+      "task_index": 14,
+      "task": "Playing Guitar - Suzuki Books"
+    },
+    {
+      "task_index": 15,
+      "task": "Playing Violin - Scales and Arpeggios"
+    },
+    {
+      "task_index": 16,
+      "task": "Playing Piano - Freeplaying"
+    },
+    {
+      "task_index": 17,
+      "task": "Making Cucumber & Tomato Salad"
+    },
+    {
+      "task_index": 18,
+      "task": "Playing Piano"
+    },
+    {
+      "task_index": 19,
+      "task": "Making Greek Salad"
+    },
+    {
+      "task_index": 20,
+      "task": "Playing Guitar - Scales and Arpeggios"
+    },
+    {
+      "task_index": 21,
+      "task": "Cooking Scrambled Eggs"
+    },
+    {
+      "task_index": 22,
+      "task": "Playing Violin"
+    },
+    {
+      "task_index": 23,
+      "task": "Playing Guitar"
+    },
+    {
+      "task_index": 24,
+      "task": "Making Coffee latte"
+    },
+    {
+      "task_index": 25,
+      "task": "Playing Guitar - Freeplaying"
+    }
+  ],
+  "episodes": [
+    {
+      "episode_index": 0,
+      "take_uid": "b2a184be-1b3c-4e0e-b297-d2a3a95e3e43",
+      "start_frame": 3929,
+      "end_frame": 4229,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bike axle firmly."
+      ]
+    },
+    {
+      "episode_index": 1,
+      "take_uid": "aa27937e-3751-4746-ab72-7f58a46b1c96",
+      "start_frame": 831,
+      "end_frame": 1131,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Adjust the bicycle seat height upwards."
+      ]
+    },
+    {
+      "episode_index": 2,
+      "take_uid": "dd77aa6d-cbf6-4883-9bc5-bd6d7e0dcf91",
+      "start_frame": 138,
+      "end_frame": 267,
+      "length": 44,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the axle nut with the wrench in a clockwise direction."
+      ]
+    },
+    {
+      "episode_index": 3,
+      "take_uid": "dd77aa6d-cbf6-4883-9bc5-bd6d7e0dcf91",
+      "start_frame": 582,
+      "end_frame": 702,
+      "length": 41,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the axle nut on the rear wheel."
+      ]
+    },
+    {
+      "episode_index": 4,
+      "take_uid": "dd77aa6d-cbf6-4883-9bc5-bd6d7e0dcf91",
+      "start_frame": 791,
+      "end_frame": 800,
+      "length": 4,
+      "task_index": 1,
+      "tasks": [
+        "Adjust the rear derailleur by turning the tension screw clockwise."
+      ]
+    },
+    {
+      "episode_index": 5,
+      "take_uid": "9bd3f0f1-531c-47e1-be1c-2b4eae001bd5",
+      "start_frame": 150,
+      "end_frame": 345,
+      "length": 66,
+      "task_index": 2,
+      "tasks": [
+        "Perform chest compressions on the mannequin."
+      ]
+    },
+    {
+      "episode_index": 6,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 730,
+      "end_frame": 850,
+      "length": 41,
+      "task_index": 3,
+      "tasks": [
+        "Move the bow across the strings in a smooth, downward motion."
+      ]
+    },
+    {
+      "episode_index": 7,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 940,
+      "end_frame": 1081,
+      "length": 48,
+      "task_index": 3,
+      "tasks": [
+        "Draw the bow across the strings smoothly and consistently."
+      ]
+    },
+    {
+      "episode_index": 8,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 1137,
+      "end_frame": 1257,
+      "length": 41,
+      "task_index": 3,
+      "tasks": [
+        "Draw the bow across the strings upward quickly."
+      ]
+    },
+    {
+      "episode_index": 9,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 1265,
+      "end_frame": 1445,
+      "length": 61,
+      "task_index": 3,
+      "tasks": [
+        "Bow the string with a steady downward motion."
+      ]
+    },
+    {
+      "episode_index": 10,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 1662,
+      "end_frame": 1866,
+      "length": 69,
+      "task_index": 3,
+      "tasks": [
+        "Draw the bow across the strings of the cello slowly."
+      ]
+    },
+    {
+      "episode_index": 11,
+      "take_uid": "0bc47e29-e086-4726-b874-f89671366f06",
+      "start_frame": 1966,
+      "end_frame": 2077,
+      "length": 38,
+      "task_index": 3,
+      "tasks": [
+        "Bow the string smoothly, alternating between up and down strokes."
+      ]
+    },
+    {
+      "episode_index": 12,
+      "take_uid": "ea9149f5-4953-4f44-9712-e45ccb976568",
+      "start_frame": 5516,
+      "end_frame": 5639,
+      "length": 42,
+      "task_index": 4,
+      "tasks": [
+        "Open the test kit and remove the components carefully."
+      ]
+    },
+    {
+      "episode_index": 13,
+      "take_uid": "ea9149f5-4953-4f44-9712-e45ccb976568",
+      "start_frame": 5654,
+      "end_frame": 5816,
+      "length": 55,
+      "task_index": 4,
+      "tasks": [
+        "Position the test strip above the test kit and prepare to insert it."
+      ]
+    },
+    {
+      "episode_index": 14,
+      "take_uid": "3655a8a0-38fc-4be9-ab20-32448b48abb1",
+      "start_frame": 2805,
+      "end_frame": 3105,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Chop the green chili and mix it into the ingredients on the blue tray."
+      ]
+    },
+    {
+      "episode_index": 15,
+      "take_uid": "828f456b-54af-4a84-aea5-a8071fd1cae8",
+      "start_frame": 1990,
+      "end_frame": 2290,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 16,
+      "take_uid": "0cf0130a-2eed-49a9-8f66-8440e3aa387d",
+      "start_frame": 287,
+      "end_frame": 587,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 17,
+      "take_uid": "d9ce9305-d24f-4127-9d6d-e4d89e43f44b",
+      "start_frame": 3325,
+      "end_frame": 3622,
+      "length": 100,
+      "task_index": 0,
+      "tasks": [
+        "Align the wheel and secure it with the bolt."
+      ]
+    },
+    {
+      "episode_index": 18,
+      "take_uid": "6790fe08-7a63-4925-a60f-dd78bf9944ff",
+      "start_frame": 117,
+      "end_frame": 417,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Chop the green chili into small pieces."
+      ]
+    },
+    {
+      "episode_index": 19,
+      "take_uid": "4a10d608-6712-4f08-aa69-1cfd4541dd6c",
+      "start_frame": 344,
+      "end_frame": 644,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Move the bowl of salad to the sink."
+      ]
+    },
+    {
+      "episode_index": 20,
+      "take_uid": "847fbeab-dd68-4852-95f3-3a09f754f3b7",
+      "start_frame": 4422,
+      "end_frame": 4722,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Retrieve the bowl from the top shelf and bring it down to the counter."
+      ]
+    },
+    {
+      "episode_index": 21,
+      "take_uid": "5d4abe32-590d-470d-8fd1-4585833afaad",
+      "start_frame": 4324,
+      "end_frame": 4624,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Add the chopped vegetables to the mixing bowl."
+      ]
+    },
+    {
+      "episode_index": 22,
+      "take_uid": "c0049eef-6fb3-4383-9ab3-5e6b892cd843",
+      "start_frame": 4014,
+      "end_frame": 4314,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Insert the test device into the sample tube carefully."
+      ]
+    },
+    {
+      "episode_index": 23,
+      "take_uid": "be1eb1c1-a45f-4e8b-9ae2-3d8db0af7e59",
+      "start_frame": 1507,
+      "end_frame": 1807,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Crack the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 24,
+      "take_uid": "b016b093-27d8-4507-84d3-1905141bd715",
+      "start_frame": 3644,
+      "end_frame": 3944,
+      "length": 101,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys following the sheet music in front of you."
+      ]
+    },
+    {
+      "episode_index": 25,
+      "take_uid": "407f60e4-68b2-42df-84a9-3160398aaf10",
+      "start_frame": 3659,
+      "end_frame": 3959,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Chop the purple onion into small pieces."
+      ]
+    },
+    {
+      "episode_index": 26,
+      "take_uid": "6ba1dc31-7a08-4e92-aaad-5954bce6a7da",
+      "start_frame": 69,
+      "end_frame": 369,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bike using the tool."
+      ]
+    },
+    {
+      "episode_index": 27,
+      "take_uid": "67871694-a4c6-4c00-8bd7-fbd67898c381",
+      "start_frame": 55,
+      "end_frame": 355,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Remove the rear wheel from the bike frame."
+      ]
+    },
+    {
+      "episode_index": 28,
+      "take_uid": "2bb5ab9f-0fa9-4eeb-b550-9b7a9bffe3ee",
+      "start_frame": 2180,
+      "end_frame": 2480,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Insert the pink component into the white holder firmly."
+      ]
+    },
+    {
+      "episode_index": 29,
+      "take_uid": "e02bcacc-92af-4fe0-8c57-e42ff3f74dcf",
+      "start_frame": 2999,
+      "end_frame": 3299,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Place the sliced tomatoes evenly on the pan."
+      ]
+    },
+    {
+      "episode_index": 30,
+      "take_uid": "2f7b4f03-02fa-4d45-a686-0aa9f1dfd00a",
+      "start_frame": 180,
+      "end_frame": 480,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bike."
+      ]
+    },
+    {
+      "episode_index": 31,
+      "take_uid": "1ec6c280-a6df-4666-87ef-9da5a57e2925",
+      "start_frame": 3651,
+      "end_frame": 3951,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Inflate the bicycle tire to the specified pressure."
+      ]
+    },
+    {
+      "episode_index": 32,
+      "take_uid": "adf67490-c9f0-4771-810a-3c6b4007b3c8",
+      "start_frame": 1498,
+      "end_frame": 1795,
+      "length": 100,
+      "task_index": 5,
+      "tasks": [
+        "Pour the mixture from the bowl onto the heated pan."
+      ]
+    },
+    {
+      "episode_index": 33,
+      "take_uid": "281b1c72-71be-4745-9a21-3a24a02e3c6f",
+      "start_frame": 2180,
+      "end_frame": 2480,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Pour the spice from the container onto the plate."
+      ]
+    },
+    {
+      "episode_index": 34,
+      "take_uid": "fb733912-4a66-4821-9313-344628fd1154",
+      "start_frame": 160,
+      "end_frame": 268,
+      "length": 37,
+      "task_index": 6,
+      "tasks": [
+        "Open the red packet and pour its contents into the bowl."
+      ]
+    },
+    {
+      "episode_index": 35,
+      "take_uid": "fb733912-4a66-4821-9313-344628fd1154",
+      "start_frame": 286,
+      "end_frame": 286,
+      "length": 1,
+      "task_index": 6,
+      "tasks": [
+        "Slice the red chili pepper in half."
+      ]
+    },
+    {
+      "episode_index": 36,
+      "take_uid": "fb733912-4a66-4821-9313-344628fd1154",
+      "start_frame": 301,
+      "end_frame": 457,
+      "length": 53,
+      "task_index": 6,
+      "tasks": [
+        "Open the seasoning packet and pour its contents into the cup."
+      ]
+    },
+    {
+      "episode_index": 37,
+      "take_uid": "77d985cb-eff9-43ca-b5e2-e2d1433d0d4b",
+      "start_frame": 4969,
+      "end_frame": 5269,
+      "length": 101,
+      "task_index": 10,
+      "tasks": [
+        "Press the keys sequentially to play the piece on the piano."
+      ]
+    },
+    {
+      "episode_index": 38,
+      "take_uid": "1f4c44e1-4190-41ed-bb5e-4bb8c1dd4339",
+      "start_frame": 30,
+      "end_frame": 651,
+      "length": 208,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys smoothly in a slow tempo."
+      ]
+    },
+    {
+      "episode_index": 39,
+      "take_uid": "1f4c44e1-4190-41ed-bb5e-4bb8c1dd4339",
+      "start_frame": 692,
+      "end_frame": 812,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the notes on the piano starting from the left with a steady tempo."
+      ]
+    },
+    {
+      "episode_index": 40,
+      "take_uid": "1f4c44e1-4190-41ed-bb5e-4bb8c1dd4339",
+      "start_frame": 814,
+      "end_frame": 1234,
+      "length": 141,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys quickly and smoothly in a rhythmic pattern."
+      ]
+    },
+    {
+      "episode_index": 41,
+      "take_uid": "1f4c44e1-4190-41ed-bb5e-4bb8c1dd4339",
+      "start_frame": 1292,
+      "end_frame": 1298,
+      "length": 3,
+      "task_index": 13,
+      "tasks": [
+        "Play the middle C key and then quickly move to the E key."
+      ]
+    },
+    {
+      "episode_index": 42,
+      "take_uid": "586d90de-ac05-4262-89e0-292b8b315f39",
+      "start_frame": 3022,
+      "end_frame": 3322,
+      "length": 101,
+      "task_index": 14,
+      "tasks": [
+        "Adjust the camera angle to clearly view the sheet music on the stand."
+      ]
+    },
+    {
+      "episode_index": 43,
+      "take_uid": "1c000f43-c516-4552-8010-9055a49763d1",
+      "start_frame": 2661,
+      "end_frame": 2961,
+      "length": 101,
+      "task_index": 15,
+      "tasks": [
+        "Move the bow across the strings smoothly to play the violin."
+      ]
+    },
+    {
+      "episode_index": 44,
+      "take_uid": "eea5372d-3def-442b-9f3a-2b72f2d701fb",
+      "start_frame": 5004,
+      "end_frame": 5304,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the blue object and place it onto the testing card."
+      ]
+    },
+    {
+      "episode_index": 45,
+      "take_uid": "e57ffcd1-425a-484d-9ea2-0c073134ce31",
+      "start_frame": 1300,
+      "end_frame": 1600,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the brake cable tension by turning the adjuster counterclockwise."
+      ]
+    },
+    {
+      "episode_index": 46,
+      "take_uid": "fa1b7aec-f252-42c7-b362-443f11e87fdf",
+      "start_frame": 685,
+      "end_frame": 874,
+      "length": 64,
+      "task_index": 16,
+      "tasks": [
+        "Play the sequence on the piano smoothly."
+      ]
+    },
+    {
+      "episode_index": 47,
+      "take_uid": "fa1b7aec-f252-42c7-b362-443f11e87fdf",
+      "start_frame": 1609,
+      "end_frame": 1786,
+      "length": 60,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano while following the sheet music."
+      ]
+    },
+    {
+      "episode_index": 48,
+      "take_uid": "fa1b7aec-f252-42c7-b362-443f11e87fdf",
+      "start_frame": 2673,
+      "end_frame": 2835,
+      "length": 55,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys slowly in sequence."
+      ]
+    },
+    {
+      "episode_index": 49,
+      "take_uid": "fa1b7aec-f252-42c7-b362-443f11e87fdf",
+      "start_frame": 2997,
+      "end_frame": 3189,
+      "length": 65,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano chords steadily and continuously."
+      ]
+    },
+    {
+      "episode_index": 50,
+      "take_uid": "fa1b7aec-f252-42c7-b362-443f11e87fdf",
+      "start_frame": 4482,
+      "end_frame": 4665,
+      "length": 62,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys in sequence."
+      ]
+    },
+    {
+      "episode_index": 51,
+      "take_uid": "77cd56fc-6b68-4c7f-814b-81545484dd2d",
+      "start_frame": 2546,
+      "end_frame": 2846,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the packet from the table and open it."
+      ]
+    },
+    {
+      "episode_index": 52,
+      "take_uid": "df02e9d2-edcd-4015-829a-81cb6067d6fa",
+      "start_frame": 4581,
+      "end_frame": 4881,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Install the tire onto the wheel rim with your hands in a uniform motion."
+      ]
+    },
+    {
+      "episode_index": 53,
+      "take_uid": "260afb8c-0cac-4f5e-8b07-02e85fc17d6f",
+      "start_frame": 1754,
+      "end_frame": 2054,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Remove the bicycle seat from the mount."
+      ]
+    },
+    {
+      "episode_index": 54,
+      "take_uid": "6a3376a7-949e-4385-b16e-076dfb8c3f5a",
+      "start_frame": 2367,
+      "end_frame": 2403,
+      "length": 13,
+      "task_index": 4,
+      "tasks": [
+        "Remove the item from the packaging carefully."
+      ]
+    },
+    {
+      "episode_index": 55,
+      "take_uid": "6a3376a7-949e-4385-b16e-076dfb8c3f5a",
+      "start_frame": 2421,
+      "end_frame": 2667,
+      "length": 83,
+      "task_index": 4,
+      "tasks": [
+        "Remove the item from the packaging and position it carefully on the table."
+      ]
+    },
+    {
+      "episode_index": 56,
+      "take_uid": "76311964-abcc-4d73-b84b-241e9c782850",
+      "start_frame": 511,
+      "end_frame": 811,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the front wheel axle with the wrench."
+      ]
+    },
+    {
+      "episode_index": 57,
+      "take_uid": "39d5e4c4-993f-46ad-979b-3daa146e4d53",
+      "start_frame": 551,
+      "end_frame": 851,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Place the frying pan on the stove."
+      ]
+    },
+    {
+      "episode_index": 58,
+      "take_uid": "c0a2159b-e900-4fe1-ac09-7a85925ef216",
+      "start_frame": 858,
+      "end_frame": 1158,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up and remove a packet from the box."
+      ]
+    },
+    {
+      "episode_index": 59,
+      "take_uid": "8ee798db-d02b-46ab-86f9-2091da1fb85e",
+      "start_frame": 37,
+      "end_frame": 157,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Hold the rear wheel of the bike steady while inspecting the fender."
+      ]
+    },
+    {
+      "episode_index": 60,
+      "take_uid": "8ee798db-d02b-46ab-86f9-2091da1fb85e",
+      "start_frame": 179,
+      "end_frame": 407,
+      "length": 77,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear wheel axle with a wrench."
+      ]
+    },
+    {
+      "episode_index": 61,
+      "take_uid": "8ee798db-d02b-46ab-86f9-2091da1fb85e",
+      "start_frame": 554,
+      "end_frame": 644,
+      "length": 31,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear axle of the bicycle."
+      ]
+    },
+    {
+      "episode_index": 62,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 589,
+      "end_frame": 781,
+      "length": 65,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys while observing the surrounding activity."
+      ]
+    },
+    {
+      "episode_index": 63,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 1069,
+      "end_frame": 1303,
+      "length": 79,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys in sequence slowly."
+      ]
+    },
+    {
+      "episode_index": 64,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 1515,
+      "end_frame": 1716,
+      "length": 68,
+      "task_index": 13,
+      "tasks": [
+        "Play the melody with both hands on the piano."
+      ]
+    },
+    {
+      "episode_index": 65,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 1786,
+      "end_frame": 1936,
+      "length": 51,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys in the sequence you are using now."
+      ]
+    },
+    {
+      "episode_index": 66,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 2212,
+      "end_frame": 2413,
+      "length": 68,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys with both hands in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 67,
+      "take_uid": "e5beffc8-2cc5-4cc5-9e0e-b22b843aaa4c",
+      "start_frame": 2672,
+      "end_frame": 2741,
+      "length": 24,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano piece using both hands at a steady tempo."
+      ]
+    },
+    {
+      "episode_index": 68,
+      "take_uid": "75c8af15-2c63-4024-ab24-db3ec0569207",
+      "start_frame": 118,
+      "end_frame": 442,
+      "length": 109,
+      "task_index": 1,
+      "tasks": [
+        "Adjust the bicycle seat to the desired height."
+      ]
+    },
+    {
+      "episode_index": 69,
+      "take_uid": "4bb9382b-ca84-4635-9626-f4aa949747f5",
+      "start_frame": 254,
+      "end_frame": 671,
+      "length": 140,
+      "task_index": 15,
+      "tasks": [
+        "Stop moving and hold the bow above the string."
+      ]
+    },
+    {
+      "episode_index": 70,
+      "take_uid": "4bb9382b-ca84-4635-9626-f4aa949747f5",
+      "start_frame": 1168,
+      "end_frame": 1351,
+      "length": 62,
+      "task_index": 15,
+      "tasks": [
+        "Bow the string smoothly while pressing down with your fingers."
+      ]
+    },
+    {
+      "episode_index": 71,
+      "take_uid": "4bb9382b-ca84-4635-9626-f4aa949747f5",
+      "start_frame": 1868,
+      "end_frame": 2024,
+      "length": 53,
+      "task_index": 15,
+      "tasks": [
+        "Bow the string of the cello with a smooth, steady motion."
+      ]
+    },
+    {
+      "episode_index": 72,
+      "take_uid": "0f9842a7-512f-4c04-9254-b810129f52b3",
+      "start_frame": 1306,
+      "end_frame": 1606,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 73,
+      "take_uid": "73935c70-6d88-4f4d-a4f3-9baf70afa5b1",
+      "start_frame": 441,
+      "end_frame": 741,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Hold the rear wheel of the bicycle steady while tightening the bolt on the axle."
+      ]
+    },
+    {
+      "episode_index": 74,
+      "take_uid": "17fc7017-4b64-4adb-b55f-10ca76476366",
+      "start_frame": 2943,
+      "end_frame": 3240,
+      "length": 100,
+      "task_index": 12,
+      "tasks": [
+        "Insert the inner tube into the wheel and align it properly."
+      ]
+    },
+    {
+      "episode_index": 75,
+      "take_uid": "80f65504-a37a-4c84-8a19-df3bba123326",
+      "start_frame": 3468,
+      "end_frame": 3768,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 76,
+      "take_uid": "a914f836-eb7d-4ebc-a537-e8d7dbb39429",
+      "start_frame": 203,
+      "end_frame": 503,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Slice the cucumber into thin rounds."
+      ]
+    },
+    {
+      "episode_index": 77,
+      "take_uid": "01b0a6e3-04ce-4f0d-8df4-b3d3c1508780",
+      "start_frame": 900,
+      "end_frame": 1176,
+      "length": 93,
+      "task_index": 5,
+      "tasks": [
+        "Pick up the blue egg tray and retrieve an egg."
+      ]
+    },
+    {
+      "episode_index": 78,
+      "take_uid": "d9c3ae49-4650-40fe-b734-3b2097cf4eed",
+      "start_frame": 2535,
+      "end_frame": 2835,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the small white object from the table."
+      ]
+    },
+    {
+      "episode_index": 79,
+      "take_uid": "ed3ec638-8363-4e1d-9851-c7936cbfad8c",
+      "start_frame": 79,
+      "end_frame": 199,
+      "length": 41,
+      "task_index": 1,
+      "tasks": [
+        "Lift the front wheel of the bike and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 80,
+      "take_uid": "ed3ec638-8363-4e1d-9851-c7936cbfad8c",
+      "start_frame": 282,
+      "end_frame": 417,
+      "length": 46,
+      "task_index": 1,
+      "tasks": [
+        "Press the valve on the tire while holding it steady."
+      ]
+    },
+    {
+      "episode_index": 81,
+      "take_uid": "ed3ec638-8363-4e1d-9851-c7936cbfad8c",
+      "start_frame": 1669,
+      "end_frame": 1780,
+      "length": 38,
+      "task_index": 1,
+      "tasks": [
+        "Pull the tire away from the rim while holding it steadily in position."
+      ]
+    },
+    {
+      "episode_index": 82,
+      "take_uid": "2a160c63-2acd-463a-8431-3dbf77d6de8e",
+      "start_frame": 96,
+      "end_frame": 369,
+      "length": 92,
+      "task_index": 1,
+      "tasks": [
+        "Align the basket with the bike frame and secure it in place."
+      ]
+    },
+    {
+      "episode_index": 83,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7313,
+      "end_frame": 7343,
+      "length": 11,
+      "task_index": 7,
+      "tasks": [
+        "Stir the contents of the pan with a fork in a circular motion."
+      ]
+    },
+    {
+      "episode_index": 84,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7358,
+      "end_frame": 7358,
+      "length": 1,
+      "task_index": 7,
+      "tasks": [
+        "Stir the ingredients in the frying pan gently."
+      ]
+    },
+    {
+      "episode_index": 85,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7373,
+      "end_frame": 7394,
+      "length": 8,
+      "task_index": 7,
+      "tasks": [
+        "Stir the contents of the frying pan smoothly."
+      ]
+    },
+    {
+      "episode_index": 86,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7415,
+      "end_frame": 7475,
+      "length": 21,
+      "task_index": 7,
+      "tasks": [
+        "Stir the food in the pan continuously in a circular motion."
+      ]
+    },
+    {
+      "episode_index": 87,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7508,
+      "end_frame": 7598,
+      "length": 31,
+      "task_index": 7,
+      "tasks": [
+        "Stir the noodles in the pan gently."
+      ]
+    },
+    {
+      "episode_index": 88,
+      "take_uid": "dcca4382-3494-4bb2-b79a-0e514513895e",
+      "start_frame": 7613,
+      "end_frame": 7613,
+      "length": 1,
+      "task_index": 7,
+      "tasks": [
+        "Tilt the pan slightly forward to slide the contents out."
+      ]
+    },
+    {
+      "episode_index": 89,
+      "take_uid": "e6bbb6dc-94c1-4e80-9e46-2b25f40e0c1c",
+      "start_frame": 92,
+      "end_frame": 416,
+      "length": 109,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 90,
+      "take_uid": "4d250ada-e17a-4385-a08c-88b645cfe872",
+      "start_frame": 738,
+      "end_frame": 1038,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Remove the instruction sheet from the package and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 91,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 143,
+      "end_frame": 218,
+      "length": 26,
+      "task_index": 4,
+      "tasks": [
+        "Open the box by folding back the top flap."
+      ]
+    },
+    {
+      "episode_index": 92,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 232,
+      "end_frame": 688,
+      "length": 153,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 93,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 786,
+      "end_frame": 1011,
+      "length": 76,
+      "task_index": 4,
+      "tasks": [
+        "Turn the paper over and examine the instructions carefully."
+      ]
+    },
+    {
+      "episode_index": 94,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 1024,
+      "end_frame": 1051,
+      "length": 10,
+      "task_index": 4,
+      "tasks": [
+        "Open the packet and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 95,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 1132,
+      "end_frame": 1192,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Open the package carefully and extract the components."
+      ]
+    },
+    {
+      "episode_index": 96,
+      "take_uid": "c8b331da-1756-4836-acc5-f3d1c2142339",
+      "start_frame": 1239,
+      "end_frame": 1377,
+      "length": 47,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the packet from the table and examine it."
+      ]
+    },
+    {
+      "episode_index": 97,
+      "take_uid": "a91ef958-df79-4905-8469-37c552c11441",
+      "start_frame": 11,
+      "end_frame": 335,
+      "length": 109,
+      "task_index": 0,
+      "tasks": [
+        "Attach the tire to the bike frame securely."
+      ]
+    },
+    {
+      "episode_index": 98,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 143,
+      "end_frame": 176,
+      "length": 12,
+      "task_index": 17,
+      "tasks": [
+        "Peel the cucumber and hold it in your left hand."
+      ]
+    },
+    {
+      "episode_index": 99,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 194,
+      "end_frame": 200,
+      "length": 3,
+      "task_index": 17,
+      "tasks": [
+        "Pick up the cucumber from the shelf."
+      ]
+    },
+    {
+      "episode_index": 100,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 227,
+      "end_frame": 275,
+      "length": 17,
+      "task_index": 17,
+      "tasks": [
+        "Extract the juice from the green ingredient into the metal bowl."
+      ]
+    },
+    {
+      "episode_index": 101,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 305,
+      "end_frame": 305,
+      "length": 1,
+      "task_index": 17,
+      "tasks": [
+        "Peel the green object carefully with the knife."
+      ]
+    },
+    {
+      "episode_index": 102,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 329,
+      "end_frame": 329,
+      "length": 1,
+      "task_index": 17,
+      "tasks": [
+        "Peel the green item in your hand."
+      ]
+    },
+    {
+      "episode_index": 103,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 362,
+      "end_frame": 362,
+      "length": 1,
+      "task_index": 17,
+      "tasks": [
+        "Squeeze the lime over the bowl."
+      ]
+    },
+    {
+      "episode_index": 104,
+      "take_uid": "fdda9671-6378-432c-a1d9-ee986c88751a",
+      "start_frame": 422,
+      "end_frame": 434,
+      "length": 5,
+      "task_index": 17,
+      "tasks": [
+        "Place the green leaf into the bowl."
+      ]
+    },
+    {
+      "episode_index": 105,
+      "take_uid": "77e3b40d-7693-49f1-b480-d33fd798f870",
+      "start_frame": 1642,
+      "end_frame": 1942,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Chop the vegetables into small pieces on the cutting board."
+      ]
+    },
+    {
+      "episode_index": 106,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 18,
+      "end_frame": 321,
+      "length": 102,
+      "task_index": 12,
+      "tasks": [
+        "Hold the bicycle wheel steady in front of you."
+      ]
+    },
+    {
+      "episode_index": 107,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 350,
+      "end_frame": 503,
+      "length": 52,
+      "task_index": 12,
+      "tasks": [
+        "Insert the pink object into the tire bead while applying downward pressure."
+      ]
+    },
+    {
+      "episode_index": 108,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 610,
+      "end_frame": 799,
+      "length": 64,
+      "task_index": 12,
+      "tasks": [
+        "Remove the inner tube from the bicycle wheel."
+      ]
+    },
+    {
+      "episode_index": 109,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 821,
+      "end_frame": 1247,
+      "length": 143,
+      "task_index": 12,
+      "tasks": [
+        "Insert the tire into the rim and ensure it is seated properly."
+      ]
+    },
+    {
+      "episode_index": 110,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 1480,
+      "end_frame": 1810,
+      "length": 111,
+      "task_index": 12,
+      "tasks": [
+        "Align the tire with the rim and press down firmly."
+      ]
+    },
+    {
+      "episode_index": 111,
+      "take_uid": "0d7dc221-d9dd-401a-acb8-b6e76e458300",
+      "start_frame": 2237,
+      "end_frame": 2735,
+      "length": 167,
+      "task_index": 12,
+      "tasks": [
+        "Attach the red strap to the rim of the wheel securely."
+      ]
+    },
+    {
+      "episode_index": 112,
+      "take_uid": "4031a0f2-7819-402a-9f7c-9b66e14cb366",
+      "start_frame": 2692,
+      "end_frame": 2992,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Lift the bike and move it forward."
+      ]
+    },
+    {
+      "episode_index": 113,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 102,
+      "end_frame": 528,
+      "length": 143,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys in a slow, rhythmic manner."
+      ]
+    },
+    {
+      "episode_index": 114,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 532,
+      "end_frame": 700,
+      "length": 57,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano slowly, pressing the keys gently."
+      ]
+    },
+    {
+      "episode_index": 115,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 735,
+      "end_frame": 753,
+      "length": 7,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano piece slowly and steadily."
+      ]
+    },
+    {
+      "episode_index": 116,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 810,
+      "end_frame": 849,
+      "length": 14,
+      "task_index": 10,
+      "tasks": [
+        "Press the keys on the piano in a soft and steady manner."
+      ]
+    },
+    {
+      "episode_index": 117,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 1046,
+      "end_frame": 1064,
+      "length": 7,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys in a rhythmic pattern."
+      ]
+    },
+    {
+      "episode_index": 118,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 1150,
+      "end_frame": 1186,
+      "length": 13,
+      "task_index": 10,
+      "tasks": [
+        "Play the current music on the piano with both hands."
+      ]
+    },
+    {
+      "episode_index": 119,
+      "take_uid": "354f076e-079f-440d-bd38-97ddfcd19002",
+      "start_frame": 1313,
+      "end_frame": 1496,
+      "length": 62,
+      "task_index": 10,
+      "tasks": [
+        "Play the keys from left to right in sequence."
+      ]
+    },
+    {
+      "episode_index": 120,
+      "take_uid": "87531064-1b80-40c5-896c-344cb3200d5a",
+      "start_frame": 19,
+      "end_frame": 616,
+      "length": 200,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 121,
+      "take_uid": "87531064-1b80-40c5-896c-344cb3200d5a",
+      "start_frame": 698,
+      "end_frame": 1013,
+      "length": 106,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the instructions and get ready to assemble the device."
+      ]
+    },
+    {
+      "episode_index": 122,
+      "take_uid": "a6c76788-37ca-4005-9e7e-cf5ecb00d8cf",
+      "start_frame": 2258,
+      "end_frame": 2558,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Adjust the flame to low and hold the pot over the stove."
+      ]
+    },
+    {
+      "episode_index": 123,
+      "take_uid": "713cffc9-4d72-416c-a038-e1fe258b0468",
+      "start_frame": 4049,
+      "end_frame": 4349,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Remove the cap from the syringe carefully."
+      ]
+    },
+    {
+      "episode_index": 124,
+      "take_uid": "3dd860a1-8e01-4a44-9382-fc8ffab5834e",
+      "start_frame": 1428,
+      "end_frame": 1728,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Remove the pink bottle from the box and hold it with your right hand."
+      ]
+    },
+    {
+      "episode_index": 125,
+      "take_uid": "e4d26f73-845c-4ec0-a0cf-2610c29680f8",
+      "start_frame": 3165,
+      "end_frame": 3465,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and remove the test strip carefully."
+      ]
+    },
+    {
+      "episode_index": 126,
+      "take_uid": "e68d09a0-fe18-483c-8a7d-24b32f9baa9e",
+      "start_frame": 3217,
+      "end_frame": 3517,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Stir the mixture in the bowl vigorously."
+      ]
+    },
+    {
+      "episode_index": 127,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 63,
+      "end_frame": 195,
+      "length": 45,
+      "task_index": 13,
+      "tasks": [
+        "Press the fourth white key from the left with your right hand."
+      ]
+    },
+    {
+      "episode_index": 128,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 230,
+      "end_frame": 350,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the keys smoothly in a downward motion from the left."
+      ]
+    },
+    {
+      "episode_index": 129,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 415,
+      "end_frame": 538,
+      "length": 42,
+      "task_index": 13,
+      "tasks": [
+        "Play the next note on the piano."
+      ]
+    },
+    {
+      "episode_index": 130,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 575,
+      "end_frame": 695,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys slowly and deliberately."
+      ]
+    },
+    {
+      "episode_index": 131,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 797,
+      "end_frame": 923,
+      "length": 43,
+      "task_index": 13,
+      "tasks": [
+        "Play the white keys on the piano sequentially from left to right."
+      ]
+    },
+    {
+      "episode_index": 132,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 958,
+      "end_frame": 1078,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the melody on the piano with your right hand while maintaining a steady tempo."
+      ]
+    },
+    {
+      "episode_index": 133,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 1145,
+      "end_frame": 1271,
+      "length": 43,
+      "task_index": 13,
+      "tasks": [
+        "Press the keys in a slow, rhythmic sequence."
+      ]
+    },
+    {
+      "episode_index": 134,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 1295,
+      "end_frame": 1415,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Press the keys on the piano in a slow and smooth manner while looking at the sheet music."
+      ]
+    },
+    {
+      "episode_index": 135,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 1479,
+      "end_frame": 1923,
+      "length": 149,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano slowly while reading the sheet music."
+      ]
+    },
+    {
+      "episode_index": 136,
+      "take_uid": "e9a2e67e-7076-4e59-8001-bad5ff3bdd5f",
+      "start_frame": 1942,
+      "end_frame": 2080,
+      "length": 47,
+      "task_index": 13,
+      "tasks": [
+        "Press the D key on the piano gently."
+      ]
+    },
+    {
+      "episode_index": 137,
+      "take_uid": "181c0eb5-22da-4a00-ad59-37b67622012e",
+      "start_frame": 70,
+      "end_frame": 319,
+      "length": 84,
+      "task_index": 1,
+      "tasks": [
+        "Attach the basket to the front of the bike using the brackets and screws."
+      ]
+    },
+    {
+      "episode_index": 138,
+      "take_uid": "c8aabd02-b46e-4e91-b2f4-f9d97cfb1a75",
+      "start_frame": 4615,
+      "end_frame": 4915,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the test kit and hold the test strip firmly."
+      ]
+    },
+    {
+      "episode_index": 139,
+      "take_uid": "574adb34-f42d-494b-8ccf-a62922bb5299",
+      "start_frame": 3325,
+      "end_frame": 3622,
+      "length": 100,
+      "task_index": 4,
+      "tasks": [
+        "Open the packaging of the test kit carefully."
+      ]
+    },
+    {
+      "episode_index": 140,
+      "take_uid": "6dd93969-2dff-4546-bac6-a435698eb14a",
+      "start_frame": 39,
+      "end_frame": 258,
+      "length": 74,
+      "task_index": 4,
+      "tasks": [
+        "Slide the box slightly to the left."
+      ]
+    },
+    {
+      "episode_index": 141,
+      "take_uid": "6dd93969-2dff-4546-bac6-a435698eb14a",
+      "start_frame": 266,
+      "end_frame": 770,
+      "length": 169,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 142,
+      "take_uid": "6dd93969-2dff-4546-bac6-a435698eb14a",
+      "start_frame": 1003,
+      "end_frame": 1063,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Turn the page of the instruction manual to the next section."
+      ]
+    },
+    {
+      "episode_index": 143,
+      "take_uid": "46deacb7-2d19-4b18-b440-170f9ea7f28a",
+      "start_frame": 174,
+      "end_frame": 369,
+      "length": 66,
+      "task_index": 10,
+      "tasks": [
+        "Stand still and play the piano chords."
+      ]
+    },
+    {
+      "episode_index": 144,
+      "take_uid": "46deacb7-2d19-4b18-b440-170f9ea7f28a",
+      "start_frame": 388,
+      "end_frame": 619,
+      "length": 78,
+      "task_index": 10,
+      "tasks": [
+        "Play the notes on the piano with both hands and gradually increase speed."
+      ]
+    },
+    {
+      "episode_index": 145,
+      "take_uid": "46deacb7-2d19-4b18-b440-170f9ea7f28a",
+      "start_frame": 698,
+      "end_frame": 914,
+      "length": 73,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys in a slow, rhythmic pattern."
+      ]
+    },
+    {
+      "episode_index": 146,
+      "take_uid": "46deacb7-2d19-4b18-b440-170f9ea7f28a",
+      "start_frame": 953,
+      "end_frame": 1151,
+      "length": 67,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys in a slow, steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 147,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 192,
+      "end_frame": 333,
+      "length": 48,
+      "task_index": 3,
+      "tasks": [
+        "Bow the cello string lightly."
+      ]
+    },
+    {
+      "episode_index": 148,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 604,
+      "end_frame": 694,
+      "length": 31,
+      "task_index": 3,
+      "tasks": [
+        "Move the bow downward across the strings slowly."
+      ]
+    },
+    {
+      "episode_index": 149,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 887,
+      "end_frame": 941,
+      "length": 19,
+      "task_index": 3,
+      "tasks": [
+        "Draw the bow back slowly."
+      ]
+    },
+    {
+      "episode_index": 150,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 975,
+      "end_frame": 1095,
+      "length": 41,
+      "task_index": 3,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 151,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 1187,
+      "end_frame": 1334,
+      "length": 50,
+      "task_index": 3,
+      "tasks": [
+        "Move the bow from left to right above the sheet music."
+      ]
+    },
+    {
+      "episode_index": 152,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 1511,
+      "end_frame": 1661,
+      "length": 51,
+      "task_index": 3,
+      "tasks": [
+        "Move the bow smoothly across the strings of the cello."
+      ]
+    },
+    {
+      "episode_index": 153,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 1756,
+      "end_frame": 1906,
+      "length": 51,
+      "task_index": 3,
+      "tasks": [
+        "Bow the violin downwards slowly."
+      ]
+    },
+    {
+      "episode_index": 154,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 2040,
+      "end_frame": 2121,
+      "length": 28,
+      "task_index": 3,
+      "tasks": [
+        "Bow the cello toward the left side quickly."
+      ]
+    },
+    {
+      "episode_index": 155,
+      "take_uid": "794b3bd3-eac9-4d0d-9789-bd068bff3944",
+      "start_frame": 2292,
+      "end_frame": 2553,
+      "length": 88,
+      "task_index": 3,
+      "tasks": [
+        "Bow the cello downwards."
+      ]
+    },
+    {
+      "episode_index": 156,
+      "take_uid": "8c6578a1-4f98-4bdb-861e-64b321b32c9f",
+      "start_frame": 1765,
+      "end_frame": 2065,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Turn the stove knob to increase the flame."
+      ]
+    },
+    {
+      "episode_index": 157,
+      "take_uid": "09399c5a-e4fc-4f7b-a1b1-550f2203db44",
+      "start_frame": 5856,
+      "end_frame": 6156,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the green packet and open it carefully."
+      ]
+    },
+    {
+      "episode_index": 158,
+      "take_uid": "b63da48d-f6a2-4b94-a9af-3e694ca549f2",
+      "start_frame": 197,
+      "end_frame": 491,
+      "length": 99,
+      "task_index": 4,
+      "tasks": [
+        "Hold the document steady and read it carefully."
+      ]
+    },
+    {
+      "episode_index": 159,
+      "take_uid": "b05720b3-5ed4-4bca-b630-087ed4c6f7b8",
+      "start_frame": 2967,
+      "end_frame": 3267,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bike chain with the cloth while holding the pedal to rotate it slowly."
+      ]
+    },
+    {
+      "episode_index": 160,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 74,
+      "end_frame": 206,
+      "length": 45,
+      "task_index": 16,
+      "tasks": [
+        "Stop moving and hold your position."
+      ]
+    },
+    {
+      "episode_index": 161,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 208,
+      "end_frame": 856,
+      "length": 217,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys in sequence according to the sheet music on the tablet."
+      ]
+    },
+    {
+      "episode_index": 162,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 860,
+      "end_frame": 1166,
+      "length": 103,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano notes as indicated on the sheet music."
+      ]
+    },
+    {
+      "episode_index": 163,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 1170,
+      "end_frame": 1326,
+      "length": 53,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys in sequence according to the sheet music displayed."
+      ]
+    },
+    {
+      "episode_index": 164,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 1330,
+      "end_frame": 1483,
+      "length": 52,
+      "task_index": 16,
+      "tasks": [
+        "Press the keys on the piano with both hands in a rhythm matching the displayed sheet music."
+      ]
+    },
+    {
+      "episode_index": 165,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 1490,
+      "end_frame": 1667,
+      "length": 60,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys continuously in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 166,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 1761,
+      "end_frame": 2022,
+      "length": 88,
+      "task_index": 16,
+      "tasks": [
+        "Play the middle C and D notes rapidly on the piano."
+      ]
+    },
+    {
+      "episode_index": 167,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 2071,
+      "end_frame": 2317,
+      "length": 83,
+      "task_index": 16,
+      "tasks": [
+        "Play the keys on the piano steadily and maintain your posture."
+      ]
+    },
+    {
+      "episode_index": 168,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 2343,
+      "end_frame": 2829,
+      "length": 163,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano using both hands in a melodic pattern."
+      ]
+    },
+    {
+      "episode_index": 169,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 2919,
+      "end_frame": 2958,
+      "length": 14,
+      "task_index": 16,
+      "tasks": [
+        "Play the melody using both hands on the keyboard."
+      ]
+    },
+    {
+      "episode_index": 170,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 3163,
+      "end_frame": 3619,
+      "length": 153,
+      "task_index": 16,
+      "tasks": [
+        "Play the melody on the piano using both hands."
+      ]
+    },
+    {
+      "episode_index": 171,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 3639,
+      "end_frame": 3699,
+      "length": 21,
+      "task_index": 16,
+      "tasks": [
+        "Press the white keys to play the music on the piano."
+      ]
+    },
+    {
+      "episode_index": 172,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 3753,
+      "end_frame": 4245,
+      "length": 165,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano while following the sheet music."
+      ]
+    },
+    {
+      "episode_index": 173,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 4250,
+      "end_frame": 4289,
+      "length": 14,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys in sequence according to the sheet music."
+      ]
+    },
+    {
+      "episode_index": 174,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 4358,
+      "end_frame": 4460,
+      "length": 35,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys with both hands."
+      ]
+    },
+    {
+      "episode_index": 175,
+      "take_uid": "23ff1c48-01ea-4d34-a38b-bc96e767b9b9",
+      "start_frame": 4468,
+      "end_frame": 4840,
+      "length": 125,
+      "task_index": 16,
+      "tasks": [
+        "Play the keys on the piano slowly and steadily."
+      ]
+    },
+    {
+      "episode_index": 176,
+      "take_uid": "dcc39981-04fc-4dfc-9bc4-53699496af39",
+      "start_frame": 47,
+      "end_frame": 167,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Attach the wheel to the bicycle by aligning the hub with the frame and tightening the axle nut securely."
+      ]
+    },
+    {
+      "episode_index": 177,
+      "take_uid": "dcc39981-04fc-4dfc-9bc4-53699496af39",
+      "start_frame": 191,
+      "end_frame": 389,
+      "length": 67,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear wheel securely."
+      ]
+    },
+    {
+      "episode_index": 178,
+      "take_uid": "dcc39981-04fc-4dfc-9bc4-53699496af39",
+      "start_frame": 419,
+      "end_frame": 539,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear wheel axle firmly."
+      ]
+    },
+    {
+      "episode_index": 179,
+      "take_uid": "dcc39981-04fc-4dfc-9bc4-53699496af39",
+      "start_frame": 921,
+      "end_frame": 930,
+      "length": 4,
+      "task_index": 0,
+      "tasks": [
+        "Lift the rear wheel of the bike vertically while maintaining grip."
+      ]
+    },
+    {
+      "episode_index": 180,
+      "take_uid": "111c8b18-f7da-4613-8821-98b5ca61eaf5",
+      "start_frame": 102,
+      "end_frame": 402,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Align the chain on the rear sprocket and ensure it's properly seated."
+      ]
+    },
+    {
+      "episode_index": 181,
+      "take_uid": "65aab74f-39c0-4f9f-9661-a3298d18c4b0",
+      "start_frame": 5146,
+      "end_frame": 5446,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the rear axle nut clockwise with a wrench."
+      ]
+    },
+    {
+      "episode_index": 182,
+      "take_uid": "e481c982-5bd0-49eb-9446-6ec753d7f366",
+      "start_frame": 3141,
+      "end_frame": 3441,
+      "length": 101,
+      "task_index": 18,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 183,
+      "take_uid": "bdd39e2f-019a-4acd-8c50-86d8831a2a9e",
+      "start_frame": 274,
+      "end_frame": 574,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and extract the instruction manual."
+      ]
+    },
+    {
+      "episode_index": 184,
+      "take_uid": "448f59b5-2f28-4013-a96a-6f3fa5bb2252",
+      "start_frame": 2107,
+      "end_frame": 2407,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Hold the bicycle wheel in position and inflate the tire using the pump."
+      ]
+    },
+    {
+      "episode_index": 185,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 178,
+      "end_frame": 310,
+      "length": 45,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano by pressing the keys in sequence following the sheet music."
+      ]
+    },
+    {
+      "episode_index": 186,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 434,
+      "end_frame": 554,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys softly while reading the sheet music."
+      ]
+    },
+    {
+      "episode_index": 187,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 675,
+      "end_frame": 792,
+      "length": 40,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys in a steady pattern."
+      ]
+    },
+    {
+      "episode_index": 188,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 910,
+      "end_frame": 1027,
+      "length": 40,
+      "task_index": 13,
+      "tasks": [
+        "Play the keys on the piano while following the sheet music."
+      ]
+    },
+    {
+      "episode_index": 189,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 1148,
+      "end_frame": 1265,
+      "length": 40,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys in sequence from left to right with moderate speed."
+      ]
+    },
+    {
+      "episode_index": 190,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 1387,
+      "end_frame": 1510,
+      "length": 42,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano softly and maintain steady tempo."
+      ]
+    },
+    {
+      "episode_index": 191,
+      "take_uid": "7014a547-6f84-48cb-bc91-28012c4cce06",
+      "start_frame": 1614,
+      "end_frame": 1722,
+      "length": 37,
+      "task_index": 13,
+      "tasks": [
+        "Play the white keys with your right hand while holding a steady position."
+      ]
+    },
+    {
+      "episode_index": 192,
+      "take_uid": "aef08b40-a12b-42e8-b69a-9ba14c270b7c",
+      "start_frame": 1026,
+      "end_frame": 1209,
+      "length": 62,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bike's rear fender using a wrench."
+      ]
+    },
+    {
+      "episode_index": 193,
+      "take_uid": "aef08b40-a12b-42e8-b69a-9ba14c270b7c",
+      "start_frame": 1232,
+      "end_frame": 1346,
+      "length": 39,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle fender with the wrench."
+      ]
+    },
+    {
+      "episode_index": 194,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3574,
+      "end_frame": 3580,
+      "length": 3,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents from the pink container into the bowl."
+      ]
+    },
+    {
+      "episode_index": 195,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3631,
+      "end_frame": 3631,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Pick up the colorful container with your right hand."
+      ]
+    },
+    {
+      "episode_index": 196,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3646,
+      "end_frame": 3646,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Wipe the surface of the stove with the cloth."
+      ]
+    },
+    {
+      "episode_index": 197,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3667,
+      "end_frame": 3667,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents of the jar into the bowl."
+      ]
+    },
+    {
+      "episode_index": 198,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3703,
+      "end_frame": 3703,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Scoop the turmeric powder with the measuring spoon."
+      ]
+    },
+    {
+      "episode_index": 199,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3823,
+      "end_frame": 3829,
+      "length": 3,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents of the jar into the bowl slowly."
+      ]
+    },
+    {
+      "episode_index": 200,
+      "take_uid": "34ba42af-5c77-434e-a8c4-cf745bcaaf0d",
+      "start_frame": 3865,
+      "end_frame": 3865,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Pick up the jar from the countertop."
+      ]
+    },
+    {
+      "episode_index": 201,
+      "take_uid": "58004f8a-fd60-4db6-8145-5125a4cd346f",
+      "start_frame": 20,
+      "end_frame": 110,
+      "length": 31,
+      "task_index": 2,
+      "tasks": [
+        "Pick up the mannequin and move it to the front of the table."
+      ]
+    },
+    {
+      "episode_index": 202,
+      "take_uid": "58004f8a-fd60-4db6-8145-5125a4cd346f",
+      "start_frame": 138,
+      "end_frame": 207,
+      "length": 24,
+      "task_index": 2,
+      "tasks": [
+        "Pick up the dummy from the blue case."
+      ]
+    },
+    {
+      "episode_index": 203,
+      "take_uid": "7dbdb2ef-939a-44a8-a0ee-92f36cc7428b",
+      "start_frame": 109,
+      "end_frame": 409,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Remove the rear wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 204,
+      "take_uid": "d57e2e2d-2da4-4a67-8312-60b9ca0551c6",
+      "start_frame": 131,
+      "end_frame": 431,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the yellow object and pour it into the container."
+      ]
+    },
+    {
+      "episode_index": 205,
+      "take_uid": "dd09ac20-b7ae-48e0-a0c1-69f49f541ac4",
+      "start_frame": 52,
+      "end_frame": 244,
+      "length": 65,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents one at a time."
+      ]
+    },
+    {
+      "episode_index": 206,
+      "take_uid": "dd09ac20-b7ae-48e0-a0c1-69f49f541ac4",
+      "start_frame": 453,
+      "end_frame": 513,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Hold the instruction manual flat on the table."
+      ]
+    },
+    {
+      "episode_index": 207,
+      "take_uid": "dd09ac20-b7ae-48e0-a0c1-69f49f541ac4",
+      "start_frame": 536,
+      "end_frame": 788,
+      "length": 85,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the items one by one."
+      ]
+    },
+    {
+      "episode_index": 208,
+      "take_uid": "dd09ac20-b7ae-48e0-a0c1-69f49f541ac4",
+      "start_frame": 823,
+      "end_frame": 940,
+      "length": 40,
+      "task_index": 4,
+      "tasks": [
+        "Remove the cap from the syringe and prepare it for use."
+      ]
+    },
+    {
+      "episode_index": 209,
+      "take_uid": "7afe02e8-fbde-42fe-9d1b-1663cb6e0f7d",
+      "start_frame": 858,
+      "end_frame": 1158,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the nut on the axle with your right hand."
+      ]
+    },
+    {
+      "episode_index": 210,
+      "take_uid": "6f942bbd-acc8-4ec1-8758-89029b391cda",
+      "start_frame": 223,
+      "end_frame": 523,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Hand over the adhesive to the person on the right."
+      ]
+    },
+    {
+      "episode_index": 211,
+      "take_uid": "2cc1db50-e1ca-4bc5-9066-4adc98b27df4",
+      "start_frame": 31,
+      "end_frame": 505,
+      "length": 159,
+      "task_index": 12,
+      "tasks": [
+        "Insert the valve into the bicycle tire and ensure it is properly seated."
+      ]
+    },
+    {
+      "episode_index": 212,
+      "take_uid": "2cc1db50-e1ca-4bc5-9066-4adc98b27df4",
+      "start_frame": 1534,
+      "end_frame": 1837,
+      "length": 102,
+      "task_index": 12,
+      "tasks": [
+        "Rotate the wheel to align the valve with the rim."
+      ]
+    },
+    {
+      "episode_index": 213,
+      "take_uid": "2cc1db50-e1ca-4bc5-9066-4adc98b27df4",
+      "start_frame": 1864,
+      "end_frame": 2017,
+      "length": 52,
+      "task_index": 12,
+      "tasks": [
+        "Remove the bicycle tire from the rim."
+      ]
+    },
+    {
+      "episode_index": 214,
+      "take_uid": "0fc077f4-37e0-45a0-902a-d72bc3a9ac0f",
+      "start_frame": 1137,
+      "end_frame": 1434,
+      "length": 100,
+      "task_index": 4,
+      "tasks": [
+        "Remove the small object from the table and set it aside."
+      ]
+    },
+    {
+      "episode_index": 215,
+      "take_uid": "18b03995-c3b2-432b-8dc9-159cd183991a",
+      "start_frame": 3307,
+      "end_frame": 3607,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the blue testing strip from the table."
+      ]
+    },
+    {
+      "episode_index": 216,
+      "take_uid": "9baa6a3d-0767-45d6-923a-fd4e85a69911",
+      "start_frame": 899,
+      "end_frame": 1199,
+      "length": 101,
+      "task_index": 16,
+      "tasks": [
+        "Play a sequence of notes on the keyboard smoothly."
+      ]
+    },
+    {
+      "episode_index": 217,
+      "take_uid": "76de6c17-2b61-494b-ab32-39e97e1b40ed",
+      "start_frame": 2418,
+      "end_frame": 2718,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Serve the cooked rice from the pot into the bowl."
+      ]
+    },
+    {
+      "episode_index": 218,
+      "take_uid": "c112d4da-5120-47d7-9b05-a4ef68baa226",
+      "start_frame": 1285,
+      "end_frame": 1585,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Pour the butter into the pan on the stove."
+      ]
+    },
+    {
+      "episode_index": 219,
+      "take_uid": "a4b63d2e-e149-4256-b951-eb9947420030",
+      "start_frame": 6115,
+      "end_frame": 6415,
+      "length": 101,
+      "task_index": 19,
+      "tasks": [
+        "Transfer the chopped vegetables from the bowl to the plate."
+      ]
+    },
+    {
+      "episode_index": 220,
+      "take_uid": "3c398830-aeb7-4795-8191-36dd3ee840b1",
+      "start_frame": 1778,
+      "end_frame": 2078,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bicycle and hold it up."
+      ]
+    },
+    {
+      "episode_index": 221,
+      "take_uid": "373478a3-4b72-44f9-bcda-fea08828c52a",
+      "start_frame": 5611,
+      "end_frame": 5911,
+      "length": 101,
+      "task_index": 20,
+      "tasks": [
+        "Press down on the second fret of the third string."
+      ]
+    },
+    {
+      "episode_index": 222,
+      "take_uid": "a491cdbc-d733-4d26-a34d-cc5aef734b33",
+      "start_frame": 1961,
+      "end_frame": 2261,
+      "length": 101,
+      "task_index": 16,
+      "tasks": [
+        "Play a sequence of piano notes steadily."
+      ]
+    },
+    {
+      "episode_index": 223,
+      "take_uid": "528408d0-3098-4ab8-840c-7ee95869880b",
+      "start_frame": 10262,
+      "end_frame": 10478,
+      "length": 73,
+      "task_index": 19,
+      "tasks": [
+        "Grab the dark sauce jar from the right side of the countertop."
+      ]
+    },
+    {
+      "episode_index": 224,
+      "take_uid": "528408d0-3098-4ab8-840c-7ee95869880b",
+      "start_frame": 10505,
+      "end_frame": 10562,
+      "length": 20,
+      "task_index": 19,
+      "tasks": [
+        "Pick up the jar of sauce and move it towards the bowl."
+      ]
+    },
+    {
+      "episode_index": 225,
+      "take_uid": "4314405a-618d-40e4-830f-ab9c23211588",
+      "start_frame": 113,
+      "end_frame": 896,
+      "length": 262,
+      "task_index": 12,
+      "tasks": [
+        "Pick up the cone wrench and adjust the wheel axle."
+      ]
+    },
+    {
+      "episode_index": 226,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7489,
+      "end_frame": 7489,
+      "length": 1,
+      "task_index": 8,
+      "tasks": [
+        "Stir the mixture in the bowl with your spoon."
+      ]
+    },
+    {
+      "episode_index": 227,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7504,
+      "end_frame": 7561,
+      "length": 20,
+      "task_index": 8,
+      "tasks": [
+        "Stir the contents of the bowl with the spoon."
+      ]
+    },
+    {
+      "episode_index": 228,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7582,
+      "end_frame": 7594,
+      "length": 5,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents from the bowl onto the frying pan."
+      ]
+    },
+    {
+      "episode_index": 229,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7609,
+      "end_frame": 7660,
+      "length": 18,
+      "task_index": 8,
+      "tasks": [
+        "Stir the contents in the bowl while watching the frying tomatoes."
+      ]
+    },
+    {
+      "episode_index": 230,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7681,
+      "end_frame": 7684,
+      "length": 2,
+      "task_index": 8,
+      "tasks": [
+        "Stir the mixture in the bowl while holding it steady."
+      ]
+    },
+    {
+      "episode_index": 231,
+      "take_uid": "b07855a6-9582-44d2-be98-47daadda043a",
+      "start_frame": 7702,
+      "end_frame": 7744,
+      "length": 15,
+      "task_index": 8,
+      "tasks": [
+        "Pour the mixture from the pan onto the cooking tomatoes."
+      ]
+    },
+    {
+      "episode_index": 232,
+      "take_uid": "3a634852-7746-44d8-ad5c-b0d15e961ebb",
+      "start_frame": 371,
+      "end_frame": 671,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Cut the cucumber into slices."
+      ]
+    },
+    {
+      "episode_index": 233,
+      "take_uid": "02715c86-e30c-4791-92b7-38b488e51aba",
+      "start_frame": 279,
+      "end_frame": 579,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the wrench from the basket and attach it to the bolt on the bike."
+      ]
+    },
+    {
+      "episode_index": 234,
+      "take_uid": "a94c3d1b-69c5-4c8f-8840-ec5c37630965",
+      "start_frame": 6878,
+      "end_frame": 6899,
+      "length": 8,
+      "task_index": 19,
+      "tasks": [
+        "Stir the contents in the bowl with a spoon."
+      ]
+    },
+    {
+      "episode_index": 235,
+      "take_uid": "a94c3d1b-69c5-4c8f-8840-ec5c37630965",
+      "start_frame": 6920,
+      "end_frame": 6986,
+      "length": 23,
+      "task_index": 19,
+      "tasks": [
+        "Insert the spoon into the cup and stir the contents gently."
+      ]
+    },
+    {
+      "episode_index": 236,
+      "take_uid": "a94c3d1b-69c5-4c8f-8840-ec5c37630965",
+      "start_frame": 7013,
+      "end_frame": 7169,
+      "length": 53,
+      "task_index": 19,
+      "tasks": [
+        "Scoop the sauce from the jar and pour it into the bowl with the ingredients."
+      ]
+    },
+    {
+      "episode_index": 237,
+      "take_uid": "ba46c08b-3b5a-46f2-b77d-4a296f45c042",
+      "start_frame": 375,
+      "end_frame": 675,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the blue tool from the table and hold it in your right hand."
+      ]
+    },
+    {
+      "episode_index": 238,
+      "take_uid": "a9902d89-3aab-4bce-aa07-720cf12523f6",
+      "start_frame": 2180,
+      "end_frame": 2480,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Add the red spice to the mixing bowl with the other ingredients."
+      ]
+    },
+    {
+      "episode_index": 239,
+      "take_uid": "37b18db8-a85a-49dd-a594-68cb1dd5ed0e",
+      "start_frame": 2439,
+      "end_frame": 2739,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Break the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 240,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 476,
+      "end_frame": 596,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Press the keys to play the melody softly."
+      ]
+    },
+    {
+      "episode_index": 241,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 758,
+      "end_frame": 878,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano piece using both hands smoothly."
+      ]
+    },
+    {
+      "episode_index": 242,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 976,
+      "end_frame": 1252,
+      "length": 93,
+      "task_index": 13,
+      "tasks": [
+        "Play the notes on the piano softly while following the sheet music."
+      ]
+    },
+    {
+      "episode_index": 243,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 1370,
+      "end_frame": 1547,
+      "length": 60,
+      "task_index": 13,
+      "tasks": [
+        "Play the next notes on the piano in the sequence shown on the sheet music."
+      ]
+    },
+    {
+      "episode_index": 244,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 1790,
+      "end_frame": 1910,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Play the melody using both hands on the piano."
+      ]
+    },
+    {
+      "episode_index": 245,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 1969,
+      "end_frame": 2131,
+      "length": 55,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano piece softly while alternating hands on the keys."
+      ]
+    },
+    {
+      "episode_index": 246,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 2238,
+      "end_frame": 2358,
+      "length": 41,
+      "task_index": 13,
+      "tasks": [
+        "Press the keys on the piano with your right hand while maintaining a steady tempo."
+      ]
+    },
+    {
+      "episode_index": 247,
+      "take_uid": "aa461c0c-d577-4667-b3df-157207b11063",
+      "start_frame": 2555,
+      "end_frame": 2624,
+      "length": 24,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys continuously and smoothly."
+      ]
+    },
+    {
+      "episode_index": 248,
+      "take_uid": "ec944f9c-2cd6-4f7d-9883-0bebb1feb0f7",
+      "start_frame": 310,
+      "end_frame": 610,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 249,
+      "take_uid": "cac56c11-1de1-476f-a05d-f43c0cf99893",
+      "start_frame": 2109,
+      "end_frame": 2409,
+      "length": 101,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys rapidly in succession."
+      ]
+    },
+    {
+      "episode_index": 250,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 0,
+      "end_frame": 99,
+      "length": 34,
+      "task_index": 4,
+      "tasks": [
+        "Open the white container and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 251,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 117,
+      "end_frame": 189,
+      "length": 25,
+      "task_index": 4,
+      "tasks": [
+        "Hold your position and display a peace sign with your right hand."
+      ]
+    },
+    {
+      "episode_index": 252,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 207,
+      "end_frame": 324,
+      "length": 40,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the test kit and hold it in front of you."
+      ]
+    },
+    {
+      "episode_index": 253,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 350,
+      "end_frame": 470,
+      "length": 41,
+      "task_index": 4,
+      "tasks": [
+        "Hold your position and manipulate the object with both hands."
+      ]
+    },
+    {
+      "episode_index": 254,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 608,
+      "end_frame": 917,
+      "length": 104,
+      "task_index": 4,
+      "tasks": [
+        "Open the white box and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 255,
+      "take_uid": "5dc6b68f-c360-4519-8b45-1d9ba21dbeed",
+      "start_frame": 943,
+      "end_frame": 1003,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Remove the item from the box gently."
+      ]
+    },
+    {
+      "episode_index": 256,
+      "take_uid": "8172c572-08c7-4fd1-8ab5-114efc84a5ef",
+      "start_frame": 317,
+      "end_frame": 617,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the rear wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 257,
+      "take_uid": "526fb4ce-d45c-40e9-912b-7cc076081d65",
+      "start_frame": 194,
+      "end_frame": 494,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Pick up the bike's handlebar and rotate it to the left."
+      ]
+    },
+    {
+      "episode_index": 258,
+      "take_uid": "fed78491-6136-4377-aac2-cba3e9bcd4ce",
+      "start_frame": 4635,
+      "end_frame": 4935,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Align the syringe with the vial and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 259,
+      "take_uid": "08abcbb4-9277-4154-94d8-9e36b750fed8",
+      "start_frame": 3571,
+      "end_frame": 3727,
+      "length": 53,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the bike and set it on the floor."
+      ]
+    },
+    {
+      "episode_index": 260,
+      "take_uid": "08abcbb4-9277-4154-94d8-9e36b750fed8",
+      "start_frame": 3801,
+      "end_frame": 3942,
+      "length": 48,
+      "task_index": 12,
+      "tasks": [
+        "Inflate the tire to the desired pressure."
+      ]
+    },
+    {
+      "episode_index": 261,
+      "take_uid": "80ad3fed-5d6d-4d0a-b160-b0ce4d06ab81",
+      "start_frame": 0,
+      "end_frame": 90,
+      "length": 31,
+      "task_index": 11,
+      "tasks": [
+        "Hold the tire firmly in both hands."
+      ]
+    },
+    {
+      "episode_index": 262,
+      "take_uid": "e4751da9-508b-401f-bdcb-90bb0921d7b9",
+      "start_frame": 702,
+      "end_frame": 1002,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the clear packet from the table."
+      ]
+    },
+    {
+      "episode_index": 263,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 256,
+      "end_frame": 373,
+      "length": 40,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and remain still."
+      ]
+    },
+    {
+      "episode_index": 264,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 424,
+      "end_frame": 544,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 265,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 620,
+      "end_frame": 737,
+      "length": 40,
+      "task_index": 14,
+      "tasks": [
+        "Hold the guitar steady and prepare to play the sheet music in front of you."
+      ]
+    },
+    {
+      "episode_index": 266,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 855,
+      "end_frame": 972,
+      "length": 40,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 267,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 1275,
+      "end_frame": 1473,
+      "length": 67,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stay still."
+      ]
+    },
+    {
+      "episode_index": 268,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 1537,
+      "end_frame": 1888,
+      "length": 118,
+      "task_index": 14,
+      "tasks": [
+        "Hold the guitar steady and do not move."
+      ]
+    },
+    {
+      "episode_index": 269,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 2217,
+      "end_frame": 2337,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold the guitar steady and prepare to play."
+      ]
+    },
+    {
+      "episode_index": 270,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 2855,
+      "end_frame": 2975,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 271,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 3051,
+      "end_frame": 3171,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Adjust your hand position on the guitar and begin playing."
+      ]
+    },
+    {
+      "episode_index": 272,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 3259,
+      "end_frame": 3379,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 273,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 3552,
+      "end_frame": 3672,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 274,
+      "take_uid": "f5a0a29d-affb-41d9-af1e-42ae7d1d198b",
+      "start_frame": 3876,
+      "end_frame": 3999,
+      "length": 42,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 275,
+      "take_uid": "ed064e3d-b2e1-4103-b955-3d720460d89b",
+      "start_frame": 1663,
+      "end_frame": 1963,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Open the jar and pour its contents into the mixing bowl."
+      ]
+    },
+    {
+      "episode_index": 276,
+      "take_uid": "ca360201-f003-44c5-ab2b-2487cdec5e1a",
+      "start_frame": 1441,
+      "end_frame": 1738,
+      "length": 100,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bike chain with the cloth while holding the pedal."
+      ]
+    },
+    {
+      "episode_index": 277,
+      "take_uid": "91718808-e351-4df2-be6c-8cf2a07384e3",
+      "start_frame": 3239,
+      "end_frame": 3539,
+      "length": 101,
+      "task_index": 3,
+      "tasks": [
+        "Bow the cello strings with a smooth downward motion."
+      ]
+    },
+    {
+      "episode_index": 278,
+      "take_uid": "83167883-277a-4720-accb-4aeb0253e60e",
+      "start_frame": 653,
+      "end_frame": 953,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Slice the cucumber into even pieces."
+      ]
+    },
+    {
+      "episode_index": 279,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1651,
+      "end_frame": 1708,
+      "length": 20,
+      "task_index": 21,
+      "tasks": [
+        "Move the spatula to flip the food in the pan."
+      ]
+    },
+    {
+      "episode_index": 280,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1726,
+      "end_frame": 1726,
+      "length": 1,
+      "task_index": 21,
+      "tasks": [
+        "Tilt the pan slightly to the right."
+      ]
+    },
+    {
+      "episode_index": 281,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1741,
+      "end_frame": 1798,
+      "length": 20,
+      "task_index": 21,
+      "tasks": [
+        "Stir the contents of the pan using your right hand."
+      ]
+    },
+    {
+      "episode_index": 282,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1813,
+      "end_frame": 1831,
+      "length": 7,
+      "task_index": 21,
+      "tasks": [
+        "Stir the contents in the pan gently with a spatula."
+      ]
+    },
+    {
+      "episode_index": 283,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1867,
+      "end_frame": 1879,
+      "length": 5,
+      "task_index": 21,
+      "tasks": [
+        "Tilt the frying pan to the left gradually."
+      ]
+    },
+    {
+      "episode_index": 284,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1906,
+      "end_frame": 1918,
+      "length": 5,
+      "task_index": 21,
+      "tasks": [
+        "Tilt the pan slightly to the left to let the oil spread."
+      ]
+    },
+    {
+      "episode_index": 285,
+      "take_uid": "57dee964-b77f-430b-8f37-fa4e5ba5c6a3",
+      "start_frame": 1945,
+      "end_frame": 1945,
+      "length": 1,
+      "task_index": 21,
+      "tasks": [
+        "Tilt the pan slightly to the right to pour the contents."
+      ]
+    },
+    {
+      "episode_index": 286,
+      "take_uid": "4e251499-d729-4861-9ffd-b852f28e2334",
+      "start_frame": 1547,
+      "end_frame": 1847,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Scoop the mixture from the bowl and transfer it to the yellow container."
+      ]
+    },
+    {
+      "episode_index": 287,
+      "take_uid": "e060eefb-7e9e-4304-a73e-e8d04694c9f6",
+      "start_frame": 5593,
+      "end_frame": 5893,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle wheel hub using the wrench."
+      ]
+    },
+    {
+      "episode_index": 288,
+      "take_uid": "eba56e4f-7ec8-4d47-9380-e69928323e94",
+      "start_frame": 482,
+      "end_frame": 782,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Cut the ingredient in the blue bowl with scissors."
+      ]
+    },
+    {
+      "episode_index": 289,
+      "take_uid": "6ec6a770-8e10-4cae-a06b-328852838ec6",
+      "start_frame": 1375,
+      "end_frame": 1675,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the brake cable by pulling it upwards."
+      ]
+    },
+    {
+      "episode_index": 290,
+      "take_uid": "c0693544-bedc-4b92-8d2a-42acde8a9cf0",
+      "start_frame": 3896,
+      "end_frame": 4196,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Adjust the rear cog by tightening it clockwise."
+      ]
+    },
+    {
+      "episode_index": 291,
+      "take_uid": "03167c74-f240-488c-bc6c-39ea803ec943",
+      "start_frame": 35,
+      "end_frame": 224,
+      "length": 64,
+      "task_index": 2,
+      "tasks": [
+        "Position your hand on the chest of the mannequin and perform chest compressions."
+      ]
+    },
+    {
+      "episode_index": 292,
+      "take_uid": "8c437105-67f4-43eb-a4ee-ef1a848074a7",
+      "start_frame": 5594,
+      "end_frame": 5894,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Attach the pink cap to the tube securely."
+      ]
+    },
+    {
+      "episode_index": 293,
+      "take_uid": "ee2c4d41-d7f7-4b85-9f4f-cc1da654cd40",
+      "start_frame": 8286,
+      "end_frame": 8535,
+      "length": 84,
+      "task_index": 8,
+      "tasks": [
+        "Place the empty blue tray on the counter."
+      ]
+    },
+    {
+      "episode_index": 294,
+      "take_uid": "ee2c4d41-d7f7-4b85-9f4f-cc1da654cd40",
+      "start_frame": 8537,
+      "end_frame": 8585,
+      "length": 17,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents from the blue tray into the kettle."
+      ]
+    },
+    {
+      "episode_index": 295,
+      "take_uid": "8e5c9c98-c1fa-4248-b473-06484a4416bc",
+      "start_frame": 1282,
+      "end_frame": 1582,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Cut the tomato into halves."
+      ]
+    },
+    {
+      "episode_index": 296,
+      "take_uid": "55a996a2-cdf3-4976-b475-a7c4c6a008a8",
+      "start_frame": 122,
+      "end_frame": 200,
+      "length": 27,
+      "task_index": 20,
+      "tasks": [
+        "Pick up the object from the floor and place it on the table."
+      ]
+    },
+    {
+      "episode_index": 297,
+      "take_uid": "55a996a2-cdf3-4976-b475-a7c4c6a008a8",
+      "start_frame": 224,
+      "end_frame": 443,
+      "length": 74,
+      "task_index": 20,
+      "tasks": [
+        "Move the object slightly to the left."
+      ]
+    },
+    {
+      "episode_index": 298,
+      "take_uid": "a3cfad7c-b099-4729-b168-fff85dfe5a32",
+      "start_frame": 923,
+      "end_frame": 1223,
+      "length": 101,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar in your left hand and play a chord."
+      ]
+    },
+    {
+      "episode_index": 299,
+      "take_uid": "1c504968-4f68-48dc-bee3-159fa197af65",
+      "start_frame": 3474,
+      "end_frame": 3774,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Stir the contents of the bowl with a spoon."
+      ]
+    },
+    {
+      "episode_index": 300,
+      "take_uid": "c30c1104-b238-4dcf-891b-1160ede92723",
+      "start_frame": 0,
+      "end_frame": 132,
+      "length": 45,
+      "task_index": 0,
+      "tasks": [
+        "Hold the bicycle wheel steady while adjusting the stand."
+      ]
+    },
+    {
+      "episode_index": 301,
+      "take_uid": "c30c1104-b238-4dcf-891b-1160ede92723",
+      "start_frame": 139,
+      "end_frame": 439,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bike's rear axle securely."
+      ]
+    },
+    {
+      "episode_index": 302,
+      "take_uid": "c30c1104-b238-4dcf-891b-1160ede92723",
+      "start_frame": 459,
+      "end_frame": 600,
+      "length": 48,
+      "task_index": 0,
+      "tasks": [
+        "Turn the bolt clockwise to tighten the rear wheel axle."
+      ]
+    },
+    {
+      "episode_index": 303,
+      "take_uid": "de3728ca-fdeb-4591-80ab-cb2b32182a50",
+      "start_frame": 642,
+      "end_frame": 942,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Remove the wheel from the basket and set it down."
+      ]
+    },
+    {
+      "episode_index": 304,
+      "take_uid": "cd8c9e3b-92ca-4e68-9f6d-d8bfb6904045",
+      "start_frame": 1720,
+      "end_frame": 2020,
+      "length": 101,
+      "task_index": 22,
+      "tasks": [
+        "Bow the string smoothly in an up and down motion."
+      ]
+    },
+    {
+      "episode_index": 305,
+      "take_uid": "ff8cba46-32f2-41fc-a649-50ef32fa245c",
+      "start_frame": 3509,
+      "end_frame": 3809,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Sprinkle salt onto the mixed vegetables in the bowl."
+      ]
+    },
+    {
+      "episode_index": 306,
+      "take_uid": "d6706cac-3a65-411f-b9e2-cf7245305fbe",
+      "start_frame": 4130,
+      "end_frame": 4430,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Hold the test device with your right hand and prepare to apply the sample dropper."
+      ]
+    },
+    {
+      "episode_index": 307,
+      "take_uid": "4c9f0e2c-9c40-468e-beec-9173683d6b0c",
+      "start_frame": 21,
+      "end_frame": 321,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the packaging and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 308,
+      "take_uid": "1831d594-72a4-42ba-9828-177bfb8b6e21",
+      "start_frame": 8614,
+      "end_frame": 8914,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the test strip and place it on the table."
+      ]
+    },
+    {
+      "episode_index": 309,
+      "take_uid": "3d4f5b74-c8da-4de9-a506-b09978baf754",
+      "start_frame": 159,
+      "end_frame": 459,
+      "length": 101,
+      "task_index": 14,
+      "tasks": [
+        "Stop moving the guitar and hold your position."
+      ]
+    },
+    {
+      "episode_index": 310,
+      "take_uid": "87a63705-c609-49cd-9605-0117ad0b0526",
+      "start_frame": 2067,
+      "end_frame": 2367,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the wheel rim."
+      ]
+    },
+    {
+      "episode_index": 311,
+      "take_uid": "b4b83178-90f5-4ca8-9862-224d5044b0c4",
+      "start_frame": 60,
+      "end_frame": 306,
+      "length": 83,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bolt on the bike's rear wheel hub."
+      ]
+    },
+    {
+      "episode_index": 312,
+      "take_uid": "9aca257b-e95d-45b1-aa6b-e2abfb400fa4",
+      "start_frame": 2076,
+      "end_frame": 2376,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Place the tire onto the wheel rim."
+      ]
+    },
+    {
+      "episode_index": 313,
+      "take_uid": "af02982c-8ae9-424c-9f35-6f18763a49e1",
+      "start_frame": 310,
+      "end_frame": 610,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Pour the milk from the bowl into the pot on the stove."
+      ]
+    },
+    {
+      "episode_index": 314,
+      "take_uid": "fa0e1a71-2174-43ef-a694-a4af360573a4",
+      "start_frame": 1039,
+      "end_frame": 1336,
+      "length": 100,
+      "task_index": 17,
+      "tasks": [
+        "Slice the tomato into even pieces."
+      ]
+    },
+    {
+      "episode_index": 315,
+      "take_uid": "804797fc-ccdb-4478-9916-1e8949fbd25c",
+      "start_frame": 0,
+      "end_frame": 1002,
+      "length": 335,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano softly and continuously."
+      ]
+    },
+    {
+      "episode_index": 316,
+      "take_uid": "804797fc-ccdb-4478-9916-1e8949fbd25c",
+      "start_frame": 1048,
+      "end_frame": 1417,
+      "length": 124,
+      "task_index": 13,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 317,
+      "take_uid": "804797fc-ccdb-4478-9916-1e8949fbd25c",
+      "start_frame": 1454,
+      "end_frame": 1643,
+      "length": 64,
+      "task_index": 13,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 318,
+      "take_uid": "fd2c53f7-41ce-4af3-942f-ac97772bc247",
+      "start_frame": 1345,
+      "end_frame": 1645,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Hold the bike in position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 319,
+      "take_uid": "ff468baf-2313-4b39-8dc3-a1d1b6f71a5d",
+      "start_frame": 345,
+      "end_frame": 645,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Loosen the wheel axle with the tool while holding the bike steady."
+      ]
+    },
+    {
+      "episode_index": 320,
+      "take_uid": "3a7779b2-5d99-46b2-a0c0-28fc2100918e",
+      "start_frame": 69,
+      "end_frame": 369,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and carefully remove the contents."
+      ]
+    },
+    {
+      "episode_index": 321,
+      "take_uid": "6abf4872-3bc1-4e63-8fb6-90f796505e31",
+      "start_frame": 132,
+      "end_frame": 558,
+      "length": 143,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano chords smoothly and progressively increase the tempo."
+      ]
+    },
+    {
+      "episode_index": 322,
+      "take_uid": "6abf4872-3bc1-4e63-8fb6-90f796505e31",
+      "start_frame": 572,
+      "end_frame": 1412,
+      "length": 281,
+      "task_index": 10,
+      "tasks": [
+        "Press the keys on the right with both hands to play the melody."
+      ]
+    },
+    {
+      "episode_index": 323,
+      "take_uid": "769c8fe5-3f64-4b55-894b-8e6b7e8aa683",
+      "start_frame": 1261,
+      "end_frame": 1561,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Chop the vegetables and mix them in the bowl."
+      ]
+    },
+    {
+      "episode_index": 324,
+      "take_uid": "03672458-fd03-4e1e-9754-776175089ab0",
+      "start_frame": 1120,
+      "end_frame": 1420,
+      "length": 101,
+      "task_index": 22,
+      "tasks": [
+        "Adjust the camera position slightly to the left."
+      ]
+    },
+    {
+      "episode_index": 325,
+      "take_uid": "95c23366-4418-4760-951d-085f1e07df19",
+      "start_frame": 95,
+      "end_frame": 425,
+      "length": 111,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bolt on the wheel with the wrench."
+      ]
+    },
+    {
+      "episode_index": 326,
+      "take_uid": "95c23366-4418-4760-951d-085f1e07df19",
+      "start_frame": 470,
+      "end_frame": 539,
+      "length": 24,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bolt on the front wheel assembly."
+      ]
+    },
+    {
+      "episode_index": 327,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 34,
+      "end_frame": 148,
+      "length": 39,
+      "task_index": 4,
+      "tasks": [
+        "Hold the package steady on the table."
+      ]
+    },
+    {
+      "episode_index": 328,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 232,
+      "end_frame": 562,
+      "length": 111,
+      "task_index": 4,
+      "tasks": [
+        "Open the box to remove the contents."
+      ]
+    },
+    {
+      "episode_index": 329,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 569,
+      "end_frame": 737,
+      "length": 57,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and take out the instruction manual."
+      ]
+    },
+    {
+      "episode_index": 330,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 941,
+      "end_frame": 1055,
+      "length": 39,
+      "task_index": 4,
+      "tasks": [
+        "Turn the instruction sheet to the right and continue reviewing it."
+      ]
+    },
+    {
+      "episode_index": 331,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 1101,
+      "end_frame": 1161,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Open the instruction manual and position it for better visibility."
+      ]
+    },
+    {
+      "episode_index": 332,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 1165,
+      "end_frame": 1219,
+      "length": 19,
+      "task_index": 4,
+      "tasks": [
+        "Turn the manual over to reveal the other side."
+      ]
+    },
+    {
+      "episode_index": 333,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 1243,
+      "end_frame": 1411,
+      "length": 57,
+      "task_index": 4,
+      "tasks": [
+        "Open the instructions by pulling the flap away from the box."
+      ]
+    },
+    {
+      "episode_index": 334,
+      "take_uid": "5ab8958c-7f0f-4580-8de4-edd20a839c49",
+      "start_frame": 1449,
+      "end_frame": 1467,
+      "length": 7,
+      "task_index": 4,
+      "tasks": [
+        "Remove the plastic seal from the packaging."
+      ]
+    },
+    {
+      "episode_index": 335,
+      "take_uid": "7d2a3fcc-a2b1-452b-923d-e819a9e8c84f",
+      "start_frame": 78,
+      "end_frame": 378,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the front wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 336,
+      "take_uid": "2a926404-4a2f-49a7-b249-7cbd16f1235e",
+      "start_frame": 3233,
+      "end_frame": 3533,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Remove the cap from the collection tube while holding the device steady."
+      ]
+    },
+    {
+      "episode_index": 337,
+      "take_uid": "5f4f823c-082e-487d-acac-1e6ef80a9857",
+      "start_frame": 455,
+      "end_frame": 623,
+      "length": 57,
+      "task_index": 3,
+      "tasks": [
+        "Hold your position."
+      ]
+    },
+    {
+      "episode_index": 338,
+      "take_uid": "5f4f823c-082e-487d-acac-1e6ef80a9857",
+      "start_frame": 1008,
+      "end_frame": 1146,
+      "length": 47,
+      "task_index": 3,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 339,
+      "take_uid": "5f4f823c-082e-487d-acac-1e6ef80a9857",
+      "start_frame": 1544,
+      "end_frame": 1664,
+      "length": 41,
+      "task_index": 3,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 340,
+      "take_uid": "5f4f823c-082e-487d-acac-1e6ef80a9857",
+      "start_frame": 2214,
+      "end_frame": 2403,
+      "length": 64,
+      "task_index": 3,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 341,
+      "take_uid": "aaea78b8-f839-42af-af65-0cc3f7fb2897",
+      "start_frame": 34,
+      "end_frame": 700,
+      "length": 223,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the rim using the tire lever."
+      ]
+    },
+    {
+      "episode_index": 342,
+      "take_uid": "aaea78b8-f839-42af-af65-0cc3f7fb2897",
+      "start_frame": 704,
+      "end_frame": 1100,
+      "length": 133,
+      "task_index": 12,
+      "tasks": [
+        "Align the tire valve with the pump nozzle and press down firmly."
+      ]
+    },
+    {
+      "episode_index": 343,
+      "take_uid": "aaea78b8-f839-42af-af65-0cc3f7fb2897",
+      "start_frame": 1584,
+      "end_frame": 1833,
+      "length": 84,
+      "task_index": 12,
+      "tasks": [
+        "Hold the tire steady and point it forward."
+      ]
+    },
+    {
+      "episode_index": 344,
+      "take_uid": "aaea78b8-f839-42af-af65-0cc3f7fb2897",
+      "start_frame": 2733,
+      "end_frame": 2778,
+      "length": 16,
+      "task_index": 12,
+      "tasks": [
+        "Pick up the tire and bring it closer to your body."
+      ]
+    },
+    {
+      "episode_index": 345,
+      "take_uid": "4c08e855-f8ad-4c27-8ae7-116eb13f1309",
+      "start_frame": 1780,
+      "end_frame": 2080,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Chop the tomato into small pieces."
+      ]
+    },
+    {
+      "episode_index": 346,
+      "take_uid": "80b5ba89-1f51-4f2a-9c68-116122b0a62e",
+      "start_frame": 469,
+      "end_frame": 766,
+      "length": 100,
+      "task_index": 1,
+      "tasks": [
+        "Remove the rear wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 347,
+      "take_uid": "15b70076-fe8e-4e72-a2cf-0004798c7280",
+      "start_frame": 244,
+      "end_frame": 544,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bike wheel axle by turning the wrench clockwise."
+      ]
+    },
+    {
+      "episode_index": 348,
+      "take_uid": "8ad67099-9fd2-40aa-868c-3c458d238dbb",
+      "start_frame": 15,
+      "end_frame": 132,
+      "length": 40,
+      "task_index": 0,
+      "tasks": [
+        "Lift the bicycle wheel higher and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 349,
+      "take_uid": "8ad67099-9fd2-40aa-868c-3c458d238dbb",
+      "start_frame": 160,
+      "end_frame": 508,
+      "length": 117,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the rear brake by tightening the cable until secure."
+      ]
+    },
+    {
+      "episode_index": 350,
+      "take_uid": "8ad67099-9fd2-40aa-868c-3c458d238dbb",
+      "start_frame": 533,
+      "end_frame": 536,
+      "length": 2,
+      "task_index": 0,
+      "tasks": [
+        "Grip the bicycle frame firmly and rotate it slightly to the left."
+      ]
+    },
+    {
+      "episode_index": 351,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 137,
+      "end_frame": 347,
+      "length": 71,
+      "task_index": 20,
+      "tasks": [
+        "Pick up the blue folder from the table and move to the left side of the room."
+      ]
+    },
+    {
+      "episode_index": 352,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 351,
+      "end_frame": 471,
+      "length": 41,
+      "task_index": 20,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 353,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 499,
+      "end_frame": 667,
+      "length": 57,
+      "task_index": 20,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 354,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 780,
+      "end_frame": 1026,
+      "length": 83,
+      "task_index": 20,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 355,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 1057,
+      "end_frame": 1210,
+      "length": 52,
+      "task_index": 20,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 356,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 1396,
+      "end_frame": 1666,
+      "length": 91,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar steady with your left hand while maintaining your current position."
+      ]
+    },
+    {
+      "episode_index": 357,
+      "take_uid": "fbc64b70-2224-4028-a008-2185b2afc200",
+      "start_frame": 1688,
+      "end_frame": 1823,
+      "length": 46,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar in position and prepare to play."
+      ]
+    },
+    {
+      "episode_index": 358,
+      "take_uid": "f6368758-2a5b-4332-b7b0-deec2f5b080d",
+      "start_frame": 0,
+      "end_frame": 1143,
+      "length": 382,
+      "task_index": 3,
+      "tasks": [
+        "Raise your right hand to show the phone with the QR code."
+      ]
+    },
+    {
+      "episode_index": 359,
+      "take_uid": "527abbcb-0144-418a-9096-1ca2de8f26f0",
+      "start_frame": 23,
+      "end_frame": 323,
+      "length": 101,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar and prepare to play."
+      ]
+    },
+    {
+      "episode_index": 360,
+      "take_uid": "fdfe951c-8388-4228-9b6f-7fad2b34b4f8",
+      "start_frame": 723,
+      "end_frame": 1023,
+      "length": 101,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar in your lap and stop moving."
+      ]
+    },
+    {
+      "episode_index": 361,
+      "take_uid": "1d3caeb8-3450-46b7-b341-092ca8fd6beb",
+      "start_frame": 1191,
+      "end_frame": 1491,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bicycle wheel nut securely."
+      ]
+    },
+    {
+      "episode_index": 362,
+      "take_uid": "b9519252-bc68-4d3f-9781-81426234e671",
+      "start_frame": 84,
+      "end_frame": 279,
+      "length": 66,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bicycle's bottom bracket using the appropriate tool."
+      ]
+    },
+    {
+      "episode_index": 363,
+      "take_uid": "b9519252-bc68-4d3f-9781-81426234e671",
+      "start_frame": 341,
+      "end_frame": 434,
+      "length": 32,
+      "task_index": 1,
+      "tasks": [
+        "Align the tool with the bike's rear hub and tighten the bolt securely."
+      ]
+    },
+    {
+      "episode_index": 364,
+      "take_uid": "1b8601c0-ca65-4b4a-9ed4-0248d9539257",
+      "start_frame": 7652,
+      "end_frame": 7868,
+      "length": 73,
+      "task_index": 12,
+      "tasks": [
+        "Remove the valve core from the tire."
+      ]
+    },
+    {
+      "episode_index": 365,
+      "take_uid": "1b8601c0-ca65-4b4a-9ed4-0248d9539257",
+      "start_frame": 8114,
+      "end_frame": 8195,
+      "length": 28,
+      "task_index": 12,
+      "tasks": [
+        "Tighten the spoke on the rear wheel."
+      ]
+    },
+    {
+      "episode_index": 366,
+      "take_uid": "5fa21441-f369-4773-b284-9cae3a722278",
+      "start_frame": 2926,
+      "end_frame": 3226,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Hold the tire steady while tightening the valve with a wrench."
+      ]
+    },
+    {
+      "episode_index": 367,
+      "take_uid": "91bb7bcf-7498-4611-a3bd-41869be84ef8",
+      "start_frame": 82,
+      "end_frame": 313,
+      "length": 78,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the rear wheel axle nut using the wrench."
+      ]
+    },
+    {
+      "episode_index": 368,
+      "take_uid": "65ec76ec-8ad8-452f-8d65-23e7cd7bf224",
+      "start_frame": 35,
+      "end_frame": 284,
+      "length": 84,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano keys using both hands in a fluid motion."
+      ]
+    },
+    {
+      "episode_index": 369,
+      "take_uid": "98c6b563-61dd-46fd-a66e-351664092e4c",
+      "start_frame": 4888,
+      "end_frame": 5188,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Insert the valve into the bicycle tire and tighten it."
+      ]
+    },
+    {
+      "episode_index": 370,
+      "take_uid": "304ae780-7eb3-4665-8b34-c8558dbc0610",
+      "start_frame": 0,
+      "end_frame": 1059,
+      "length": 354,
+      "task_index": 20,
+      "tasks": [
+        "Hold the guitar in your left hand and position your right hand above the strings."
+      ]
+    },
+    {
+      "episode_index": 371,
+      "take_uid": "e7192f4a-1559-409e-9628-34fde0504bee",
+      "start_frame": 531,
+      "end_frame": 828,
+      "length": 100,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the front brake cable by pulling it firmly and securing the nut."
+      ]
+    },
+    {
+      "episode_index": 372,
+      "take_uid": "b7c782b1-9688-4b19-8f88-003fed1d0e61",
+      "start_frame": 1266,
+      "end_frame": 1488,
+      "length": 75,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the position of the blue bicycle's rear wheel by loosening and shifting the axle."
+      ]
+    },
+    {
+      "episode_index": 373,
+      "take_uid": "b7c782b1-9688-4b19-8f88-003fed1d0e61",
+      "start_frame": 1556,
+      "end_frame": 1631,
+      "length": 26,
+      "task_index": 0,
+      "tasks": [
+        "Use the tool to tighten the bolt on the rear wheel."
+      ]
+    },
+    {
+      "episode_index": 374,
+      "take_uid": "d1563ead-9c4a-443d-8f28-515100c0b909",
+      "start_frame": 1098,
+      "end_frame": 1140,
+      "length": 15,
+      "task_index": 6,
+      "tasks": [
+        "Open the green bag and pour its contents into the bowl."
+      ]
+    },
+    {
+      "episode_index": 375,
+      "take_uid": "d1563ead-9c4a-443d-8f28-515100c0b909",
+      "start_frame": 1167,
+      "end_frame": 1191,
+      "length": 9,
+      "task_index": 6,
+      "tasks": [
+        "Pour the contents from the green package into the white cup."
+      ]
+    },
+    {
+      "episode_index": 376,
+      "take_uid": "d1563ead-9c4a-443d-8f28-515100c0b909",
+      "start_frame": 1206,
+      "end_frame": 1350,
+      "length": 49,
+      "task_index": 6,
+      "tasks": [
+        "Pour the milk into the cup."
+      ]
+    },
+    {
+      "episode_index": 377,
+      "take_uid": "d1563ead-9c4a-443d-8f28-515100c0b909",
+      "start_frame": 1389,
+      "end_frame": 1395,
+      "length": 3,
+      "task_index": 6,
+      "tasks": [
+        "Pour the milk into the cup."
+      ]
+    },
+    {
+      "episode_index": 378,
+      "take_uid": "1c9a978e-3921-44e5-8eab-f9e5401822cf",
+      "start_frame": 3762,
+      "end_frame": 4062,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Hold the pot with the tongs and tilt it slightly to pour the contents into the strainer."
+      ]
+    },
+    {
+      "episode_index": 379,
+      "take_uid": "c95ba288-2cca-46f2-b606-f4e4d145d40e",
+      "start_frame": 781,
+      "end_frame": 1078,
+      "length": 100,
+      "task_index": 6,
+      "tasks": [
+        "Open the red package and attach the small container to the larger one."
+      ]
+    },
+    {
+      "episode_index": 380,
+      "take_uid": "413c69e1-0d01-4fce-87fd-eae9e152c754",
+      "start_frame": 228,
+      "end_frame": 528,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Lubricate the bike chain while rotating the pedals counterclockwise."
+      ]
+    },
+    {
+      "episode_index": 381,
+      "take_uid": "5dad1edc-bcaa-4ad3-b091-cd9b01917f47",
+      "start_frame": 129,
+      "end_frame": 426,
+      "length": 100,
+      "task_index": 23,
+      "tasks": [
+        "Extend your hand towards the sheet music on the stand."
+      ]
+    },
+    {
+      "episode_index": 382,
+      "take_uid": "d80d1976-8a10-4af0-a9fb-d36264d3a074",
+      "start_frame": 4207,
+      "end_frame": 4507,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Wipe the bike chain with the cloth while applying downward pressure."
+      ]
+    },
+    {
+      "episode_index": 383,
+      "take_uid": "3817cb6b-8b20-4f6f-a8a1-d0943d491656",
+      "start_frame": 5494,
+      "end_frame": 5794,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Flip the omelette onto the plate gently."
+      ]
+    },
+    {
+      "episode_index": 384,
+      "take_uid": "43dcdaaf-746e-4665-88a3-adbe7351c9b1",
+      "start_frame": 1536,
+      "end_frame": 1836,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Attach the air pump to the bike tire and inflate it to the desired pressure."
+      ]
+    },
+    {
+      "episode_index": 385,
+      "take_uid": "cc5069d5-bcb4-49d6-b2cb-b43732ed7925",
+      "start_frame": 970,
+      "end_frame": 1270,
+      "length": 101,
+      "task_index": 16,
+      "tasks": [
+        "Play the piano continuously while maintaining a steady tempo."
+      ]
+    },
+    {
+      "episode_index": 386,
+      "take_uid": "d0109704-c19c-444a-890f-5796742434a8",
+      "start_frame": 55,
+      "end_frame": 148,
+      "length": 32,
+      "task_index": 4,
+      "tasks": [
+        "Open the box slowly and carefully."
+      ]
+    },
+    {
+      "episode_index": 387,
+      "take_uid": "d0109704-c19c-444a-890f-5796742434a8",
+      "start_frame": 155,
+      "end_frame": 215,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Open the package by peeling back the top flaps."
+      ]
+    },
+    {
+      "episode_index": 388,
+      "take_uid": "d0109704-c19c-444a-890f-5796742434a8",
+      "start_frame": 272,
+      "end_frame": 404,
+      "length": 45,
+      "task_index": 4,
+      "tasks": [
+        "Remove the item from the box and hold it steady in your right hand."
+      ]
+    },
+    {
+      "episode_index": 389,
+      "take_uid": "3382c19f-4a93-4247-9a7c-11f4f72959a0",
+      "start_frame": 518,
+      "end_frame": 818,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Chop the green chili finely while holding it steady."
+      ]
+    },
+    {
+      "episode_index": 390,
+      "take_uid": "45199fd8-dfda-446d-b1c3-f5e4deadc441",
+      "start_frame": 957,
+      "end_frame": 1257,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bolt on the bicycle hub with the wrench."
+      ]
+    },
+    {
+      "episode_index": 391,
+      "take_uid": "d03179da-1fd6-40f1-9ed2-8c2681ca2a0c",
+      "start_frame": 564,
+      "end_frame": 864,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Hold the tire vertically with both hands."
+      ]
+    },
+    {
+      "episode_index": 392,
+      "take_uid": "10114022-4de6-43cd-af19-b3bc5cbeae31",
+      "start_frame": 1370,
+      "end_frame": 1670,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Chop the green onion into small pieces."
+      ]
+    },
+    {
+      "episode_index": 393,
+      "take_uid": "5cb6025b-6cd8-4a31-9611-02f5d7260ace",
+      "start_frame": 4374,
+      "end_frame": 4674,
+      "length": 101,
+      "task_index": 10,
+      "tasks": [
+        "Play the D key followed by the F key on the keyboard."
+      ]
+    },
+    {
+      "episode_index": 394,
+      "take_uid": "efacaa24-2dd2-45f2-a316-414f2e2cddc6",
+      "start_frame": 437,
+      "end_frame": 662,
+      "length": 76,
+      "task_index": 13,
+      "tasks": [
+        "Play the piano keys in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 395,
+      "take_uid": "efacaa24-2dd2-45f2-a316-414f2e2cddc6",
+      "start_frame": 1210,
+      "end_frame": 1354,
+      "length": 49,
+      "task_index": 13,
+      "tasks": [
+        "Play the notes on the piano slowly and steadily."
+      ]
+    },
+    {
+      "episode_index": 396,
+      "take_uid": "efacaa24-2dd2-45f2-a316-414f2e2cddc6",
+      "start_frame": 1649,
+      "end_frame": 1757,
+      "length": 37,
+      "task_index": 13,
+      "tasks": [
+        "Play the C major chord on the piano."
+      ]
+    },
+    {
+      "episode_index": 397,
+      "take_uid": "70222fce-427f-45d8-9587-08cc315869fc",
+      "start_frame": 26,
+      "end_frame": 326,
+      "length": 101,
+      "task_index": 15,
+      "tasks": [
+        "Pick up the violin and play the first position."
+      ]
+    },
+    {
+      "episode_index": 398,
+      "take_uid": "70222fce-427f-45d8-9587-08cc315869fc",
+      "start_frame": 333,
+      "end_frame": 453,
+      "length": 41,
+      "task_index": 15,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 399,
+      "take_uid": "70222fce-427f-45d8-9587-08cc315869fc",
+      "start_frame": 572,
+      "end_frame": 866,
+      "length": 99,
+      "task_index": 15,
+      "tasks": [
+        "Hold the bow steady above the violin."
+      ]
+    },
+    {
+      "episode_index": 400,
+      "take_uid": "74a85d9d-234c-40f8-b15d-03f222a4db19",
+      "start_frame": 133,
+      "end_frame": 1000,
+      "length": 290,
+      "task_index": 0,
+      "tasks": [
+        "Attach the wheel securely to the bike frame."
+      ]
+    },
+    {
+      "episode_index": 401,
+      "take_uid": "74a85d9d-234c-40f8-b15d-03f222a4db19",
+      "start_frame": 1148,
+      "end_frame": 1364,
+      "length": 73,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle rim."
+      ]
+    },
+    {
+      "episode_index": 402,
+      "take_uid": "74a85d9d-234c-40f8-b15d-03f222a4db19",
+      "start_frame": 1394,
+      "end_frame": 1400,
+      "length": 3,
+      "task_index": 0,
+      "tasks": [
+        "Rotate the tire counterclockwise."
+      ]
+    },
+    {
+      "episode_index": 403,
+      "take_uid": "587eca14-1115-4a97-aff1-664de9e3415f",
+      "start_frame": 3088,
+      "end_frame": 3106,
+      "length": 7,
+      "task_index": 21,
+      "tasks": [
+        "Sprinkle salt onto the uncooked egg in the pan."
+      ]
+    },
+    {
+      "episode_index": 404,
+      "take_uid": "587eca14-1115-4a97-aff1-664de9e3415f",
+      "start_frame": 3127,
+      "end_frame": 3358,
+      "length": 78,
+      "task_index": 21,
+      "tasks": [
+        "Sprinkle the ground black pepper onto the cooking eggs."
+      ]
+    },
+    {
+      "episode_index": 405,
+      "take_uid": "587eca14-1115-4a97-aff1-664de9e3415f",
+      "start_frame": 3373,
+      "end_frame": 3388,
+      "length": 6,
+      "task_index": 21,
+      "tasks": [
+        "Shake the spice container over the eggs in the pan."
+      ]
+    },
+    {
+      "episode_index": 406,
+      "take_uid": "35e43599-f438-4bc9-8983-68cecaf330e8",
+      "start_frame": 6510,
+      "end_frame": 6810,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bike chain with a cloth."
+      ]
+    },
+    {
+      "episode_index": 407,
+      "take_uid": "ab4b4145-563f-42f9-bfb6-97b48bdaa2c7",
+      "start_frame": 6509,
+      "end_frame": 6803,
+      "length": 99,
+      "task_index": 24,
+      "tasks": [
+        "Clean the pot with the cloth while holding it over the sink."
+      ]
+    },
+    {
+      "episode_index": 408,
+      "take_uid": "46018fc1-21a0-4c62-b009-ad420b731686",
+      "start_frame": 92,
+      "end_frame": 134,
+      "length": 15,
+      "task_index": 2,
+      "tasks": [
+        "Push the dummy's chest downwards."
+      ]
+    },
+    {
+      "episode_index": 409,
+      "take_uid": "46018fc1-21a0-4c62-b009-ad420b731686",
+      "start_frame": 155,
+      "end_frame": 230,
+      "length": 26,
+      "task_index": 2,
+      "tasks": [
+        "Hold the position with your hand on the mannequin's chest."
+      ]
+    },
+    {
+      "episode_index": 410,
+      "take_uid": "46018fc1-21a0-4c62-b009-ad420b731686",
+      "start_frame": 248,
+      "end_frame": 308,
+      "length": 21,
+      "task_index": 2,
+      "tasks": [
+        "Wave your hand in front of the camera."
+      ]
+    },
+    {
+      "episode_index": 411,
+      "take_uid": "975b2d0f-fcf7-4521-b129-7c65a3268609",
+      "start_frame": 4041,
+      "end_frame": 4338,
+      "length": 100,
+      "task_index": 5,
+      "tasks": [
+        "Flip the spatula over the plate to transfer the food quickly."
+      ]
+    },
+    {
+      "episode_index": 412,
+      "take_uid": "6ee5fd43-9000-4b49-80e5-4c7b628dbe44",
+      "start_frame": 6876,
+      "end_frame": 7176,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Attach the tire to the rim and inflate it using the pump."
+      ]
+    },
+    {
+      "episode_index": 413,
+      "take_uid": "be3ba254-9db0-4fa9-91ed-c9e7117f8d83",
+      "start_frame": 2925,
+      "end_frame": 3225,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Inflate the bicycle tire to the required pressure using the gauge."
+      ]
+    },
+    {
+      "episode_index": 414,
+      "take_uid": "cda6c810-63a5-455e-b92c-f288e26c72e1",
+      "start_frame": 1010,
+      "end_frame": 1310,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the nut on the left side of the bicycle wheel."
+      ]
+    },
+    {
+      "episode_index": 415,
+      "take_uid": "7b078956-9843-49dd-be3c-39591bde70fe",
+      "start_frame": 75,
+      "end_frame": 195,
+      "length": 41,
+      "task_index": 1,
+      "tasks": [
+        "Remove the protective cover from the bicycle seat."
+      ]
+    },
+    {
+      "episode_index": 416,
+      "take_uid": "7b078956-9843-49dd-be3c-39591bde70fe",
+      "start_frame": 322,
+      "end_frame": 472,
+      "length": 51,
+      "task_index": 1,
+      "tasks": [
+        "Loosen the bolt on the rear wheel hub."
+      ]
+    },
+    {
+      "episode_index": 417,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 9,
+      "end_frame": 96,
+      "length": 30,
+      "task_index": 4,
+      "tasks": [
+        "Hold the COVID-19 test kit steady and keep your hands visible."
+      ]
+    },
+    {
+      "episode_index": 418,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 287,
+      "end_frame": 347,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Open the box by pulling the flap upwards."
+      ]
+    },
+    {
+      "episode_index": 419,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 381,
+      "end_frame": 705,
+      "length": 109,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and extract the instructions."
+      ]
+    },
+    {
+      "episode_index": 420,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 766,
+      "end_frame": 772,
+      "length": 3,
+      "task_index": 4,
+      "tasks": [
+        "Turn the instruction manual to the left and examine the next section closely."
+      ]
+    },
+    {
+      "episode_index": 421,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 1024,
+      "end_frame": 1177,
+      "length": 52,
+      "task_index": 4,
+      "tasks": [
+        "Hold the plastic container and pull the red cap off the syringe."
+      ]
+    },
+    {
+      "episode_index": 422,
+      "take_uid": "c7c5fe65-f694-4ff1-b51d-ee8059143f51",
+      "start_frame": 1209,
+      "end_frame": 1239,
+      "length": 11,
+      "task_index": 4,
+      "tasks": [
+        "Write on the instruction using the red pen."
+      ]
+    },
+    {
+      "episode_index": 423,
+      "take_uid": "864227f5-9937-4e42-894e-b96e59ad5e31",
+      "start_frame": 1601,
+      "end_frame": 1901,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the rear wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 424,
+      "take_uid": "0b440ec4-0ef2-497e-8034-fc5e694e2b5c",
+      "start_frame": 3160,
+      "end_frame": 3460,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bike chain with the cloth while rotating the pedals forward."
+      ]
+    },
+    {
+      "episode_index": 425,
+      "take_uid": "8a81ba3d-61f4-4b6b-a0a3-e1463a226985",
+      "start_frame": 1704,
+      "end_frame": 2004,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Pour the milk into the pot on the stove."
+      ]
+    },
+    {
+      "episode_index": 426,
+      "take_uid": "4ad70302-a794-40ae-ba8f-248296fb2809",
+      "start_frame": 186,
+      "end_frame": 336,
+      "length": 51,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and strum the strings softly."
+      ]
+    },
+    {
+      "episode_index": 427,
+      "take_uid": "4ad70302-a794-40ae-ba8f-248296fb2809",
+      "start_frame": 583,
+      "end_frame": 763,
+      "length": 61,
+      "task_index": 14,
+      "tasks": [
+        "Adjust your fingers to play the next note on the guitar."
+      ]
+    },
+    {
+      "episode_index": 428,
+      "take_uid": "4ad70302-a794-40ae-ba8f-248296fb2809",
+      "start_frame": 1245,
+      "end_frame": 1365,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold the guitar neck steady and pause all movement."
+      ]
+    },
+    {
+      "episode_index": 429,
+      "take_uid": "4ad70302-a794-40ae-ba8f-248296fb2809",
+      "start_frame": 1649,
+      "end_frame": 1739,
+      "length": 31,
+      "task_index": 14,
+      "tasks": [
+        "Hold the guitar in your lap and keep your hand on the neck."
+      ]
+    },
+    {
+      "episode_index": 430,
+      "take_uid": "b7542f4c-19e9-4061-87be-5a6d3d95de88",
+      "start_frame": 46,
+      "end_frame": 283,
+      "length": 80,
+      "task_index": 0,
+      "tasks": [
+        "Align the wheel with the bike frame and secure it in place."
+      ]
+    },
+    {
+      "episode_index": 431,
+      "take_uid": "b7542f4c-19e9-4061-87be-5a6d3d95de88",
+      "start_frame": 306,
+      "end_frame": 666,
+      "length": 121,
+      "task_index": 0,
+      "tasks": [
+        "Align the wheel and insert it into the bike frame."
+      ]
+    },
+    {
+      "episode_index": 432,
+      "take_uid": "b7542f4c-19e9-4061-87be-5a6d3d95de88",
+      "start_frame": 677,
+      "end_frame": 797,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolts on the bicycle wheel hub."
+      ]
+    },
+    {
+      "episode_index": 433,
+      "take_uid": "b7542f4c-19e9-4061-87be-5a6d3d95de88",
+      "start_frame": 1079,
+      "end_frame": 1151,
+      "length": 25,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear wheel's axle nut with a clockwise motion."
+      ]
+    },
+    {
+      "episode_index": 434,
+      "take_uid": "f830b550-8282-4e37-8417-5fe5d094f0fc",
+      "start_frame": 159,
+      "end_frame": 459,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Remove the rear wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 435,
+      "take_uid": "4abc4d07-a180-4713-b507-69c2fe7f2db8",
+      "start_frame": 3987,
+      "end_frame": 4287,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Hold the bicycle handlebar steady while examination occurs."
+      ]
+    },
+    {
+      "episode_index": 436,
+      "take_uid": "3586d05f-91db-4a07-b326-77c4ecd44509",
+      "start_frame": 370,
+      "end_frame": 670,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the bolt on the bicycle wheel hub with the wrench."
+      ]
+    },
+    {
+      "episode_index": 437,
+      "take_uid": "6671ef2a-d949-4452-8241-b8db11490d99",
+      "start_frame": 803,
+      "end_frame": 1103,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Insert the inner tube into the bicycle tire and align it properly."
+      ]
+    },
+    {
+      "episode_index": 438,
+      "take_uid": "d8a7872e-aa42-4296-a4b8-53b72f3c8b19",
+      "start_frame": 40,
+      "end_frame": 706,
+      "length": 223,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and extract the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 439,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 102,
+      "end_frame": 492,
+      "length": 131,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the wheel using the yellow tool."
+      ]
+    },
+    {
+      "episode_index": 440,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 516,
+      "end_frame": 726,
+      "length": 71,
+      "task_index": 12,
+      "tasks": [
+        "Tighten the blue wrench on the bicycle wheel hub while holding the wheel steady."
+      ]
+    },
+    {
+      "episode_index": 441,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 852,
+      "end_frame": 972,
+      "length": 41,
+      "task_index": 12,
+      "tasks": [
+        "Pick up the yellow tool and tighten the valve on the bicycle tire."
+      ]
+    },
+    {
+      "episode_index": 442,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 977,
+      "end_frame": 1157,
+      "length": 61,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the wheel by pulling it off gently while holding the wheel steady."
+      ]
+    },
+    {
+      "episode_index": 443,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 1312,
+      "end_frame": 1528,
+      "length": 73,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the wheel using the tool."
+      ]
+    },
+    {
+      "episode_index": 444,
+      "take_uid": "e24f2e2d-bc8f-4039-b617-b48bc45659bb",
+      "start_frame": 1689,
+      "end_frame": 1758,
+      "length": 24,
+      "task_index": 12,
+      "tasks": [
+        "Lift the wheel and move it to the right towards the workbench."
+      ]
+    },
+    {
+      "episode_index": 445,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 58,
+      "end_frame": 118,
+      "length": 21,
+      "task_index": 4,
+      "tasks": [
+        "Gently slide the box to the right."
+      ]
+    },
+    {
+      "episode_index": 446,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 131,
+      "end_frame": 296,
+      "length": 56,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents slowly."
+      ]
+    },
+    {
+      "episode_index": 447,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 451,
+      "end_frame": 673,
+      "length": 75,
+      "task_index": 4,
+      "tasks": [
+        "Open the packaging and extract the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 448,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 847,
+      "end_frame": 1195,
+      "length": 117,
+      "task_index": 4,
+      "tasks": [
+        "Remove the packet from the box and hold it in front of you."
+      ]
+    },
+    {
+      "episode_index": 449,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 1240,
+      "end_frame": 1324,
+      "length": 29,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and read the instructions carefully."
+      ]
+    },
+    {
+      "episode_index": 450,
+      "take_uid": "11bf68ee-12f0-435d-98eb-925c158ac705",
+      "start_frame": 1471,
+      "end_frame": 1492,
+      "length": 8,
+      "task_index": 4,
+      "tasks": [
+        "Hold the instruction sheet flat on the table with both hands."
+      ]
+    },
+    {
+      "episode_index": 451,
+      "take_uid": "49944f64-4fc9-44b8-bba2-7d6720c3186f",
+      "start_frame": 372,
+      "end_frame": 672,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Crack the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 452,
+      "take_uid": "563ce5eb-88cf-4ffd-9840-d50f122dd596",
+      "start_frame": 845,
+      "end_frame": 1145,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Tighten the pedal onto the crank arm firmly."
+      ]
+    },
+    {
+      "episode_index": 453,
+      "take_uid": "4641c429-4150-415c-a824-bf42a22d1dbf",
+      "start_frame": 1836,
+      "end_frame": 2136,
+      "length": 101,
+      "task_index": 23,
+      "tasks": [
+        "Hold your position and stop moving the guitar hand."
+      ]
+    },
+    {
+      "episode_index": 454,
+      "take_uid": "dd0539a4-6c12-4ae9-987b-d41351d874a9",
+      "start_frame": 1529,
+      "end_frame": 1829,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Pour the prepared milk from the pot into the cup."
+      ]
+    },
+    {
+      "episode_index": 455,
+      "take_uid": "919edc15-276e-4a76-ace9-b01eec04d94b",
+      "start_frame": 6522,
+      "end_frame": 6822,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the test kit from the table and read the instructions."
+      ]
+    },
+    {
+      "episode_index": 456,
+      "take_uid": "f1c3d2f5-e6bf-4899-a40d-12489d1ebb11",
+      "start_frame": 1738,
+      "end_frame": 2038,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Crack the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 457,
+      "take_uid": "3c99493b-a76f-4934-b444-c8dcb68b17d3",
+      "start_frame": 939,
+      "end_frame": 1239,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Hold the bike wheel steady and position your hand to secure it."
+      ]
+    },
+    {
+      "episode_index": 458,
+      "take_uid": "c5df9b0f-2bb2-4283-9483-32395296e0da",
+      "start_frame": 453,
+      "end_frame": 753,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Secure the tire by tightening the wheel nut with your right hand."
+      ]
+    },
+    {
+      "episode_index": 459,
+      "take_uid": "e929ea2f-f2a6-4823-a201-5810f976c963",
+      "start_frame": 49,
+      "end_frame": 388,
+      "length": 114,
+      "task_index": 0,
+      "tasks": [
+        "Hold the tire with both hands and inspect it closely for damage."
+      ]
+    },
+    {
+      "episode_index": 460,
+      "take_uid": "e929ea2f-f2a6-4823-a201-5810f976c963",
+      "start_frame": 952,
+      "end_frame": 1303,
+      "length": 118,
+      "task_index": 0,
+      "tasks": [
+        "Install the tire onto the wheel and secure it in place."
+      ]
+    },
+    {
+      "episode_index": 461,
+      "take_uid": "2e7ebb31-80dd-474e-97d7-4ce508299297",
+      "start_frame": 3108,
+      "end_frame": 3189,
+      "length": 28,
+      "task_index": 0,
+      "tasks": [
+        "Rotate the wheel to expose the hub while holding it steadily."
+      ]
+    },
+    {
+      "episode_index": 462,
+      "take_uid": "2e7ebb31-80dd-474e-97d7-4ce508299297",
+      "start_frame": 3267,
+      "end_frame": 3450,
+      "length": 62,
+      "task_index": 0,
+      "tasks": [
+        "Align the tire valve with your right hand and press down on the tire."
+      ]
+    },
+    {
+      "episode_index": 463,
+      "take_uid": "2e7ebb31-80dd-474e-97d7-4ce508299297",
+      "start_frame": 3472,
+      "end_frame": 3502,
+      "length": 11,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the tire position clockwise on the wheel rim."
+      ]
+    },
+    {
+      "episode_index": 464,
+      "take_uid": "f7b3e85b-7681-48b3-97cb-6b0a5705022e",
+      "start_frame": 838,
+      "end_frame": 1138,
+      "length": 101,
+      "task_index": 21,
+      "tasks": [
+        "Pick up the spatula and stir the contents in the pan gently."
+      ]
+    },
+    {
+      "episode_index": 465,
+      "take_uid": "bd82feb8-fdf7-421d-8d31-41c43d0b0fff",
+      "start_frame": 2970,
+      "end_frame": 3270,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bicycle chain with the cloth in a circular motion."
+      ]
+    },
+    {
+      "episode_index": 466,
+      "take_uid": "5957bdc7-1d39-497e-877d-aff0846ed8d4",
+      "start_frame": 4637,
+      "end_frame": 4937,
+      "length": 101,
+      "task_index": 15,
+      "tasks": [
+        "Bow the strings of the cello smoothly and consistently."
+      ]
+    },
+    {
+      "episode_index": 467,
+      "take_uid": "d1888843-9fb6-4a0b-a732-978d03786ae6",
+      "start_frame": 1091,
+      "end_frame": 1388,
+      "length": 100,
+      "task_index": 6,
+      "tasks": [
+        "Dispose of the contents in your right hand into the trash bin."
+      ]
+    },
+    {
+      "episode_index": 468,
+      "take_uid": "beb7196e-c020-4224-b5c4-e431ad9f143e",
+      "start_frame": 5804,
+      "end_frame": 6104,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Release the green onions and tomato onto the cutting board."
+      ]
+    },
+    {
+      "episode_index": 469,
+      "take_uid": "f78ea88a-550b-493d-aa10-4898f7bb987c",
+      "start_frame": 6142,
+      "end_frame": 6442,
+      "length": 101,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 470,
+      "take_uid": "ff22eeaa-b5e4-48f7-8a48-50bb368ec289",
+      "start_frame": 1917,
+      "end_frame": 2217,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Inflate the bicycle tire using the air pump."
+      ]
+    },
+    {
+      "episode_index": 471,
+      "take_uid": "2ef42b62-0ad8-442f-b868-7df6b5d54714",
+      "start_frame": 2102,
+      "end_frame": 2402,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Rotate the pedal counterclockwise."
+      ]
+    },
+    {
+      "episode_index": 472,
+      "take_uid": "2e53bfbb-2476-48c8-8dbb-668071453cc2",
+      "start_frame": 2602,
+      "end_frame": 2902,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear axle nut with a wrench."
+      ]
+    },
+    {
+      "episode_index": 473,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 25,
+      "end_frame": 268,
+      "length": 82,
+      "task_index": 0,
+      "tasks": [
+        "Lift the wheel and position it onto the bike frame."
+      ]
+    },
+    {
+      "episode_index": 474,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 281,
+      "end_frame": 815,
+      "length": 179,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear wheel axle nut firmly."
+      ]
+    },
+    {
+      "episode_index": 475,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 863,
+      "end_frame": 1049,
+      "length": 63,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear wheel axle nut clockwise."
+      ]
+    },
+    {
+      "episode_index": 476,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 1236,
+      "end_frame": 1587,
+      "length": 118,
+      "task_index": 0,
+      "tasks": [
+        "Secure the rear fender to the bicycle frame using the wrench."
+      ]
+    },
+    {
+      "episode_index": 477,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 1760,
+      "end_frame": 1880,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the wrench to tighten the bolt on the bicycle's rear fender."
+      ]
+    },
+    {
+      "episode_index": 478,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 1923,
+      "end_frame": 2043,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear wheel axle."
+      ]
+    },
+    {
+      "episode_index": 479,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 2146,
+      "end_frame": 2266,
+      "length": 41,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the rear wheel using the wrench."
+      ]
+    },
+    {
+      "episode_index": 480,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 2286,
+      "end_frame": 2469,
+      "length": 62,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle wheel hub using a wrench."
+      ]
+    },
+    {
+      "episode_index": 481,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 2659,
+      "end_frame": 3691,
+      "length": 345,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the nut on the bike's rear axle securely."
+      ]
+    },
+    {
+      "episode_index": 482,
+      "take_uid": "9105418d-9a1b-445b-a77e-108d22530a8c",
+      "start_frame": 3797,
+      "end_frame": 4241,
+      "length": 149,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle seat post."
+      ]
+    },
+    {
+      "episode_index": 483,
+      "take_uid": "0de804e8-619a-4e39-8dfb-e1244898c6cd",
+      "start_frame": 5034,
+      "end_frame": 5334,
+      "length": 101,
+      "task_index": 20,
+      "tasks": [
+        "Press the fourth fret with your index finger and strum the strings."
+      ]
+    },
+    {
+      "episode_index": 484,
+      "take_uid": "3d41b047-b3c7-43b0-8663-daddc3e7d32c",
+      "start_frame": 657,
+      "end_frame": 957,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Hold the bicycle wheel steadily in front of you."
+      ]
+    },
+    {
+      "episode_index": 485,
+      "take_uid": "0266d30c-c751-451b-9425-a1c1b19cbac8",
+      "start_frame": 4289,
+      "end_frame": 4589,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Remove the cap from the device slowly while holding it steady."
+      ]
+    },
+    {
+      "episode_index": 486,
+      "take_uid": "f7919017-3bd3-4c92-8f7f-ce9b33f07353",
+      "start_frame": 42,
+      "end_frame": 402,
+      "length": 121,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 487,
+      "take_uid": "f7919017-3bd3-4c92-8f7f-ce9b33f07353",
+      "start_frame": 428,
+      "end_frame": 524,
+      "length": 33,
+      "task_index": 4,
+      "tasks": [
+        "Remove the contents from the box."
+      ]
+    },
+    {
+      "episode_index": 488,
+      "take_uid": "f7919017-3bd3-4c92-8f7f-ce9b33f07353",
+      "start_frame": 551,
+      "end_frame": 1073,
+      "length": 175,
+      "task_index": 4,
+      "tasks": [
+        "Open the COVID-19 test instruction booklet and place it flat on the table."
+      ]
+    },
+    {
+      "episode_index": 489,
+      "take_uid": "aceb9ba2-bcd0-4249-baaf-12cd03e14aaa",
+      "start_frame": 2465,
+      "end_frame": 2765,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Pick up the black rubber band from the table."
+      ]
+    },
+    {
+      "episode_index": 490,
+      "take_uid": "19df5a1f-ff4f-427d-9f9a-61f001512a19",
+      "start_frame": 3051,
+      "end_frame": 3351,
+      "length": 101,
+      "task_index": 22,
+      "tasks": [
+        "Hold the bow steady over the strings."
+      ]
+    },
+    {
+      "episode_index": 491,
+      "take_uid": "612b8008-e028-4fcc-a6dc-4a5ee3115e6d",
+      "start_frame": 256,
+      "end_frame": 556,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Open the box by pulling the top flaps apart."
+      ]
+    },
+    {
+      "episode_index": 492,
+      "take_uid": "062ed386-05a4-4ff5-a8ff-2235045349d7",
+      "start_frame": 60,
+      "end_frame": 81,
+      "length": 8,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and remove the silver item inside."
+      ]
+    },
+    {
+      "episode_index": 493,
+      "take_uid": "062ed386-05a4-4ff5-a8ff-2235045349d7",
+      "start_frame": 86,
+      "end_frame": 362,
+      "length": 93,
+      "task_index": 4,
+      "tasks": [
+        "Take the item from the box and place it on the table."
+      ]
+    },
+    {
+      "episode_index": 494,
+      "take_uid": "27de9577-b69b-441c-9a6f-63d286a9a640",
+      "start_frame": 101,
+      "end_frame": 335,
+      "length": 79,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from your left hand and use the tool to adjust it."
+      ]
+    },
+    {
+      "episode_index": 495,
+      "take_uid": "27de9577-b69b-441c-9a6f-63d286a9a640",
+      "start_frame": 555,
+      "end_frame": 771,
+      "length": 73,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the rim using the yellow tool."
+      ]
+    },
+    {
+      "episode_index": 496,
+      "take_uid": "27de9577-b69b-441c-9a6f-63d286a9a640",
+      "start_frame": 800,
+      "end_frame": 830,
+      "length": 11,
+      "task_index": 12,
+      "tasks": [
+        "Align the tire with the rim and press them together firmly."
+      ]
+    },
+    {
+      "episode_index": 497,
+      "take_uid": "2d60dbfc-61dd-468b-b30a-c63b9d29c9bb",
+      "start_frame": 3305,
+      "end_frame": 3605,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Align the blue rim with the black tire and press them together firmly."
+      ]
+    },
+    {
+      "episode_index": 498,
+      "take_uid": "ad4bbbb2-2371-4b6a-8645-4c1e4016f00d",
+      "start_frame": 1719,
+      "end_frame": 2019,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear axle nut securely."
+      ]
+    },
+    {
+      "episode_index": 499,
+      "take_uid": "516e461f-d51a-459f-9cfa-8864bda4c06e",
+      "start_frame": 62,
+      "end_frame": 521,
+      "length": 154,
+      "task_index": 0,
+      "tasks": [
+        "Attach the wheel to the bike frame by aligning the axle and tightening the nut securely."
+      ]
+    },
+    {
+      "episode_index": 500,
+      "take_uid": "6835b48d-ce8e-474d-b589-86d023628792",
+      "start_frame": 356,
+      "end_frame": 410,
+      "length": 19,
+      "task_index": 12,
+      "tasks": [
+        "Hold the tire steady while adjusting your grip slightly."
+      ]
+    },
+    {
+      "episode_index": 501,
+      "take_uid": "6835b48d-ce8e-474d-b589-86d023628792",
+      "start_frame": 891,
+      "end_frame": 1119,
+      "length": 77,
+      "task_index": 12,
+      "tasks": [
+        "Position the wheel with the tire facing downwards and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 502,
+      "take_uid": "6835b48d-ce8e-474d-b589-86d023628792",
+      "start_frame": 1207,
+      "end_frame": 1219,
+      "length": 5,
+      "task_index": 12,
+      "tasks": [
+        "Lift the wheel off the ground and rotate it clockwise."
+      ]
+    },
+    {
+      "episode_index": 503,
+      "take_uid": "abcd9473-0885-43cc-9e4e-f632f36871d2",
+      "start_frame": 5538,
+      "end_frame": 5838,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Pour the hot liquid from the ladle into the strainer over the cup."
+      ]
+    },
+    {
+      "episode_index": 504,
+      "take_uid": "b73c9ebb-ad50-4a32-b5ff-137d0684e365",
+      "start_frame": 697,
+      "end_frame": 997,
+      "length": 101,
+      "task_index": 12,
+      "tasks": [
+        "Remove the tire from the wheel using the yellow tool."
+      ]
+    },
+    {
+      "episode_index": 505,
+      "take_uid": "e246e05c-cc49-4d05-98ba-de2542e42c3f",
+      "start_frame": 2242,
+      "end_frame": 2542,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Hold the bicycle stable and check the tire pressure with the gauge."
+      ]
+    },
+    {
+      "episode_index": 506,
+      "take_uid": "1f34bb6a-70ba-4e7c-ae19-b5086fc1176a",
+      "start_frame": 4196,
+      "end_frame": 4496,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Pick up the sliced tomatoes and place them on the hot pan."
+      ]
+    },
+    {
+      "episode_index": 507,
+      "take_uid": "b19462f1-e7fa-4b90-83da-931b1e9d50e2",
+      "start_frame": 64,
+      "end_frame": 361,
+      "length": 100,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the package and place it on the table in front of you."
+      ]
+    },
+    {
+      "episode_index": 508,
+      "take_uid": "f0fd5cca-ad0c-466e-86a0-342055f99431",
+      "start_frame": 3627,
+      "end_frame": 3924,
+      "length": 100,
+      "task_index": 16,
+      "tasks": [
+        "Stop playing the piano and hold position."
+      ]
+    },
+    {
+      "episode_index": 509,
+      "take_uid": "919b7ecf-b37e-4dd2-9fac-4f04b80fbeb8",
+      "start_frame": 226,
+      "end_frame": 445,
+      "length": 74,
+      "task_index": 0,
+      "tasks": [
+        "Hold the bicycle wheel steady while preparing to attach it to the frame."
+      ]
+    },
+    {
+      "episode_index": 510,
+      "take_uid": "919b7ecf-b37e-4dd2-9fac-4f04b80fbeb8",
+      "start_frame": 474,
+      "end_frame": 807,
+      "length": 112,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the rear wheel axle using the wrench."
+      ]
+    },
+    {
+      "episode_index": 511,
+      "take_uid": "919b7ecf-b37e-4dd2-9fac-4f04b80fbeb8",
+      "start_frame": 1042,
+      "end_frame": 1072,
+      "length": 11,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the bicycle's rear derailleur."
+      ]
+    },
+    {
+      "episode_index": 512,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 66,
+      "end_frame": 186,
+      "length": 41,
+      "task_index": 25,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 513,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 206,
+      "end_frame": 326,
+      "length": 41,
+      "task_index": 25,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 514,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 365,
+      "end_frame": 539,
+      "length": 59,
+      "task_index": 25,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 515,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 603,
+      "end_frame": 765,
+      "length": 55,
+      "task_index": 25,
+      "tasks": [
+        "Stop moving and hold position."
+      ]
+    },
+    {
+      "episode_index": 516,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 790,
+      "end_frame": 1009,
+      "length": 74,
+      "task_index": 25,
+      "tasks": [
+        "Adjust the camera slightly to the right for a better view of the sheet music."
+      ]
+    },
+    {
+      "episode_index": 517,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 1027,
+      "end_frame": 1261,
+      "length": 79,
+      "task_index": 25,
+      "tasks": [
+        "Hold position and refrain from moving."
+      ]
+    },
+    {
+      "episode_index": 518,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 1441,
+      "end_frame": 1561,
+      "length": 41,
+      "task_index": 25,
+      "tasks": [
+        "Adjust the sheet music holder to ensure it is centered and stable."
+      ]
+    },
+    {
+      "episode_index": 519,
+      "take_uid": "71e88f50-4a47-4275-bd3b-b99d02503372",
+      "start_frame": 1576,
+      "end_frame": 1612,
+      "length": 13,
+      "task_index": 25,
+      "tasks": [
+        "Turn the music stand pages to the next one."
+      ]
+    },
+    {
+      "episode_index": 520,
+      "take_uid": "a8d04142-fc0b-4ad4-acaa-8c17424411ff",
+      "start_frame": 68,
+      "end_frame": 290,
+      "length": 75,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys while maintaining a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 521,
+      "take_uid": "a8d04142-fc0b-4ad4-acaa-8c17424411ff",
+      "start_frame": 325,
+      "end_frame": 337,
+      "length": 5,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 522,
+      "take_uid": "a8d04142-fc0b-4ad4-acaa-8c17424411ff",
+      "start_frame": 366,
+      "end_frame": 375,
+      "length": 4,
+      "task_index": 10,
+      "tasks": [
+        "Press the keys on the piano in a sequence to play the music sheet."
+      ]
+    },
+    {
+      "episode_index": 523,
+      "take_uid": "a8d04142-fc0b-4ad4-acaa-8c17424411ff",
+      "start_frame": 1465,
+      "end_frame": 1567,
+      "length": 35,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys with both hands in a fluid motion."
+      ]
+    },
+    {
+      "episode_index": 524,
+      "take_uid": "a8d04142-fc0b-4ad4-acaa-8c17424411ff",
+      "start_frame": 1986,
+      "end_frame": 2076,
+      "length": 31,
+      "task_index": 10,
+      "tasks": [
+        "Play the piano keys using both hands and your feet."
+      ]
+    },
+    {
+      "episode_index": 525,
+      "take_uid": "1bd5a43c-9476-4491-b82e-6b02aeee2231",
+      "start_frame": 39,
+      "end_frame": 213,
+      "length": 59,
+      "task_index": 4,
+      "tasks": [
+        "Open the box and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 526,
+      "take_uid": "1bd5a43c-9476-4491-b82e-6b02aeee2231",
+      "start_frame": 257,
+      "end_frame": 479,
+      "length": 75,
+      "task_index": 4,
+      "tasks": [
+        "Carefully pull the tab to remove the inner compartment from the box."
+      ]
+    },
+    {
+      "episode_index": 527,
+      "take_uid": "1bd5a43c-9476-4491-b82e-6b02aeee2231",
+      "start_frame": 496,
+      "end_frame": 922,
+      "length": 143,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and remove the contents."
+      ]
+    },
+    {
+      "episode_index": 528,
+      "take_uid": "1bd5a43c-9476-4491-b82e-6b02aeee2231",
+      "start_frame": 964,
+      "end_frame": 1039,
+      "length": 26,
+      "task_index": 4,
+      "tasks": [
+        "Turn the instruction sheet to face away from you."
+      ]
+    },
+    {
+      "episode_index": 529,
+      "take_uid": "1bd5a43c-9476-4491-b82e-6b02aeee2231",
+      "start_frame": 1062,
+      "end_frame": 1170,
+      "length": 37,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and extract the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 530,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 50,
+      "end_frame": 260,
+      "length": 71,
+      "task_index": 4,
+      "tasks": [
+        "Remove the outer packaging and open the box."
+      ]
+    },
+    {
+      "episode_index": 531,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 267,
+      "end_frame": 375,
+      "length": 37,
+      "task_index": 4,
+      "tasks": [
+        "Open the package with your right hand and carefully extract the contents."
+      ]
+    },
+    {
+      "episode_index": 532,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 379,
+      "end_frame": 463,
+      "length": 29,
+      "task_index": 4,
+      "tasks": [
+        "Open the package slowly and carefully."
+      ]
+    },
+    {
+      "episode_index": 533,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 480,
+      "end_frame": 564,
+      "length": 29,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the packet of items with your right hand and examine it."
+      ]
+    },
+    {
+      "episode_index": 534,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 568,
+      "end_frame": 853,
+      "length": 96,
+      "task_index": 4,
+      "tasks": [
+        "Turn the page to the right while holding the instruction sheet steady."
+      ]
+    },
+    {
+      "episode_index": 535,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 886,
+      "end_frame": 997,
+      "length": 38,
+      "task_index": 4,
+      "tasks": [
+        "Open the package and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 536,
+      "take_uid": "bbc13004-11f9-4a73-ab06-3fa3836d518f",
+      "start_frame": 1007,
+      "end_frame": 1061,
+      "length": 19,
+      "task_index": 4,
+      "tasks": [
+        "Pick up the red object from the package and place it on the table."
+      ]
+    },
+    {
+      "episode_index": 537,
+      "take_uid": "dc3e63c1-5b14-46f3-8230-5c93249e9469",
+      "start_frame": 116,
+      "end_frame": 398,
+      "length": 95,
+      "task_index": 20,
+      "tasks": [
+        "Move your hand to press down on the third fret of the guitar string firmly."
+      ]
+    },
+    {
+      "episode_index": 538,
+      "take_uid": "dc3e63c1-5b14-46f3-8230-5c93249e9469",
+      "start_frame": 433,
+      "end_frame": 724,
+      "length": 98,
+      "task_index": 20,
+      "tasks": [
+        "Press the string with your fingers and strum the guitar."
+      ]
+    },
+    {
+      "episode_index": 539,
+      "take_uid": "dc3e63c1-5b14-46f3-8230-5c93249e9469",
+      "start_frame": 842,
+      "end_frame": 1097,
+      "length": 86,
+      "task_index": 20,
+      "tasks": [
+        "Adjust your left hand position on the guitar neck."
+      ]
+    },
+    {
+      "episode_index": 540,
+      "take_uid": "dc3e63c1-5b14-46f3-8230-5c93249e9469",
+      "start_frame": 1139,
+      "end_frame": 1337,
+      "length": 67,
+      "task_index": 20,
+      "tasks": [
+        "Press down on the sixth string with your ring finger while moving your fingers to form a chord."
+      ]
+    },
+    {
+      "episode_index": 541,
+      "take_uid": "dd23d126-e63d-4df0-ba1e-2c0c137d5bb2",
+      "start_frame": 376,
+      "end_frame": 676,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the bolt on the front wheel hub using the tool in your right hand."
+      ]
+    },
+    {
+      "episode_index": 542,
+      "take_uid": "d8013909-d1be-4b97-831e-b903115eb94c",
+      "start_frame": 3400,
+      "end_frame": 3700,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Tighten the wheel nut securely."
+      ]
+    },
+    {
+      "episode_index": 543,
+      "take_uid": "7f57b437-75b9-4cff-a260-28dba2ffaacd",
+      "start_frame": 158,
+      "end_frame": 458,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Adjust the burner knob to increase the flame intensity."
+      ]
+    },
+    {
+      "episode_index": 544,
+      "take_uid": "864edaa2-694f-45d7-8519-65f3e819d585",
+      "start_frame": 1855,
+      "end_frame": 2155,
+      "length": 101,
+      "task_index": 23,
+      "tasks": [
+        "Point to the first measure of the sheet music with your finger."
+      ]
+    },
+    {
+      "episode_index": 545,
+      "take_uid": "077eb879-f9e3-47a8-a335-2144c72a4098",
+      "start_frame": 1884,
+      "end_frame": 2184,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the chain with a cloth while holding the bike steady."
+      ]
+    },
+    {
+      "episode_index": 546,
+      "take_uid": "d6646c16-5307-4488-b7a0-4f7fa0a6f3f8",
+      "start_frame": 3533,
+      "end_frame": 3833,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Clean the bike chain with the cloth while applying lubricant."
+      ]
+    },
+    {
+      "episode_index": 547,
+      "take_uid": "72784203-1894-492b-b97d-3854eceae191",
+      "start_frame": 405,
+      "end_frame": 705,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the front wheel's axle nut with moderate force."
+      ]
+    },
+    {
+      "episode_index": 548,
+      "take_uid": "5795a690-ce90-4c46-81ec-3959cb1d0027",
+      "start_frame": 1579,
+      "end_frame": 1879,
+      "length": 101,
+      "task_index": 17,
+      "tasks": [
+        "Sprinkle salt onto the sliced vegetables in the bowl."
+      ]
+    },
+    {
+      "episode_index": 549,
+      "take_uid": "5462ea13-4e33-4c14-9f7c-fbf7756a95c9",
+      "start_frame": 2631,
+      "end_frame": 2931,
+      "length": 101,
+      "task_index": 11,
+      "tasks": [
+        "Dip the toothbrush into the cup and scrub the bicycle chain."
+      ]
+    },
+    {
+      "episode_index": 550,
+      "take_uid": "ae8c1f26-ae3c-4df9-841c-ee364f0e4fc6",
+      "start_frame": 400,
+      "end_frame": 520,
+      "length": 41,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the seat clamp on the bicycle."
+      ]
+    },
+    {
+      "episode_index": 551,
+      "take_uid": "ae8c1f26-ae3c-4df9-841c-ee364f0e4fc6",
+      "start_frame": 548,
+      "end_frame": 785,
+      "length": 80,
+      "task_index": 1,
+      "tasks": [
+        "Tighten the clamp securely around the rear frame of the bicycle."
+      ]
+    },
+    {
+      "episode_index": 552,
+      "take_uid": "16ead1fe-e652-4b14-9c5d-2d73abd5ba78",
+      "start_frame": 2564,
+      "end_frame": 2864,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Pick up the bicycle wheel and rotate it counterclockwise."
+      ]
+    },
+    {
+      "episode_index": 553,
+      "take_uid": "93dee400-712b-4491-9d4a-7b4bf21f4f92",
+      "start_frame": 63,
+      "end_frame": 567,
+      "length": 169,
+      "task_index": 0,
+      "tasks": [
+        "Remove the front wheel from the bicycle."
+      ]
+    },
+    {
+      "episode_index": 554,
+      "take_uid": "87512275-0774-4ae1-84e8-6258f67577f7",
+      "start_frame": 505,
+      "end_frame": 805,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Adjust the rear derailleur by rotating the adjustment screw clockwise."
+      ]
+    }
+  ],
+  "normalization_bounds": {
+    "observation.state": {
+      "min": [
+        -3.8449081284544775,
+        -3.3886463507511273,
+        -4.692480174006551,
+        -4.13238363928766,
+        -2.733046114672646,
+        -6.384325749517913,
+        -4.009948601312907,
+        -2.8918391440786677,
+        -7.215476415392529,
+        -3.981624147794413,
+        -3.1567775639018665,
+        -6.515097136098987,
+        -3.96250180191916,
+        -3.664241098691501,
+        -6.598275103241917,
+        -3.633238036729871,
+        -3.272442050561816,
+        -7.123919826616879,
+        -3.9415021854789813,
+        -4.257281485709465,
+        -5.012961632556873,
+        -4.059000247752898,
+        -3.1030117780805666,
+        -6.975934465788452,
+        -4.033996625155886,
+        -3.0416063815988266,
+        -7.356414901960488,
+        -3.5649057586988704,
+        -4.248524722231457,
+        -4.316439651370533,
+        -3.6382475304480266,
+        -3.6628078486085833,
+        -4.378327610373489,
+        -2.9409137960902605,
+        -3.47345313528391,
+        -6.989919787650862,
+        -3.9777828373158357,
+        -2.77010987018604,
+        -6.222660071612594,
+        -3.498013184974809,
+        -4.2149685600608136,
+        -3.9675077161545147,
+        -4.281695937105866,
+        -3.4233404248867148,
+        -5.197333868376255,
+        -2.9783712499836135,
+        -3.27943886883868,
+        -6.958658879551251,
+        -2.861337260793672,
+        -3.5986632472770834,
+        -6.021153649246806,
+        -3.598869175525877,
+        -4.26522373871125,
+        -4.1550244624147545,
+        -2.899244842903947,
+        -3.5932913744840933,
+        -5.964772056749069,
+        -4.11077778980691,
+        -3.5594196168920433,
+        -6.028673247633833,
+        -4.0914929693197735,
+        -3.655642037822469,
+        -6.007213956352871,
+        -3.5052248859619652,
+        -2.4480765574633683,
+        -4.3171753715320875,
+        -3.5300392336885693,
+        -3.8799594825904062,
+        -4.245558157072713,
+        -1.2045292950921975,
+        -2.5227128958945064,
+        -1.8180347115843025,
+        -0.7357845364464151,
+        -2.4801945891228803,
+        -1.7860654594402234,
+        -0.7329661131069649,
+        -2.607465983915448,
+        -1.8592141749559747,
+        -3.7747240512961824,
+        -3.13333783106569,
+        -4.617267443046721,
+        -3.5159396209317393,
+        -3.782217500829331,
+        -4.1736932096676185,
+        -3.8971235861240174,
+        -2.1255966985615005,
+        -4.6973632920092925,
+        -1.1007095457722043,
+        -2.1189189994211413,
+        -1.234121582406427,
+        -3.766370704259316,
+        -3.1483570972294563,
+        -4.613786018478251,
+        -3.9311366411145556,
+        -3.8017243265209695,
+        -4.729925894579132,
+        -1.535367352376717,
+        -3.03022882066794,
+        -2.0175846764685588,
+        -0.7305567834448805,
+        -2.0819417483956983,
+        -1.3525883634906921,
+        -3.7523089160806293,
+        -3.003455951757068,
+        -4.562374677807945,
+        -1.51601237388493,
+        -3.0123240066687993,
+        -1.6290728118367115,
+        -1.0583467759422678,
+        -1.9082520988932408,
+        -1.2229166980860526,
+        -0.5777241060943634,
+        -1.1896935040005614,
+        -1.2178986312796525,
+        -3.7236632513802945,
+        -3.007387484534701,
+        -4.599921608973133,
+        -1.6233584226007967,
+        -2.168477473236082,
+        -2.121760014185987,
+        -1.5277453043841627,
+        -1.9397618630377371,
+        -2.012616073464338,
+        -1.467478735567429,
+        -1.9017412838600767,
+        -1.948329658442474,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "max": [
+        2.543089985434337,
+        5.464970172511126,
+        2.703971376335197,
+        3.2618783055096126,
+        6.4420089269328145,
+        2.903398855573627,
+        3.527010892398372,
+        7.2056789980733065,
+        2.8733745460329345,
+        3.142039999863865,
+        6.533801960642322,
+        2.840799239578203,
+        3.1394084707131995,
+        6.595834369702139,
+        3.501702301607038,
+        3.6097907586414646,
+        7.115844185266884,
+        2.5823907582641823,
+        3.4649929817327765,
+        5.159941399859127,
+        2.704569453262746,
+        3.4546014799693845,
+        6.973561604223171,
+        2.723961153865801,
+        3.5886680643432616,
+        7.288987193959354,
+        2.7147742109807353,
+        2.4523709132011344,
+        4.419618514087906,
+        2.489650687141669,
+        2.3952394972859654,
+        4.408150679009801,
+        2.4555552700440018,
+        3.3374416640008633,
+        6.967747220598152,
+        2.639414532708159,
+        2.801251923068744,
+        6.184984913005156,
+        2.6791124021129917,
+        2.5193015954418936,
+        4.3413856445571035,
+        2.3559036102565045,
+        2.4824343433715885,
+        4.90881585823871,
+        2.3945102208966986,
+        3.257391774365523,
+        6.925708604276487,
+        2.6587405751654387,
+        2.6370590715487143,
+        5.979541662518127,
+        2.659796835856838,
+        3.584705387308703,
+        4.3954039337035935,
+        2.432679889420733,
+        3.455016710044038,
+        5.912656940128841,
+        2.6394957050078744,
+        2.949519777185607,
+        5.982363082737237,
+        2.6519246640095275,
+        2.975331095770459,
+        5.959850218610352,
+        2.6514553948839676,
+        1.7233044421739994,
+        4.370200199557943,
+        2.4008262278610175,
+        1.7681942051103587,
+        4.541775714543101,
+        2.5550184058437893,
+        1.7367366358413823,
+        2.8654613059669396,
+        2.3092505778052104,
+        1.7090517140785444,
+        2.147817295310845,
+        2.069661019983487,
+        1.8213729288929121,
+        2.2727866833110446,
+        2.437920728284438,
+        1.760641694618844,
+        4.585502837721853,
+        2.473387338807399,
+        1.7652750204666035,
+        4.4160665518697515,
+        2.415517003452834,
+        1.7176396144022705,
+        4.612767793844236,
+        2.387370953912523,
+        1.7139741215407307,
+        1.7939457738525946,
+        2.1779502475685795,
+        1.7772829333722608,
+        4.563790394813719,
+        2.443320791519696,
+        1.7764535679012772,
+        4.652778824846436,
+        2.445197966979862,
+        1.731857428132864,
+        3.1823331953732343,
+        2.446217467130115,
+        1.726554882128406,
+        1.782848080170867,
+        1.5372770356342471,
+        1.7770479077014159,
+        4.511689090649883,
+        2.4135768501217036,
+        1.7491427408874163,
+        3.1661680693471395,
+        2.4370203087717037,
+        1.740743376329009,
+        1.4957744794622534,
+        2.1671166948513747,
+        1.7360317331856887,
+        1.5176521687995446,
+        1.7365369122175593,
+        1.78061386218417,
+        4.535088329083468,
+        2.4313794415080423,
+        1.7680622285301126,
+        2.786804117173612,
+        2.2476783195250016,
+        1.396755213817304,
+        2.6822063731237247,
+        2.1586872154282606,
+        1.3974052709545077,
+        2.6208440628891516,
+        1.779531006401104,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "action": {
+      "min": [
+        -3.8449081284544775,
+        -3.3886463507511273,
+        -4.692480174006551,
+        -4.13238363928766,
+        -2.733046114672646,
+        -6.384325749517913,
+        -4.009948601312907,
+        -2.8918391440786677,
+        -7.215476415392529,
+        -3.981624147794413,
+        -3.1567775639018665,
+        -6.515097136098987,
+        -3.96250180191916,
+        -3.664241098691501,
+        -6.598275103241917,
+        -3.633238036729871,
+        -3.272442050561816,
+        -7.123919826616879,
+        -3.9415021854789813,
+        -4.257281485709465,
+        -5.012961632556873,
+        -4.059000247752898,
+        -3.1030117780805666,
+        -6.975934465788452,
+        -4.033996625155886,
+        -3.0416063815988266,
+        -7.356414901960488,
+        -3.5649057586988704,
+        -4.248524722231457,
+        -4.316439651370533,
+        -3.6382475304480266,
+        -3.6628078486085833,
+        -4.378327610373489,
+        -2.9409137960902605,
+        -3.47345313528391,
+        -6.989919787650862,
+        -3.9777828373158357,
+        -2.77010987018604,
+        -6.222660071612594,
+        -3.498013184974809,
+        -4.2149685600608136,
+        -3.9675077161545147,
+        -4.281695937105866,
+        -3.4233404248867148,
+        -5.197333868376255,
+        -2.9783712499836135,
+        -3.27943886883868,
+        -6.958658879551251,
+        -2.861337260793672,
+        -3.5986632472770834,
+        -6.021153649246806,
+        -3.598869175525877,
+        -4.26522373871125,
+        -4.1550244624147545,
+        -2.899244842903947,
+        -3.5932913744840933,
+        -5.964772056749069,
+        -4.11077778980691,
+        -3.5594196168920433,
+        -6.028673247633833,
+        -4.0914929693197735,
+        -3.655642037822469,
+        -6.007213956352871,
+        -3.5052248859619652,
+        -2.4480765574633683,
+        -4.3171753715320875,
+        -3.5300392336885693,
+        -3.8799594825904062,
+        -4.245558157072713,
+        -1.2045292950921975,
+        -2.5227128958945064,
+        -1.8180347115843025,
+        -0.7357845364464151,
+        -2.4801945891228803,
+        -1.7860654594402234,
+        -0.7329661131069649,
+        -2.607465983915448,
+        -1.8592141749559747,
+        -3.7747240512961824,
+        -3.13333783106569,
+        -4.617267443046721,
+        -3.5159396209317393,
+        -3.782217500829331,
+        -4.1736932096676185,
+        -3.8971235861240174,
+        -2.1255966985615005,
+        -4.6973632920092925,
+        -1.1007095457722043,
+        -2.1189189994211413,
+        -1.234121582406427,
+        -3.766370704259316,
+        -3.1483570972294563,
+        -4.613786018478251,
+        -3.9311366411145556,
+        -3.8017243265209695,
+        -4.729925894579132,
+        -1.535367352376717,
+        -3.03022882066794,
+        -2.0175846764685588,
+        -0.7305567834448805,
+        -2.0819417483956983,
+        -1.3525883634906921,
+        -3.7523089160806293,
+        -3.003455951757068,
+        -4.562374677807945,
+        -1.51601237388493,
+        -3.0123240066687993,
+        -1.6290728118367115,
+        -1.0583467759422678,
+        -1.9082520988932408,
+        -1.2229166980860526,
+        -0.5777241060943634,
+        -1.1896935040005614,
+        -1.2178986312796525,
+        -3.7236632513802945,
+        -3.007387484534701,
+        -4.599921608973133,
+        -1.6233584226007967,
+        -2.168477473236082,
+        -2.121760014185987,
+        -1.5277453043841627,
+        -1.9397618630377371,
+        -2.012616073464338,
+        -1.467478735567429,
+        -1.9017412838600767,
+        -1.948329658442474,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "max": [
+        2.543089985434337,
+        5.464970172511126,
+        2.703971376335197,
+        3.2618783055096126,
+        6.4420089269328145,
+        2.903398855573627,
+        3.527010892398372,
+        7.2056789980733065,
+        2.8733745460329345,
+        3.142039999863865,
+        6.533801960642322,
+        2.840799239578203,
+        3.1394084707131995,
+        6.595834369702139,
+        3.501702301607038,
+        3.6097907586414646,
+        7.115844185266884,
+        2.5823907582641823,
+        3.4649929817327765,
+        5.159941399859127,
+        2.704569453262746,
+        3.4546014799693845,
+        6.973561604223171,
+        2.723961153865801,
+        3.5886680643432616,
+        7.288987193959354,
+        2.7147742109807353,
+        2.4523709132011344,
+        4.419618514087906,
+        2.489650687141669,
+        2.3952394972859654,
+        4.408150679009801,
+        2.4555552700440018,
+        3.3374416640008633,
+        6.967747220598152,
+        2.639414532708159,
+        2.801251923068744,
+        6.184984913005156,
+        2.6791124021129917,
+        2.5193015954418936,
+        4.3413856445571035,
+        2.3559036102565045,
+        2.4824343433715885,
+        4.90881585823871,
+        2.3945102208966986,
+        3.257391774365523,
+        6.925708604276487,
+        2.6587405751654387,
+        2.6370590715487143,
+        5.979541662518127,
+        2.659796835856838,
+        3.584705387308703,
+        4.3954039337035935,
+        2.432679889420733,
+        3.455016710044038,
+        5.912656940128841,
+        2.6394957050078744,
+        2.949519777185607,
+        5.982363082737237,
+        2.6519246640095275,
+        2.975331095770459,
+        5.959850218610352,
+        2.6514553948839676,
+        1.7233044421739994,
+        4.370200199557943,
+        2.4008262278610175,
+        1.7681942051103587,
+        4.541775714543101,
+        2.5550184058437893,
+        1.7367366358413823,
+        2.8654613059669396,
+        2.3092505778052104,
+        1.7090517140785444,
+        2.147817295310845,
+        2.069661019983487,
+        1.8213729288929121,
+        2.2727866833110446,
+        2.437920728284438,
+        1.760641694618844,
+        4.585502837721853,
+        2.473387338807399,
+        1.7652750204666035,
+        4.4160665518697515,
+        2.415517003452834,
+        1.7176396144022705,
+        4.612767793844236,
+        2.387370953912523,
+        1.7139741215407307,
+        1.7939457738525946,
+        2.1779502475685795,
+        1.7772829333722608,
+        4.563790394813719,
+        2.443320791519696,
+        1.7764535679012772,
+        4.652778824846436,
+        2.445197966979862,
+        1.731857428132864,
+        3.1823331953732343,
+        2.446217467130115,
+        1.726554882128406,
+        1.782848080170867,
+        1.5372770356342471,
+        1.7770479077014159,
+        4.511689090649883,
+        2.4135768501217036,
+        1.7491427408874163,
+        3.1661680693471395,
+        2.4370203087717037,
+        1.740743376329009,
+        1.4957744794622534,
+        2.1671166948513747,
+        1.7360317331856887,
+        1.5176521687995446,
+        1.7365369122175593,
+        1.78061386218417,
+        4.535088329083468,
+        2.4313794415080423,
+        1.7680622285301126,
+        2.786804117173612,
+        2.2476783195250016,
+        1.396755213817304,
+        2.6822063731237247,
+        2.1586872154282606,
+        1.3974052709545077,
+        2.6208440628891516,
+        1.779531006401104,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}

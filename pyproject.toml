@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egghand"
+version = "0.1.0"
+description = "EggHand: egocentric hand pose forecasting"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+
+[tool.setuptools.packages.find]
+include = ["gr00t*", "utils*"]
+exclude = ["gr00t.model.backbone.egovideo_model*"]
+
+[tool.setuptools.package-data]
+gr00t = ["py.typed", "model/backbone/eagle2_hg_model/*.json", "model/backbone/eagle2_hg_model/*.txt"]

@@ -1,0 +1,24 @@
+{
+  "repository": "nvidia/GR00T-N1.5-3B",
+  "revision": "869830fc749c35f34771aa5209f923ac57e4564e",
+  "files": {
+    "config.json": {
+      "sha256": "6159de1bea27399cb4d5d8f2ad79bdfbaf9f7646dc83786dd186cd291a4f201b"
+    },
+    "LICENSE": {
+      "sha256": "fdc54058d8b52bbb3b06c924326ff95a15687b08b15f92bc63adabc291638c89"
+    },
+    "model.safetensors.index.json": {
+      "sha256": "c631078eb34b96026e1e6afa3050e1e13651d06a943853ae9f2c99cac65704c8"
+    },
+    "model-00001-of-00003.safetensors": {
+      "sha256": "4d5e8e2a81a4b25084965ae87b8257a87ebe2f3b6656f83bbb15ba13675940b6"
+    },
+    "model-00002-of-00003.safetensors": {
+      "sha256": "03ba0f11339d5ed24920582781c7352e308eb4eb78067c128bd8516b146656c8"
+    },
+    "model-00003-of-00003.safetensors": {
+      "sha256": "1f572eb204d7afe3ddbfb890ca56eac1a9bafbdce51ed6fd3ba314dc4298d565"
+    }
+  }
+}

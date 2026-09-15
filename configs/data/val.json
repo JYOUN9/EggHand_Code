@@ -1,0 +1,1851 @@
+{
+  "tasks": [
+    {
+      "task_index": 0,
+      "task": "Cooking Tomato & Eggs"
+    },
+    {
+      "task_index": 1,
+      "task": "Covid-19 Rapid Antigen Test"
+    },
+    {
+      "task_index": 2,
+      "task": "Playing Piano - Scales and Arpeggios"
+    },
+    {
+      "task_index": 3,
+      "task": "Playing Violin - Suzuki Books"
+    },
+    {
+      "task_index": 4,
+      "task": "Clean and Lubricate the Chain"
+    },
+    {
+      "task_index": 5,
+      "task": "Fix a Flat Tire - Replace a Bike Tube"
+    },
+    {
+      "task_index": 6,
+      "task": "Install a Wheel"
+    },
+    {
+      "task_index": 7,
+      "task": "Remove a Wheel"
+    },
+    {
+      "task_index": 8,
+      "task": "Making Milk Tea"
+    },
+    {
+      "task_index": 9,
+      "task": "Cooking an Omelet"
+    },
+    {
+      "task_index": 10,
+      "task": "Playing Guitar"
+    },
+    {
+      "task_index": 11,
+      "task": "First Aid - CPR"
+    },
+    {
+      "task_index": 12,
+      "task": "Playing Piano - Freeplaying"
+    },
+    {
+      "task_index": 13,
+      "task": "Playing Violin - Scales and Arpeggios"
+    },
+    {
+      "task_index": 14,
+      "task": "Playing Violin"
+    },
+    {
+      "task_index": 15,
+      "task": "Playing Violin - Freeplaying"
+    },
+    {
+      "task_index": 16,
+      "task": "Playing Guitar - Scales and Arpeggios"
+    },
+    {
+      "task_index": 17,
+      "task": "Playing Piano - Suzuki Books"
+    },
+    {
+      "task_index": 18,
+      "task": "Playing Piano"
+    },
+    {
+      "task_index": 19,
+      "task": "Making Cucumber & Tomato Salad"
+    }
+  ],
+  "episodes": [
+    {
+      "episode_index": 0,
+      "take_uid": "96d772ac-01e0-4e53-85e5-4ce45e58b6f1",
+      "start_frame": 7607,
+      "end_frame": 7907,
+      "length": 101,
+      "task_index": 0,
+      "tasks": [
+        "Sprinkle the contents from the packet onto the cooking omelet in the pan."
+      ]
+    },
+    {
+      "episode_index": 1,
+      "take_uid": "e09f97c8-0493-4d0a-98a6-e678d4c7dc00",
+      "start_frame": 6964,
+      "end_frame": 7261,
+      "length": 100,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the test strip and apply the sample on the designated area."
+      ]
+    },
+    {
+      "episode_index": 2,
+      "take_uid": "c53a1199-5ca1-4aa8-ac4e-38227ff44689",
+      "start_frame": 140,
+      "end_frame": 401,
+      "length": 88,
+      "task_index": 2,
+      "tasks": [
+        "Play the piano keys while maintaining a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 3,
+      "take_uid": "c53a1199-5ca1-4aa8-ac4e-38227ff44689",
+      "start_frame": 720,
+      "end_frame": 855,
+      "length": 46,
+      "task_index": 2,
+      "tasks": [
+        "Play the keys on the piano in a rhythmic sequence."
+      ]
+    },
+    {
+      "episode_index": 4,
+      "take_uid": "f6ec4ec9-1e11-40dd-b3f6-3f752317e3e8",
+      "start_frame": 39,
+      "end_frame": 354,
+      "length": 106,
+      "task_index": 3,
+      "tasks": [
+        "Hold your position and stop moving the violin."
+      ]
+    },
+    {
+      "episode_index": 5,
+      "take_uid": "2da6c2ce-a88f-4790-9642-8dfa810ae91b",
+      "start_frame": 2419,
+      "end_frame": 2716,
+      "length": 100,
+      "task_index": 4,
+      "tasks": [
+        "Hold the bike in position while tightening the chain with the tool."
+      ]
+    },
+    {
+      "episode_index": 6,
+      "take_uid": "fc39031f-a708-4aea-965a-cc980f57e0ad",
+      "start_frame": 4877,
+      "end_frame": 5177,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the packet and take out the swab."
+      ]
+    },
+    {
+      "episode_index": 7,
+      "take_uid": "5c3e7989-9b64-42dd-af7c-274ce12619bd",
+      "start_frame": 2978,
+      "end_frame": 3275,
+      "length": 100,
+      "task_index": 4,
+      "tasks": [
+        "Remove the rear wheel from the bike."
+      ]
+    },
+    {
+      "episode_index": 8,
+      "take_uid": "0733d5bc-b1a8-40c3-98de-9585e23eb2d9",
+      "start_frame": 702,
+      "end_frame": 999,
+      "length": 100,
+      "task_index": 5,
+      "tasks": [
+        "Tighten the nut on the wheel hub securely."
+      ]
+    },
+    {
+      "episode_index": 9,
+      "take_uid": "a89215f1-92fe-4207-9293-62ce108171da",
+      "start_frame": 28,
+      "end_frame": 283,
+      "length": 86,
+      "task_index": 5,
+      "tasks": [
+        "Remove the tire from the wheel."
+      ]
+    },
+    {
+      "episode_index": 10,
+      "take_uid": "a89215f1-92fe-4207-9293-62ce108171da",
+      "start_frame": 325,
+      "end_frame": 565,
+      "length": 81,
+      "task_index": 5,
+      "tasks": [
+        "Hold the bicycle wheel steady while manipulating the inner tube."
+      ]
+    },
+    {
+      "episode_index": 11,
+      "take_uid": "a89215f1-92fe-4207-9293-62ce108171da",
+      "start_frame": 1821,
+      "end_frame": 2277,
+      "length": 153,
+      "task_index": 5,
+      "tasks": [
+        "Remove the valve core from the bicycle tire using the tool."
+      ]
+    },
+    {
+      "episode_index": 12,
+      "take_uid": "a89215f1-92fe-4207-9293-62ce108171da",
+      "start_frame": 2776,
+      "end_frame": 3133,
+      "length": 120,
+      "task_index": 5,
+      "tasks": [
+        "Remove the tire from the rim."
+      ]
+    },
+    {
+      "episode_index": 13,
+      "take_uid": "2bb5152e-cab4-46dc-9aa6-e73007f7df8b",
+      "start_frame": 3075,
+      "end_frame": 3375,
+      "length": 101,
+      "task_index": 4,
+      "tasks": [
+        "Hold the chain while pushing the pedal clockwise."
+      ]
+    },
+    {
+      "episode_index": 14,
+      "take_uid": "8ad335cf-c9c5-412f-9347-53867db66ee0",
+      "start_frame": 69,
+      "end_frame": 369,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Attach the front wheel to the bicycle frame."
+      ]
+    },
+    {
+      "episode_index": 15,
+      "take_uid": "378417ad-60f2-4d2e-8b75-038effb3736c",
+      "start_frame": 1376,
+      "end_frame": 1676,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the packet carefully."
+      ]
+    },
+    {
+      "episode_index": 16,
+      "take_uid": "0ee17c1c-3c71-4e5c-bc6f-ae7dfb27232e",
+      "start_frame": 477,
+      "end_frame": 777,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Tighten the rear wheel's quick-release lever clockwise."
+      ]
+    },
+    {
+      "episode_index": 17,
+      "take_uid": "812bb3bb-217a-454c-995c-d3e995576b81",
+      "start_frame": 2287,
+      "end_frame": 2587,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Tighten the bolt on the front wheel using a wrench."
+      ]
+    },
+    {
+      "episode_index": 18,
+      "take_uid": "5eb9aca3-65df-4c6d-bc38-89919e19f49a",
+      "start_frame": 1000,
+      "end_frame": 1300,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Adjust the bicycle's rear wheel by pulling it backwards."
+      ]
+    },
+    {
+      "episode_index": 19,
+      "take_uid": "6ded8a71-6cca-4514-bbe0-6a5f028262c9",
+      "start_frame": 3625,
+      "end_frame": 3922,
+      "length": 100,
+      "task_index": 1,
+      "tasks": [
+        "Hold the timer with your right hand and point at the instruction sheet."
+      ]
+    },
+    {
+      "episode_index": 20,
+      "take_uid": "a2fde9e6-566b-4b88-97d4-e984362abdad",
+      "start_frame": 4184,
+      "end_frame": 4484,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the swab and insert it into the solution vial."
+      ]
+    },
+    {
+      "episode_index": 21,
+      "take_uid": "6101e4e5-a889-45c5-ab66-e9125d2138bf",
+      "start_frame": 636,
+      "end_frame": 915,
+      "length": 94,
+      "task_index": 8,
+      "tasks": [
+        "Pour the contents of the packet into the bowl."
+      ]
+    },
+    {
+      "episode_index": 22,
+      "take_uid": "fdee7835-5174-4915-b13a-74ec4f33ad95",
+      "start_frame": 2561,
+      "end_frame": 2861,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Pour the liquid into the pot while keeping the device steady."
+      ]
+    },
+    {
+      "episode_index": 23,
+      "take_uid": "39aed552-db33-4f6e-92c4-88ec4b369550",
+      "start_frame": 4431,
+      "end_frame": 4731,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Tighten the bolt on the bicycle's rear axle with a wrench."
+      ]
+    },
+    {
+      "episode_index": 24,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 64,
+      "end_frame": 121,
+      "length": 20,
+      "task_index": 1,
+      "tasks": [
+        "Turn the box over to read the instructions."
+      ]
+    },
+    {
+      "episode_index": 25,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 154,
+      "end_frame": 214,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Open the package and remove the contents."
+      ]
+    },
+    {
+      "episode_index": 26,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 225,
+      "end_frame": 285,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Remove the top cover of the box carefully."
+      ]
+    },
+    {
+      "episode_index": 27,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 295,
+      "end_frame": 538,
+      "length": 82,
+      "task_index": 1,
+      "tasks": [
+        "Remove the item from the box."
+      ]
+    },
+    {
+      "episode_index": 28,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 585,
+      "end_frame": 738,
+      "length": 52,
+      "task_index": 1,
+      "tasks": [
+        "Remove the card from the package."
+      ]
+    },
+    {
+      "episode_index": 29,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 913,
+      "end_frame": 1027,
+      "length": 39,
+      "task_index": 1,
+      "tasks": [
+        "Pull the box open and remove the contents quickly."
+      ]
+    },
+    {
+      "episode_index": 30,
+      "take_uid": "5bd830a8-5752-4aab-bd01-e9fb518864fe",
+      "start_frame": 1047,
+      "end_frame": 1365,
+      "length": 107,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the package on the table with your right hand."
+      ]
+    },
+    {
+      "episode_index": 31,
+      "take_uid": "b5f8232e-5686-43ba-8e7a-ffeadb232444",
+      "start_frame": 83,
+      "end_frame": 1517,
+      "length": 479,
+      "task_index": 2,
+      "tasks": [
+        "Play the piano keys in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 32,
+      "take_uid": "b5f8232e-5686-43ba-8e7a-ffeadb232444",
+      "start_frame": 1577,
+      "end_frame": 1904,
+      "length": 110,
+      "task_index": 2,
+      "tasks": [
+        "Play the piano keys smoothly starting from the left to the right."
+      ]
+    },
+    {
+      "episode_index": 33,
+      "take_uid": "8c904e96-eea7-4b47-a8a1-0201424090df",
+      "start_frame": 6513,
+      "end_frame": 6813,
+      "length": 101,
+      "task_index": 5,
+      "tasks": [
+        "Attach the pump to the bicycle tire valve and inflate the tire."
+      ]
+    },
+    {
+      "episode_index": 34,
+      "take_uid": "622995a4-01fb-478e-a33d-7eef6e8b370d",
+      "start_frame": 8017,
+      "end_frame": 8176,
+      "length": 54,
+      "task_index": 9,
+      "tasks": [
+        "Pick up the plate from the drawer."
+      ]
+    },
+    {
+      "episode_index": 35,
+      "take_uid": "622995a4-01fb-478e-a33d-7eef6e8b370d",
+      "start_frame": 8194,
+      "end_frame": 8317,
+      "length": 42,
+      "task_index": 9,
+      "tasks": [
+        "Open the cabinet door slowly."
+      ]
+    },
+    {
+      "episode_index": 36,
+      "take_uid": "ca9dc2d8-2be0-45a9-bcda-5ea27302f71a",
+      "start_frame": 4554,
+      "end_frame": 4854,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Prepare the device by aligning the components as shown in the instructions."
+      ]
+    },
+    {
+      "episode_index": 37,
+      "take_uid": "0b812849-e4a6-47f3-a379-0127f36bce72",
+      "start_frame": 2316,
+      "end_frame": 2616,
+      "length": 101,
+      "task_index": 10,
+      "tasks": [
+        "Point to the sheet music on the stand with your finger."
+      ]
+    },
+    {
+      "episode_index": 38,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 67,
+      "end_frame": 163,
+      "length": 33,
+      "task_index": 1,
+      "tasks": [
+        "Open the COVID-19 home test kit."
+      ]
+    },
+    {
+      "episode_index": 39,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 412,
+      "end_frame": 472,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Press the button on the box firmly."
+      ]
+    },
+    {
+      "episode_index": 40,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 482,
+      "end_frame": 542,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Pull the tab to open the box."
+      ]
+    },
+    {
+      "episode_index": 41,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 623,
+      "end_frame": 815,
+      "length": 65,
+      "task_index": 1,
+      "tasks": [
+        "Open the COVID-19 test kit and remove the instructions."
+      ]
+    },
+    {
+      "episode_index": 42,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 932,
+      "end_frame": 1019,
+      "length": 30,
+      "task_index": 1,
+      "tasks": [
+        "Hold the instruction manual steady while you read it."
+      ]
+    },
+    {
+      "episode_index": 43,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 1061,
+      "end_frame": 1088,
+      "length": 10,
+      "task_index": 1,
+      "tasks": [
+        "Turn the page towards you."
+      ]
+    },
+    {
+      "episode_index": 44,
+      "take_uid": "cc8bfc86-777e-4537-b207-9c599e9a1f40",
+      "start_frame": 1411,
+      "end_frame": 1654,
+      "length": 82,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the COVID-19 test kit from the table."
+      ]
+    },
+    {
+      "episode_index": 45,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 67,
+      "end_frame": 169,
+      "length": 35,
+      "task_index": 1,
+      "tasks": [
+        "Turn the box to the left while holding it."
+      ]
+    },
+    {
+      "episode_index": 46,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 290,
+      "end_frame": 350,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Pull the top tab of the box upwards while maintaining a firm grip."
+      ]
+    },
+    {
+      "episode_index": 47,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 385,
+      "end_frame": 604,
+      "length": 74,
+      "task_index": 1,
+      "tasks": [
+        "Open the blue box and remove the contents inside."
+      ]
+    },
+    {
+      "episode_index": 48,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 609,
+      "end_frame": 669,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Open the box and remove the contents."
+      ]
+    },
+    {
+      "episode_index": 49,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 709,
+      "end_frame": 1324,
+      "length": 206,
+      "task_index": 1,
+      "tasks": [
+        "Open the BinaxNOW box and take out the testing components."
+      ]
+    },
+    {
+      "episode_index": 50,
+      "take_uid": "b511dfed-58f4-4c91-bf0a-f8ce9d47aea9",
+      "start_frame": 1391,
+      "end_frame": 1445,
+      "length": 19,
+      "task_index": 1,
+      "tasks": [
+        "Turn the instruction sheet to face you and hold it steady."
+      ]
+    },
+    {
+      "episode_index": 51,
+      "take_uid": "da1f7028-3ccd-4dbe-90d6-eddb045496cf",
+      "start_frame": 710,
+      "end_frame": 1010,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Remove the rear wheel from the bike."
+      ]
+    },
+    {
+      "episode_index": 52,
+      "take_uid": "dd20e1de-2636-44a7-8e8b-a73571c375ef",
+      "start_frame": 76,
+      "end_frame": 289,
+      "length": 72,
+      "task_index": 11,
+      "tasks": [
+        "Perform chest compressions continuously on the mannequin."
+      ]
+    },
+    {
+      "episode_index": 53,
+      "take_uid": "853961be-a9e1-4b0c-81f6-d3e17c190b08",
+      "start_frame": 599,
+      "end_frame": 899,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Tighten the rear wheel axle nut carefully."
+      ]
+    },
+    {
+      "episode_index": 54,
+      "take_uid": "92b2221b-ae92-44f0-bb31-e2d27cb736d6",
+      "start_frame": 215,
+      "end_frame": 305,
+      "length": 31,
+      "task_index": 12,
+      "tasks": [
+        "Play the piano with both hands."
+      ]
+    },
+    {
+      "episode_index": 55,
+      "take_uid": "f8e15a05-f5b1-48e7-8751-6fbeb8acad38",
+      "start_frame": 1842,
+      "end_frame": 2142,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Hold the bicycle frame steady with your left hand while tightening the handlebars with your right hand."
+      ]
+    },
+    {
+      "episode_index": 56,
+      "take_uid": "2ceb8750-40dc-4639-bf49-e19566df83d4",
+      "start_frame": 1520,
+      "end_frame": 1820,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Pour the contents from the container into the pot on the stove."
+      ]
+    },
+    {
+      "episode_index": 57,
+      "take_uid": "8dd24f73-3235-4af7-9790-7df5b944f843",
+      "start_frame": 3089,
+      "end_frame": 3386,
+      "length": 100,
+      "task_index": 13,
+      "tasks": [
+        "Bow the strings of the cello rapidly."
+      ]
+    },
+    {
+      "episode_index": 58,
+      "take_uid": "341c8e30-a29d-4641-84b7-6f44c77c63d2",
+      "start_frame": 295,
+      "end_frame": 595,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Pick up the cone wrench from the tool shelf."
+      ]
+    },
+    {
+      "episode_index": 59,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 0,
+      "end_frame": 120,
+      "length": 41,
+      "task_index": 14,
+      "tasks": [
+        "Hold position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 60,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 290,
+      "end_frame": 545,
+      "length": 86,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 61,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 560,
+      "end_frame": 560,
+      "length": 1,
+      "task_index": 14,
+      "tasks": [
+        "Hold your position and stop moving."
+      ]
+    },
+    {
+      "episode_index": 62,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 651,
+      "end_frame": 900,
+      "length": 84,
+      "task_index": 14,
+      "tasks": [
+        "Hold the violin steady and focus on the sheet music."
+      ]
+    },
+    {
+      "episode_index": 63,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 977,
+      "end_frame": 1154,
+      "length": 60,
+      "task_index": 14,
+      "tasks": [
+        "Stop moving and hold your position."
+      ]
+    },
+    {
+      "episode_index": 64,
+      "take_uid": "72a51c48-eea6-446d-b933-f44620806e50",
+      "start_frame": 1226,
+      "end_frame": 1238,
+      "length": 5,
+      "task_index": 14,
+      "tasks": [
+        "Climb the stairs and position yourself at the top."
+      ]
+    },
+    {
+      "episode_index": 65,
+      "take_uid": "e62eb28d-24e0-4281-bfbf-19c0bad605c2",
+      "start_frame": 68,
+      "end_frame": 488,
+      "length": 141,
+      "task_index": 15,
+      "tasks": [
+        "Turn the page of the music book to the left."
+      ]
+    },
+    {
+      "episode_index": 66,
+      "take_uid": "e62eb28d-24e0-4281-bfbf-19c0bad605c2",
+      "start_frame": 520,
+      "end_frame": 769,
+      "length": 84,
+      "task_index": 15,
+      "tasks": [
+        "Draw the bow across the strings of the instrument to play a note."
+      ]
+    },
+    {
+      "episode_index": 67,
+      "take_uid": "e62eb28d-24e0-4281-bfbf-19c0bad605c2",
+      "start_frame": 935,
+      "end_frame": 1163,
+      "length": 77,
+      "task_index": 15,
+      "tasks": [
+        "Bow the string slowly up and down."
+      ]
+    },
+    {
+      "episode_index": 68,
+      "take_uid": "e62eb28d-24e0-4281-bfbf-19c0bad605c2",
+      "start_frame": 2212,
+      "end_frame": 2332,
+      "length": 41,
+      "task_index": 15,
+      "tasks": [
+        "Bow the instrument downward gently."
+      ]
+    },
+    {
+      "episode_index": 69,
+      "take_uid": "e62eb28d-24e0-4281-bfbf-19c0bad605c2",
+      "start_frame": 2672,
+      "end_frame": 2768,
+      "length": 33,
+      "task_index": 15,
+      "tasks": [
+        "Draw the bow across the strings of the instrument in a steady motion."
+      ]
+    },
+    {
+      "episode_index": 70,
+      "take_uid": "bb97189c-c3c2-445b-998a-e65162cb6c93",
+      "start_frame": 537,
+      "end_frame": 837,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the package on the table."
+      ]
+    },
+    {
+      "episode_index": 71,
+      "take_uid": "c30672fa-2bc3-4348-b839-5ba456622659",
+      "start_frame": 1666,
+      "end_frame": 1966,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Insert the swab into the red cap and twist it clockwise."
+      ]
+    },
+    {
+      "episode_index": 72,
+      "take_uid": "9d88d1fc-6174-4c63-b0dc-3f55c6b1bffc",
+      "start_frame": 1521,
+      "end_frame": 1821,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the package and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 73,
+      "take_uid": "94145154-ef77-4fe2-9dea-c8b73508cfbf",
+      "start_frame": 2317,
+      "end_frame": 2611,
+      "length": 99,
+      "task_index": 1,
+      "tasks": [
+        "Open the package carefully and remove the test components."
+      ]
+    },
+    {
+      "episode_index": 74,
+      "take_uid": "87a09132-b107-40bf-aca0-1ae6e5dc46cd",
+      "start_frame": 2348,
+      "end_frame": 2648,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Crack the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 75,
+      "take_uid": "a0f2b3d8-95f9-4ade-81c1-e17fcefa75d6",
+      "start_frame": 476,
+      "end_frame": 776,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Install the bicycle tire on the rim securely."
+      ]
+    },
+    {
+      "episode_index": 76,
+      "take_uid": "896805f2-f741-40ae-87a0-16e520c12ada",
+      "start_frame": 731,
+      "end_frame": 1031,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Break the egg into the bowl."
+      ]
+    },
+    {
+      "episode_index": 77,
+      "take_uid": "73e04891-036b-41da-8682-8ee1c2e4bb6e",
+      "start_frame": 1340,
+      "end_frame": 1640,
+      "length": 101,
+      "task_index": 16,
+      "tasks": [
+        "Hold the guitar fretboard steady while pressing down on the strings."
+      ]
+    },
+    {
+      "episode_index": 78,
+      "take_uid": "6e5211e1-72d8-4032-ba56-b4095c0f2b36",
+      "start_frame": 648,
+      "end_frame": 798,
+      "length": 51,
+      "task_index": 17,
+      "tasks": [
+        "Play the left hand keys on the piano slowly."
+      ]
+    },
+    {
+      "episode_index": 79,
+      "take_uid": "6e5211e1-72d8-4032-ba56-b4095c0f2b36",
+      "start_frame": 845,
+      "end_frame": 983,
+      "length": 47,
+      "task_index": 17,
+      "tasks": [
+        "Play the piano using both hands."
+      ]
+    },
+    {
+      "episode_index": 80,
+      "take_uid": "6e5211e1-72d8-4032-ba56-b4095c0f2b36",
+      "start_frame": 1055,
+      "end_frame": 1262,
+      "length": 70,
+      "task_index": 17,
+      "tasks": [
+        "Play the piano keys with both hands in a steady rhythm."
+      ]
+    },
+    {
+      "episode_index": 81,
+      "take_uid": "6e5211e1-72d8-4032-ba56-b4095c0f2b36",
+      "start_frame": 1663,
+      "end_frame": 1735,
+      "length": 25,
+      "task_index": 17,
+      "tasks": [
+        "Play the piano with both hands."
+      ]
+    },
+    {
+      "episode_index": 82,
+      "take_uid": "6e5211e1-72d8-4032-ba56-b4095c0f2b36",
+      "start_frame": 1806,
+      "end_frame": 1947,
+      "length": 48,
+      "task_index": 17,
+      "tasks": [
+        "Press the keys sequentially from left to right on the piano."
+      ]
+    },
+    {
+      "episode_index": 83,
+      "take_uid": "350c784e-21aa-4274-bac8-a1fae4a1e090",
+      "start_frame": 1830,
+      "end_frame": 2130,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Hold the COVID-19 antigen test instruction booklet in front of you."
+      ]
+    },
+    {
+      "episode_index": 84,
+      "take_uid": "c692c40e-f2ca-4338-bb9e-1c779a7288a2",
+      "start_frame": 294,
+      "end_frame": 594,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Tighten the chain on the bicycle frame with your left hand."
+      ]
+    },
+    {
+      "episode_index": 85,
+      "take_uid": "6d59ca00-e402-4272-b0d2-1b34a2370860",
+      "start_frame": 5431,
+      "end_frame": 5731,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the package and remove the contents."
+      ]
+    },
+    {
+      "episode_index": 86,
+      "take_uid": "a8f7a36a-28da-4b81-83b1-be21dc4c7f8a",
+      "start_frame": 567,
+      "end_frame": 867,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Loosen the front wheel nut."
+      ]
+    },
+    {
+      "episode_index": 87,
+      "take_uid": "9f14cc97-8fff-491c-a659-359b09332328",
+      "start_frame": 4006,
+      "end_frame": 4306,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Take the test swab from the package and insert it into the test card."
+      ]
+    },
+    {
+      "episode_index": 88,
+      "take_uid": "350002f0-3d78-477e-9c33-80a2cc16f29e",
+      "start_frame": 663,
+      "end_frame": 963,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Align the bike wheel with the frame and secure it in place."
+      ]
+    },
+    {
+      "episode_index": 89,
+      "take_uid": "cfd6b713-2511-41d4-84b8-0eced6beb5db",
+      "start_frame": 921,
+      "end_frame": 1221,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the packet carefully and remove the contents."
+      ]
+    },
+    {
+      "episode_index": 90,
+      "take_uid": "7c341853-eea3-4243-ab99-e11919aefa4c",
+      "start_frame": 117,
+      "end_frame": 417,
+      "length": 101,
+      "task_index": 18,
+      "tasks": [
+        "Turn to face the left and walk backward slowly."
+      ]
+    },
+    {
+      "episode_index": 91,
+      "take_uid": "140253fd-9258-483a-9bf1-5426d91a05dd",
+      "start_frame": 4078,
+      "end_frame": 4378,
+      "length": 101,
+      "task_index": 9,
+      "tasks": [
+        "Stir the contents in the pan using the wooden spatula."
+      ]
+    },
+    {
+      "episode_index": 92,
+      "take_uid": "c4c0e97d-135b-4dec-b736-e184442bd42e",
+      "start_frame": 400,
+      "end_frame": 700,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Open the COVID-19 test kit and remove the components."
+      ]
+    },
+    {
+      "episode_index": 93,
+      "take_uid": "80138be1-0b55-489e-af4f-1da173c2a500",
+      "start_frame": 51,
+      "end_frame": 351,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Attach the wheel to the bike fork using the wrench."
+      ]
+    },
+    {
+      "episode_index": 94,
+      "take_uid": "85fd6959-1429-4edc-8cfb-632c45599558",
+      "start_frame": 7306,
+      "end_frame": 7606,
+      "length": 101,
+      "task_index": 1,
+      "tasks": [
+        "Position the syringe over the test strip and release the solution into the designated area."
+      ]
+    },
+    {
+      "episode_index": 95,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 41,
+      "end_frame": 155,
+      "length": 39,
+      "task_index": 1,
+      "tasks": [
+        "Open the box and remove the contents carefully."
+      ]
+    },
+    {
+      "episode_index": 96,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 224,
+      "end_frame": 566,
+      "length": 115,
+      "task_index": 1,
+      "tasks": [
+        "Open the box and carefully remove the test kit contents."
+      ]
+    },
+    {
+      "episode_index": 97,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 594,
+      "end_frame": 822,
+      "length": 77,
+      "task_index": 1,
+      "tasks": [
+        "Hold the instruction card steady in your hands."
+      ]
+    },
+    {
+      "episode_index": 98,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 995,
+      "end_frame": 1055,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Turn the instruction booklet over to the other side."
+      ]
+    },
+    {
+      "episode_index": 99,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 1150,
+      "end_frame": 1234,
+      "length": 29,
+      "task_index": 1,
+      "tasks": [
+        "Pick up the item in your right hand and examine it closely."
+      ]
+    },
+    {
+      "episode_index": 100,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 1322,
+      "end_frame": 1322,
+      "length": 1,
+      "task_index": 1,
+      "tasks": [
+        "Turn the page of the manual to the left."
+      ]
+    },
+    {
+      "episode_index": 101,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 1371,
+      "end_frame": 1431,
+      "length": 21,
+      "task_index": 1,
+      "tasks": [
+        "Remove the card from the package and place it on the left side of the manual."
+      ]
+    },
+    {
+      "episode_index": 102,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 1656,
+      "end_frame": 1734,
+      "length": 27,
+      "task_index": 1,
+      "tasks": [
+        "Hold the COVID-19 test kit in your left hand and the other test kit in your right hand."
+      ]
+    },
+    {
+      "episode_index": 103,
+      "take_uid": "5c12c6e3-d34e-4e9a-bd7f-74aed58427a7",
+      "start_frame": 2242,
+      "end_frame": 2308,
+      "length": 23,
+      "task_index": 1,
+      "tasks": [
+        "Open the package and examine the contents."
+      ]
+    },
+    {
+      "episode_index": 104,
+      "take_uid": "4671238e-594f-49ba-ad74-b6b2bfe6a9a0",
+      "start_frame": 881,
+      "end_frame": 1181,
+      "length": 101,
+      "task_index": 19,
+      "tasks": [
+        "Peel the cucumber while holding it steady."
+      ]
+    },
+    {
+      "episode_index": 105,
+      "take_uid": "45eda8fc-cb07-4d82-91f1-d02cb579b9ec",
+      "start_frame": 1160,
+      "end_frame": 1460,
+      "length": 101,
+      "task_index": 7,
+      "tasks": [
+        "Adjust the rear wheel tightness by turning the quick release lever."
+      ]
+    },
+    {
+      "episode_index": 106,
+      "take_uid": "8eb9612b-7b52-4f0c-a72f-dd7f3c54bf2e",
+      "start_frame": 5018,
+      "end_frame": 5318,
+      "length": 101,
+      "task_index": 8,
+      "tasks": [
+        "Pour the hot liquid through the strainer into the cup."
+      ]
+    },
+    {
+      "episode_index": 107,
+      "take_uid": "7785da94-b19b-491c-94dc-89106e095f79",
+      "start_frame": 220,
+      "end_frame": 517,
+      "length": 100,
+      "task_index": 6,
+      "tasks": [
+        "Tighten the axle nut on the bicycle wheel."
+      ]
+    },
+    {
+      "episode_index": 108,
+      "take_uid": "3889788b-5b6a-4139-ab64-ecf9c0945242",
+      "start_frame": 2058,
+      "end_frame": 2358,
+      "length": 101,
+      "task_index": 6,
+      "tasks": [
+        "Tighten the wheel nut securely with your right hand."
+      ]
+    }
+  ],
+  "normalization_bounds": {
+    "observation.state": {
+      "min": [
+        -0.8202075583630037,
+        -1.8377858712267916,
+        -0.7839876253187299,
+        -0.7991558818206723,
+        -1.876919158867651,
+        -0.7750616946822619,
+        -0.8501147842696053,
+        -1.856454167332287,
+        -0.7714006079775491,
+        -0.833196748909077,
+        -1.8950098366633483,
+        -0.7782908032080478,
+        -0.814636385970152,
+        -1.9124263844581764,
+        -0.8282166122123401,
+        -0.8804488755407469,
+        -1.9025654831813197,
+        -0.7812932738677909,
+        -0.8439435806313513,
+        -1.9295619330501141,
+        -0.7157455125393842,
+        -0.8228166329297864,
+        -1.9433230708555405,
+        -0.6601064574209585,
+        -0.8082511003231687,
+        -1.8578199848507202,
+        -0.6709201130554912,
+        -0.794642811677754,
+        -1.9121386813203443,
+        -0.6191816131384257,
+        -0.7766869656326243,
+        -1.7346082977782107,
+        -0.6417220165955153,
+        -0.7624316108826577,
+        -1.7469013312450752,
+        -0.6492045346295159,
+        -0.6557695433867439,
+        -1.7462239652250169,
+        -0.6305052747646769,
+        -0.7913477426121727,
+        -1.9094354036676648,
+        -0.6323080849946607,
+        -0.7642957717778494,
+        -1.7298559003923426,
+        -0.6252701116032056,
+        -0.6670251321255689,
+        -1.7385795823116421,
+        -0.5585683765863805,
+        -0.5603059587834371,
+        -0.894058426418775,
+        -0.5599864874177765,
+        -0.6101691398750422,
+        -1.912070009782515,
+        -0.7699189773113325,
+        -0.5931618782665922,
+        -1.7225396767106869,
+        -0.599173788035481,
+        -0.5811282961886537,
+        -1.7264476014765542,
+        -0.594063596034025,
+        -0.5695091569494863,
+        -1.7260262912221993,
+        -0.5606423103358149,
+        -0.6110832440133285,
+        -0.9573795177350908,
+        -1.0754196491901151,
+        -0.6126835875725694,
+        -0.9828240266939856,
+        -1.1067540154376037,
+        -0.642579248328226,
+        -0.9921833516547873,
+        -1.1130220477289068,
+        -0.6726520193265901,
+        -0.9798597432531575,
+        -1.1206441801095157,
+        -0.6906969169350576,
+        -0.9910173346519724,
+        -1.1278479208188563,
+        -0.6624061128413441,
+        -1.0101693331368558,
+        -1.1618711771547154,
+        -0.6887112332668677,
+        -1.0179194703141463,
+        -1.1844593405358692,
+        -0.3690801753986921,
+        -1.015361916023009,
+        -0.647007536632666,
+        -0.49871848925416273,
+        -1.0079589123288206,
+        -0.5410926575529613,
+        -0.506855062772356,
+        -1.0155717747886506,
+        -1.1511214707077542,
+        -0.33478081424237294,
+        -1.0219372108053764,
+        -0.624180522023138,
+        -0.2961763645617932,
+        -1.0139987548051832,
+        -0.6035170597935497,
+        -0.2837788345536172,
+        -1.0016233180965572,
+        -0.5981444935106286,
+        -0.5115127116295985,
+        -1.0106581269410173,
+        -1.1372763136896906,
+        -0.30132503567250524,
+        -1.0243252835117735,
+        -0.5949020979419016,
+        -0.2993843512428871,
+        -1.0070769188819313,
+        -0.6188623844193373,
+        -0.42934023656789666,
+        -0.993202881371283,
+        -0.5998991279674605,
+        -0.6988345849443556,
+        -0.9945364589136219,
+        -1.132668203560492,
+        -0.5300028068589402,
+        -1.0114655136336341,
+        -0.6426572574126609,
+        -0.48927706438658625,
+        -0.9939863168155028,
+        -0.6266148444626883,
+        -0.41161425997680334,
+        -0.9780492404820846,
+        -0.609850775587866,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "max": [
+        1.0566917171235695,
+        1.2155835965674742,
+        1.5806139195323723,
+        1.0804684271893563,
+        1.2192722213946698,
+        1.5613648256948094,
+        1.0767427361513786,
+        1.2400644014208946,
+        1.5142727283469324,
+        1.0898667850423551,
+        1.2755548281490974,
+        1.4990141711774623,
+        1.1052443446616784,
+        1.3018628350580457,
+        1.5181537502453324,
+        1.0760591997099533,
+        1.2368999045814881,
+        1.5580647954879305,
+        1.0991570218488227,
+        1.1994170193231728,
+        1.5526598430998837,
+        1.1103338422692746,
+        1.2008998944452323,
+        1.548948793607752,
+        1.1079738369346164,
+        0.9106527109905347,
+        1.5419372925224906,
+        1.0848535852389112,
+        1.188915223695112,
+        1.5596795547610598,
+        1.109480813847965,
+        0.9341339691523398,
+        1.5809893769690768,
+        1.126585716703387,
+        0.7581333894221789,
+        1.5669688506603792,
+        1.1094681221294505,
+        0.8173153117413605,
+        1.5512507695166975,
+        1.099929713330455,
+        0.9088486362515731,
+        1.5743372788597298,
+        1.1214708440221623,
+        0.9259049868632889,
+        1.601329133046404,
+        1.1058620833328463,
+        0.753536835908017,
+        1.5894810291809782,
+        1.1119751040791535,
+        0.7539798632381807,
+        1.546293581850625,
+        1.1049753311197108,
+        0.790233080140569,
+        1.592415616393899,
+        1.1190857001592387,
+        0.7845207982023865,
+        1.5857403500615526,
+        1.132212037351138,
+        0.7884405953422222,
+        1.579253218486452,
+        1.109468860996372,
+        0.8404553626011824,
+        1.5715567822753964,
+        1.134873983180034,
+        1.3569538002293298,
+        1.356808575536613,
+        1.049692188241103,
+        1.3645291863380322,
+        1.3603506181921474,
+        1.0563569635592103,
+        1.366820874006219,
+        1.3695123327343617,
+        1.0617406852421958,
+        1.3658419393964119,
+        1.3824645771287778,
+        1.0686194953456134,
+        1.3610485526763938,
+        1.3925974644024042,
+        1.0818234052233962,
+        0.975788366677131,
+        1.3164894389449946,
+        1.0687304009954879,
+        0.955608137014738,
+        1.3212727714580754,
+        1.0981289579574804,
+        0.8854321230095004,
+        1.350094703163054,
+        1.0888624621486296,
+        0.8650096876154802,
+        1.3618500156544249,
+        1.1433383041660008,
+        0.9409375727972102,
+        1.32607089735456,
+        1.0807294497673396,
+        0.8785160237481087,
+        1.3330257794820448,
+        1.0979965696005425,
+        0.9743972231162267,
+        1.3614367602854753,
+        1.0647898397423639,
+        0.9852708279223894,
+        1.005971928252027,
+        1.0457230224576861,
+        0.909381117284078,
+        1.3365522498242255,
+        1.07256619794898,
+        0.9656988362330294,
+        1.345893142957681,
+        1.062557404310681,
+        0.9738248748812273,
+        1.0275186520922492,
+        1.0509900334927362,
+        0.9177701813854924,
+        1.0104883001719394,
+        1.055223675059743,
+        0.9475166050418491,
+        1.3535244589412483,
+        1.0723236996026824,
+        0.9168186819078186,
+        1.2794225652062878,
+        1.104963635791039,
+        0.9252426279217241,
+        1.264394742502971,
+        1.0915614581861082,
+        0.8960104807606406,
+        1.1655081834702221,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "action": {
+      "min": [
+        -0.8202075583630037,
+        -1.8377858712267916,
+        -0.7839876253187299,
+        -0.7991558818206723,
+        -1.876919158867651,
+        -0.7750616946822619,
+        -0.8501147842696053,
+        -1.856454167332287,
+        -0.7714006079775491,
+        -0.833196748909077,
+        -1.8950098366633483,
+        -0.7782908032080478,
+        -0.814636385970152,
+        -1.9124263844581764,
+        -0.8282166122123401,
+        -0.8804488755407469,
+        -1.9025654831813197,
+        -0.7812932738677909,
+        -0.8439435806313513,
+        -1.9295619330501141,
+        -0.7157455125393842,
+        -0.8228166329297864,
+        -1.9433230708555405,
+        -0.6601064574209585,
+        -0.8082511003231687,
+        -1.8578199848507202,
+        -0.6709201130554912,
+        -0.794642811677754,
+        -1.9121386813203443,
+        -0.6191816131384257,
+        -0.7766869656326243,
+        -1.7346082977782107,
+        -0.6417220165955153,
+        -0.7624316108826577,
+        -1.7469013312450752,
+        -0.6492045346295159,
+        -0.6557695433867439,
+        -1.7462239652250169,
+        -0.6305052747646769,
+        -0.7913477426121727,
+        -1.9094354036676648,
+        -0.6323080849946607,
+        -0.7642957717778494,
+        -1.7298559003923426,
+        -0.6252701116032056,
+        -0.6670251321255689,
+        -1.7385795823116421,
+        -0.5585683765863805,
+        -0.5603059587834371,
+        -0.894058426418775,
+        -0.5599864874177765,
+        -0.6101691398750422,
+        -1.912070009782515,
+        -0.7699189773113325,
+        -0.5931618782665922,
+        -1.7225396767106869,
+        -0.599173788035481,
+        -0.5811282961886537,
+        -1.7264476014765542,
+        -0.594063596034025,
+        -0.5695091569494863,
+        -1.7260262912221993,
+        -0.5606423103358149,
+        -0.6110832440133285,
+        -0.9573795177350908,
+        -1.0754196491901151,
+        -0.6126835875725694,
+        -0.9828240266939856,
+        -1.1067540154376037,
+        -0.642579248328226,
+        -0.9921833516547873,
+        -1.1130220477289068,
+        -0.6726520193265901,
+        -0.9798597432531575,
+        -1.1206441801095157,
+        -0.6906969169350576,
+        -0.9910173346519724,
+        -1.1278479208188563,
+        -0.6624061128413441,
+        -1.0101693331368558,
+        -1.1618711771547154,
+        -0.6887112332668677,
+        -1.0179194703141463,
+        -1.1844593405358692,
+        -0.3690801753986921,
+        -1.015361916023009,
+        -0.647007536632666,
+        -0.49871848925416273,
+        -1.0079589123288206,
+        -0.5410926575529613,
+        -0.506855062772356,
+        -1.0155717747886506,
+        -1.1511214707077542,
+        -0.33478081424237294,
+        -1.0219372108053764,
+        -0.624180522023138,
+        -0.2961763645617932,
+        -1.0139987548051832,
+        -0.6035170597935497,
+        -0.2837788345536172,
+        -1.0016233180965572,
+        -0.5981444935106286,
+        -0.5115127116295985,
+        -1.0106581269410173,
+        -1.1372763136896906,
+        -0.30132503567250524,
+        -1.0243252835117735,
+        -0.5949020979419016,
+        -0.2993843512428871,
+        -1.0070769188819313,
+        -0.6188623844193373,
+        -0.42934023656789666,
+        -0.993202881371283,
+        -0.5998991279674605,
+        -0.6988345849443556,
+        -0.9945364589136219,
+        -1.132668203560492,
+        -0.5300028068589402,
+        -1.0114655136336341,
+        -0.6426572574126609,
+        -0.48927706438658625,
+        -0.9939863168155028,
+        -0.6266148444626883,
+        -0.41161425997680334,
+        -0.9780492404820846,
+        -0.609850775587866,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "max": [
+        1.0566917171235695,
+        1.2155835965674742,
+        1.5806139195323723,
+        1.0804684271893563,
+        1.2192722213946698,
+        1.5613648256948094,
+        1.0767427361513786,
+        1.2400644014208946,
+        1.5142727283469324,
+        1.0898667850423551,
+        1.2755548281490974,
+        1.4990141711774623,
+        1.1052443446616784,
+        1.3018628350580457,
+        1.5181537502453324,
+        1.0760591997099533,
+        1.2368999045814881,
+        1.5580647954879305,
+        1.0991570218488227,
+        1.1994170193231728,
+        1.5526598430998837,
+        1.1103338422692746,
+        1.2008998944452323,
+        1.548948793607752,
+        1.1079738369346164,
+        0.9106527109905347,
+        1.5419372925224906,
+        1.0848535852389112,
+        1.188915223695112,
+        1.5596795547610598,
+        1.109480813847965,
+        0.9341339691523398,
+        1.5809893769690768,
+        1.126585716703387,
+        0.7581333894221789,
+        1.5669688506603792,
+        1.1094681221294505,
+        0.8173153117413605,
+        1.5512507695166975,
+        1.099929713330455,
+        0.9088486362515731,
+        1.5743372788597298,
+        1.1214708440221623,
+        0.9259049868632889,
+        1.601329133046404,
+        1.1058620833328463,
+        0.753536835908017,
+        1.5894810291809782,
+        1.1119751040791535,
+        0.7539798632381807,
+        1.546293581850625,
+        1.1049753311197108,
+        0.790233080140569,
+        1.592415616393899,
+        1.1190857001592387,
+        0.7845207982023865,
+        1.5857403500615526,
+        1.132212037351138,
+        0.7884405953422222,
+        1.579253218486452,
+        1.109468860996372,
+        0.8404553626011824,
+        1.5715567822753964,
+        1.134873983180034,
+        1.3569538002293298,
+        1.356808575536613,
+        1.049692188241103,
+        1.3645291863380322,
+        1.3603506181921474,
+        1.0563569635592103,
+        1.366820874006219,
+        1.3695123327343617,
+        1.0617406852421958,
+        1.3658419393964119,
+        1.3824645771287778,
+        1.0686194953456134,
+        1.3610485526763938,
+        1.3925974644024042,
+        1.0818234052233962,
+        0.975788366677131,
+        1.3164894389449946,
+        1.0687304009954879,
+        0.955608137014738,
+        1.3212727714580754,
+        1.0981289579574804,
+        0.8854321230095004,
+        1.350094703163054,
+        1.0888624621486296,
+        0.8650096876154802,
+        1.3618500156544249,
+        1.1433383041660008,
+        0.9409375727972102,
+        1.32607089735456,
+        1.0807294497673396,
+        0.8785160237481087,
+        1.3330257794820448,
+        1.0979965696005425,
+        0.9743972231162267,
+        1.3614367602854753,
+        1.0647898397423639,
+        0.9852708279223894,
+        1.005971928252027,
+        1.0457230224576861,
+        0.909381117284078,
+        1.3365522498242255,
+        1.07256619794898,
+        0.9656988362330294,
+        1.345893142957681,
+        1.062557404310681,
+        0.9738248748812273,
+        1.0275186520922492,
+        1.0509900334927362,
+        0.9177701813854924,
+        1.0104883001719394,
+        1.055223675059743,
+        0.9475166050418491,
+        1.3535244589412483,
+        1.0723236996026824,
+        0.9168186819078186,
+        1.2794225652062878,
+        1.104963635791039,
+        0.9252426279217241,
+        1.264394742502971,
+        1.0915614581861082,
+        0.8960104807606406,
+        1.1655081834702221,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}

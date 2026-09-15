@@ -1,0 +1,54 @@
+{
+  "repository": "https://github.com/OpenGVLab/EgoVideo.git",
+  "revision": "e237b676d5da8d8220f24c80299026293adc8ae0",
+  "files": {
+    "__init__.py": {
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "patched_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "config.py": {
+      "upstream_sha256": "6aa89623cdd88e7ebff9819198229e9f73e5300c6950c07e6425060634012c3c",
+      "patched_sha256": "6aa89623cdd88e7ebff9819198229e9f73e5300c6950c07e6425060634012c3c"
+    },
+    "flash_attention_class.py": {
+      "upstream_sha256": "6716d294363f8016bd1cbcad7a566f5f66a0a932ce8dd3c32fb0992afb997e34",
+      "patched_sha256": "6716d294363f8016bd1cbcad7a566f5f66a0a932ce8dd3c32fb0992afb997e34"
+    },
+    "pos_embed.py": {
+      "upstream_sha256": "5fd626c6486535812e41fa1adfe66b5c8092f95db57fee303c130034b550491f",
+      "patched_sha256": "5fd626c6486535812e41fa1adfe66b5c8092f95db57fee303c130034b550491f"
+    },
+    "setup_model.py": {
+      "upstream_sha256": "5b8da751ad6bc1a576fa42e54c9a77d2e8250ff6656cf795cf108cf955e5cec7",
+      "patched_sha256": "786c093ad8682347a70e18591b68188f09d38709931d40630d3da9e8f03aa4d3"
+    },
+    "vision_encoder.py": {
+      "upstream_sha256": "6ed06010f11d0876d1923c9d8303e449c4da89080149ebc6b9a014cc2a579f73",
+      "patched_sha256": "59e130223df37c26b9410e9f677045f78fea5b59e8321f1f9dab11af798b1b69"
+    },
+    "bert/builder.py": {
+      "upstream_sha256": "32030b08c848c61845bed7dcb1ffec663f3d3ae11fcf43d9d37c970348d071be",
+      "patched_sha256": "32030b08c848c61845bed7dcb1ffec663f3d3ae11fcf43d9d37c970348d071be"
+    },
+    "bert/config.json": {
+      "upstream_sha256": "793eff21e8962596f53a2d3dc5628dc24a43b23512dc45f5320f5e73272af6a6",
+      "patched_sha256": "793eff21e8962596f53a2d3dc5628dc24a43b23512dc45f5320f5e73272af6a6"
+    },
+    "bert/config.py": {
+      "upstream_sha256": "18a93adbd51604dd13a5b4d885d2c259d6d4a67721fcd3cf2a77d77c3074dd6a",
+      "patched_sha256": "18a93adbd51604dd13a5b4d885d2c259d6d4a67721fcd3cf2a77d77c3074dd6a"
+    },
+    "bert/main.py": {
+      "upstream_sha256": "525b024f93b09a0787a2e334c5a4228b7d79b531bcf100eb20b908616850ab85",
+      "patched_sha256": "525b024f93b09a0787a2e334c5a4228b7d79b531bcf100eb20b908616850ab85"
+    },
+    "bert/tokenization_bert.py": {
+      "upstream_sha256": "d50c40694651787cc762ff9ffa57f154ce44fd31897a61d5ae84a98f93835c0e",
+      "patched_sha256": "f10a0f5336c6e31c69fa023e55f4a30bb23ff343e86d5b3e8d58252ef5f96bb1"
+    },
+    "bert/xbert.py": {
+      "upstream_sha256": "3a3fee90c34db19ec845ac17cc9ff1d86286c8f7e2c33b487d9b9fb5c60ded99",
+      "patched_sha256": "3a3fee90c34db19ec845ac17cc9ff1d86286c8f7e2c33b487d9b9fb5c60ded99"
+    }
+  }
+}

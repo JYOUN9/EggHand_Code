@@ -1,0 +1,78 @@
+# EggHand adaptations for OpenGVLab/EgoVideo.
+# Copyright (c) 2026 EggHand authors (modifications only).
+# Source: https://github.com/OpenGVLab/EgoVideo/tree/e237b676d5da8d8220f24c80299026293adc8ae0/backbone/model
+# Modified by the EggHand authors: feature outputs, local BERT and kernel compatibility.
+# Upstream licensing is described in docs/THIRD_PARTY.md; this patch does not relicense EgoVideo.
+
+--- a/setup_model.py
++++ b/setup_model.py
+@@ -4,0 +5 @@
++import os
+@@ -143,3 +144,3 @@
+-        use_flash_attn=True,
+-        use_fused_rmsnorm=True,
+-        use_fused_mlp=True,
++        use_flash_attn=False,
++        use_fused_rmsnorm=False,
++        use_fused_mlp=False,
+@@ -157 +158 @@
+-    text_config_json = '/mnt/petrelfs/peibaoqi/AVION/models/pbq_umt/bert/config.json'
++    text_config_json = os.path.join(os.path.dirname(__file__), 'bert', 'config.json')
+@@ -217,3 +218,3 @@
+-        x = self.visual(image)[1]
+-        if self.image_projection is not None:
+-            x = x @ self.image_projection.to(x.dtype)
++        x = self.visual(image)[0]
++        #if self.image_projection is not None:
++        #    x = x @ self.image_projection.to(x.dtype)
+@@ -223 +224,2 @@
+-        text = text.squeeze(1)
++        # [FIX] GR00T Backbone은 (B, SeqLen) 형태의 입력을 제공하므로 squeeze(1) 제거
++        # text = text.squeeze(1)
+@@ -230 +232,3 @@
+-
++        
++        # [FIX] GR00T Backbone은 전체 텍스트 시퀀스를 기대하므로,
++        #       CLS 토큰만 반환하는 대신 last_hidden_state 전체를 반환합니다.
+@@ -232 +236 @@
+-        x = x[:,0]
++        # x = x[:,0] # CLS 토큰만 사용하던 기존 로직
+@@ -239,4 +243,5 @@
+-        image_embed = self.encode_image(image)
+-        #print(image_embed.dtype)
+-        text_embed = self.encode_text(text,mask)
+-        return F.normalize(image_embed, dim=-1), F.normalize(text_embed, dim=-1)
++        image_features = self.encode_image(image)
++        text_features = self.encode_text(text,mask)
++        # [FIX] GR00T Backbone에서 각 특징을 별도로 처리하므로,
++        #       여기서 normalize를 적용하지 않고 그대로 반환합니다.
++        return image_features, text_features
+@@ -259 +264 @@
+-        msg = model.load_state_dict(new_ckpt,strict=False)
++        msg = model.load_state_dict(new_ckpt,strict=False, assign=True)
+--- a/vision_encoder.py
++++ b/vision_encoder.py
+@@ -12,13 +12 @@
+-from .flash_attention_class import FlashAttention
+-
+-
+-try:
+-    from flash_attn.modules.mlp import FusedMLP
+-except:
+-    logger.warn(f'FusedMLP of flash_attn is not installed!!!')
+-    raise NotImplementedError
+-
+-try:
+-    from flash_attn.ops.rms_norm import DropoutAddRMSNorm
+-except:
+-    logger.warn(f'DropoutAddRMSNorm of flash_attn is not installed!!!')
++
+--- a/bert/tokenization_bert.py
++++ b/bert/tokenization_bert.py
+@@ -219 +219,5 @@
+-        return dict(self.vocab, **self.added_tokens_encoder)
++        # During parent __init__, get_vocab may be called before self.vocab
++        # is initialized. Guard against that to avoid AttributeError.
++        base_vocab = getattr(self, "vocab", {})
++        added = getattr(self, "added_tokens_encoder", {})
++        return dict(base_vocab, **added)

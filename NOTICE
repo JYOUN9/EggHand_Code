@@ -1,0 +1,32 @@
+EggHand
+Copyright (c) 2026 EggHand authors.
+
+This distribution includes modified NVIDIA Isaac-GR00T source.
+Copyright (c) 2025 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+Source: https://github.com/NVIDIA/Isaac-GR00T/tree/b211007ed6698e6642d2fd7679dabab1d97e9e6c
+License: Apache-2.0 (LICENSE and licenses/Apache-2.0.txt).
+EggHand changes adapt the data loader, transforms, encoder interface, action
+projections, forecasting losses and inference. File headers identify the source
+and modifications. See docs/IMPLEMENTATION.md for the affected components.
+
+The included eagle2_hg_model processor/configuration/tokenizer files come from
+the same Isaac-GR00T revision. Original notices are retained, including:
+- Copyright 2024 The HuggingFace Inc. team. (Apache-2.0)
+- Copyright (c) 2023-2024, NVIDIA CORPORATION. All rights reserved. (Apache-2.0)
+- Copyright (c) 2025 NVIDIA (MIT, for image_processing_eagle2_5_vl_fast.py and
+  modeling_eagle2_5_vl.py; see licenses/NVIDIA-Eagle-MIT.txt).
+Non-code tokenizer/configuration assets retain their original contents.
+
+RotationTransform in gr00t/data/transform/state_action.py is adapted from
+https://github.com/real-stanford/diffusion_policy/blob/548a52bbb105518058e27bf34dcf90bf6f73681a/diffusion_policy/model/common/rotation_transformer.py
+Copyright (c) 2023 Columbia Artificial Intelligence and Robotics Lab.
+MIT license: licenses/diffusion-policy-MIT.txt.
+
+EgoVideo source is downloaded separately; its adaptation patch does not change
+upstream rights. Model weights and Ego-Exo4D data have separate terms.
+See docs/THIRD_PARTY.md.
+
+The video encoder in data_preprocessing/prepare.py is adapted from LeRobot.
+Copyright 2024 The HuggingFace Inc. team. All rights reserved.
+Source: https://github.com/huggingface/lerobot/blob/6a3d57031aab37adff8eec2e11049510654cc5bb/src/lerobot/datasets/video_utils.py
+License: Apache-2.0. EggHand selects source frames directly for the forecasting split.
