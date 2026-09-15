@@ -10,7 +10,7 @@
 [ISL Lab](https://isl.dgist.ac.kr/), DGIST · **CVPR Findings 2026**  
 <sup>*</sup> Equal contribution · <sup>†</sup> Corresponding author
 
-**[Project Page](https://jyoun9.github.io/EggHand/)** · **[arXiv](https://arxiv.org/abs/2605.07642)** · **[Paper PDF](https://openaccess.thecvf.com/content/CVPR2026F/papers/Choi_EggHand_A_Multimodal_Foundation_Model_for_Egocentric_Hand_Pose_Forecasting_CVPRF_2026_paper.pdf)**
+**[Project Page](https://jyoun9.github.io/EggHand/)** · **[arXiv](https://arxiv.org/abs/2605.07642)** · **[Paper PDF](https://openaccess.thecvf.com/content/CVPR2026F/papers/Choi_EggHand_A_Multimodal_Foundation_Model_for_Egocentric_Hand_Pose_Forecasting_CVPRF_2026_paper.pdf)** · **[Model Checkpoint](https://drive.google.com/file/d/1qZJB43FRQGn-8EkvZ_0U2_YpJrLLIWg-/view?usp=share_link)**
 
 Official implementation of EggHand. The model forecasts 3D hand motion from egocentric video, past hand poses and task text, combining an EgoVideo encoder with a GR00T action decoder.
 
