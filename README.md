@@ -47,7 +47,7 @@ python scripts/download_models.py egovideo
 
 BERT is required for both training and evaluation. GR00T and EgoVideo pretrained weights are needed for training initialization; a trained EggHand checkpoint contains their model weights. Download revisions are pinned in `configs/assets/`.
 
-`--video-root` points to the directory containing `takes/`. Each output directory must be new. The converter writes Parquet samples, RGB videos and metadata in LeRobot v2.1 format. See [data preprocessing](data_preprocessing/README.md) for input formats and encoding settings.
+`--video-root` points to the directory containing `takes/`. Each output directory must be new. The converter writes Parquet samples, RGB videos and metadata in LeRobot v2.1 format.
 
 | Split | Episodes | Samples | Frame rate |
 | --- | ---: | ---: | ---: |
